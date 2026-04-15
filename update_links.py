@@ -5,7 +5,7 @@ import os
 
 def generate_files():
     # 1. 네이버 블로그 RSS 주소
-    rss_url = "https://rss.blog.naver.com/hsc870708.xml"
+    rss_url = "https://rss.blog.naver.com/retriangle.xml"
     feed = feedparser.parse(rss_url)
 
     if not feed.entries:

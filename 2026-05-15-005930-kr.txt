@@ -16,7 +16,7 @@
   </div>
 
 <----이미지---->
-  <img src="https://raw.githubusercontent.com/hsc870708-glitch/myBlogLinks/main/2026-05-15-005930-image-1.png" alt="삼성전자 2026년 5월 15일 주가 흐름을 요약한 대표 이미지" style="width:100%;display:block;border-radius:14px;margin:0 0 22px 0;" />
+  <img src="https://raw.githubusercontent.com/hsc870708-glitch/myBlogLinks/main/2026-05-15-005930-image-1.svg" alt="삼성전자 2026년 5월 15일 주가 흐름을 요약한 대표 이미지" style="width:100%;display:block;border-radius:14px;margin:0 0 22px 0;" />
 
   <section style="margin-bottom:24px;">
     <h2 style="font-size:23px;margin:0 0 12px 0;color:#111827;border-bottom:2px solid #e5e7eb;padding-bottom:8px;">1. 오늘 이 종목이 움직인 이유</h2>
@@ -42,7 +42,7 @@
   </section>
 
 <----이미지---->
-  <img src="https://raw.githubusercontent.com/hsc870708-glitch/myBlogLinks/main/2026-05-15-005930-image-2.png" alt="삼성전자 AI 메모리 기대와 파업 리스크를 함께 보여주는 보조 이미지" style="width:100%;display:block;border-radius:14px;margin:0 0 22px 0;" />
+  <img src="https://raw.githubusercontent.com/hsc870708-glitch/myBlogLinks/main/2026-05-15-005930-image-2.svg" alt="삼성전자 AI 메모리 기대와 파업 리스크를 함께 보여주는 보조 이미지" style="width:100%;display:block;border-radius:14px;margin:0 0 22px 0;" />
 
   <section style="margin-bottom:24px;">
     <h2 style="font-size:23px;margin:0 0 12px 0;color:#111827;border-bottom:2px solid #e5e7eb;padding-bottom:8px;">3. 업종과 시장 맥락</h2>

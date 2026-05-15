@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" role="img" aria-labelledby="title desc">
+  <title id="title">SK hynix selloff summary</title>
+  <desc id="desc">Editorial infographic summarizing SK hynix's May 15 2026 pullback after a strong rally, while AI memory demand remains firm.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f3f7fd"/>
+      <stop offset="100%" stop-color="#e5eefb"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f4f8ff"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="55%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#e11d48"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#1f2937" flood-opacity="0.14"/>
+    </filter>
+  </defs>
+  <rect width="1000" height="560" fill="url(#bg)"/>
+  <circle cx="905" cy="92" r="122" fill="#dce9ff"/>
+  <circle cx="96" cy="474" r="128" fill="#e7f0ff"/>
+  <g filter="url(#shadow)">
+    <rect x="42" y="42" width="916" height="476" rx="28" fill="url(#card)"/>
+  </g>
+  <text x="86" y="108" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#31558b">SK hynix</text>
+  <text x="86" y="154" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="800" fill="#111827">Fast Reset Day</text>
+  <text x="86" y="194" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#475569">Profit-taking hit a market leader after a vertical run.</text>
+  <g transform="translate(86 236)">
+    <rect x="0" y="0" width="550" height="214" rx="24" fill="#0f172a"/>
+    <g opacity="0.18" stroke="#cbd5e1" stroke-width="1">
+      <line x1="34" y1="36" x2="518" y2="36"/>
+      <line x1="34" y1="86" x2="518" y2="86"/>
+      <line x1="34" y1="136" x2="518" y2="136"/>
+      <line x1="34" y1="186" x2="518" y2="186"/>
+      <line x1="34" y1="24" x2="34" y2="186"/>
+      <line x1="154" y1="24" x2="154" y2="186"/>
+      <line x1="274" y1="24" x2="274" y2="186"/>
+      <line x1="394" y1="24" x2="394" y2="186"/>
+      <line x1="514" y1="24" x2="514" y2="186"/>
+    </g>
+    <text x="36" y="205" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#cbd5e1">Open</text>
+    <text x="492" y="205" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#cbd5e1">Close</text>
+    <path d="M40 54 C110 48, 166 34, 214 26 S308 64, 348 96 S424 146, 510 176" fill="none" stroke="url(#line)" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="40" cy="54" r="7" fill="#7dd3fc"/>
+    <circle cx="510" cy="176" r="8" fill="#fb7185"/>
+    <text x="54" y="58" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#e2e8f0">KRW 1,970,000</text>
+    <text x="348" y="168" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#fda4af">KRW 1,819,000</text>
+    <text x="390" y="194" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#fda4af">-7.66%</text>
+  </g>
+  <g transform="translate(664 102)">
+    <rect x="0" y="0" width="228" height="104" rx="22" fill="#ffffff" stroke="#d8e3f4"/>
+    <text x="24" y="34" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#31558b">Market Mood</text>
+    <text x="24" y="68" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800" fill="#c2410c">Risk-Off</text>
+    <text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#64748b">KOSPI 7493.18 / KOSDAQ 1129.82</text>
+  </g>
+  <g transform="translate(664 228)">
+    <rect x="0" y="0" width="228" height="104" rx="22" fill="#ffffff" stroke="#d8e3f4"/>
+    <text x="24" y="34" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#31558b">Near-Term Driver</text>
+    <text x="24" y="68" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="800" fill="#111827">Foreign Selling</text>
+    <text x="24" y="90" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#64748b">Crowded semis were trimmed first.</text>
+  </g>
+  <g transform="translate(664 354)">
+    <rect x="0" y="0" width="228" height="96" rx="22" fill="#ffffff" stroke="#d8e3f4"/>
+    <text x="24" y="32" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#31558b">Bigger Picture</text>
+    <text x="24" y="62" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="800" fill="#065f46">AI Memory Strong</text>
+    <text x="24" y="84" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#64748b">Demand stays hotter than supply.</text>
+  </g>
+  <text x="86" y="492" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#475569">A sharp repricing, not a simple break in the long story.</text>
+</svg>

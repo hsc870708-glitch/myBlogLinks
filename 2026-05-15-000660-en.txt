@@ -1,0 +1,45 @@
+<div style="font-family:Arial,Helvetica,sans-serif; color:#1f2937; line-height:1.8; max-width:860px; margin:0 auto;">
+  <h1 style="font-size:32px; color:#111827; margin-bottom:12px;">SK hynix (000660): A Sharp Drop, But Not a Simple Breakdown Story</h1>
+  <p style="font-size:15px; color:#4b5563; margin:0 0 18px 0;">Reference point: May 15, 2026, using late-session Korea market data reflected just before the regular close and the day’s confirmed news flow</p>
+  <div style="background:#f3f4f6; border-left:6px solid #dc2626; padding:16px 18px; border-radius:10px; margin-bottom:20px;">
+    <p style="margin:0; font-size:16px;"><strong>Quick take:</strong> SK hynix sold off hard on Friday, but the move looked more like a violent cool-down after a very fast AI-driven rally than a clean signal that the company’s core story has broken.</p>
+  </div>
+  <p style="font-size:15px; margin:0 0 10px 0;"><strong>Cover image</strong></p>
+<----이미지---->
+  <img src="https://raw.githubusercontent.com/hsc870708-glitch/myBlogLinks/main/2026-05-15-000660-image-1.png" alt="SK hynix stock analysis cover image for May 15 2026" style="width:100%; border-radius:14px; margin:8px 0 24px 0; display:block;" />
+
+  <h2 style="font-size:24px; color:#111827; margin-top:0;">1. The Stock in One View</h2>
+  <p>Based on the KRX-linked data reflected on Naver Finance at 3:28 p.m. Korea time, SK hynix was trading at 1,837,000 won, down 133,000 won or 6.75% from the previous session. The stock opened at 1,950,000 won, reached as high as 1,995,000 won, and fell to an intraday low of 1,789,000 won. That kind of range tells us the story was not a slow fade. It was a day of abrupt position unwinding, nervous sentiment shifts, and aggressive short-term trading.</p>
+  <p>Still, the context matters more than the headline number. SK hynix has been one of the biggest beneficiaries of Korea’s AI semiconductor rally, so when the market starts locking in profits, the biggest winners often get hit first and hardest. In that sense, Friday’s move looked less like a company-specific collapse and more like a pressure release in one of the market’s most crowded winning trades.</p>
+
+  <h2 style="font-size:24px; color:#111827;">2. Why the Shares Moved So Much</h2>
+  <p>To understand SK hynix on Friday, we have to start with the broader Korean market. The KOSPI briefly pushed above the 8,000 mark for the first time ever early in the session, a symbolic milestone that amplified excitement. But once that excitement cooled, foreign selling and profit-taking accelerated, and volatility spread quickly through the market. A sell-side sidecar was triggered in KOSPI 200 futures during the session, which tells you the reversal was not just emotional but severe enough to activate market safeguards.</p>
+  <p>That environment tends to punish leadership stocks first. SK hynix sits at the center of the AI memory narrative, so it attracts a lot of fast money during rallies. The flip side is that when traders decide to reduce risk, they often sell the same names they had used as momentum leaders. That is why a strong company can fall more sharply than weaker names on a volatile day. It is not because the business suddenly got worse; it is because too many investors were already sitting on gains and wanted to protect them at the same time.</p>
+  <p>Another piece is psychology. A market that starts the day celebrating a historic index milestone can turn fragile very quickly if the move fails to hold. Once late buyers realize the breakout is fading, some rush to exit. That often creates a feedback loop: selling leads to more selling, which leads to wider intraday swings. Friday’s SK hynix chart was a textbook example of that kind of mood shift.</p>
+
+  <p style="font-size:15px; margin:16px 0 10px 0;"><strong>Supporting image</strong></p>
+<----이미지---->
+  <img src="https://raw.githubusercontent.com/hsc870708-glitch/myBlogLinks/main/2026-05-15-000660-image-2.png" alt="Supporting editorial image showing AI memory demand and market volatility for SK hynix on May 15 2026" style="width:100%; border-radius:14px; margin:8px 0 24px 0; display:block;" />
+
+  <h2 style="font-size:24px; color:#111827;">3. News Flow and Fundamental Backdrop</h2>
+  <p>What makes Friday’s decline interesting is that the news backdrop was not obviously negative. In fact, some of the day’s headlines were supportive. KB Securities raised its target price on SK hynix to 3 million won, arguing that memory prices and earnings momentum were improving faster than expected. When a stock falls on a day like that, it often means the market is digesting valuation and positioning, not tearing up the long-term thesis.</p>
+  <p>The company’s recent earnings support that reading. SK hynix reported first-quarter 2026 revenue of 52.5763 trillion won and operating profit of 37.6103 trillion won, both record figures, driven by AI-related demand and stronger sales of high value-added memory products. For global readers, that matters because it reinforces the idea that SK hynix is not just riding a generic chip cycle. It is increasingly being valued as a key supplier to the AI infrastructure build-out.</p>
+  <p>There is also still market attention on expansion plans and the potential U.S. ADR listing path. Those themes can be supportive over the medium term because they deepen the “global re-rating” argument around the stock. But in the short term, they can also make expectations run ahead of price discipline. Friday felt like one of those sessions when investors paused and asked not whether SK hynix is a good company, but whether too much optimism had been priced in too quickly.</p>
+
+  <h2 style="font-size:24px; color:#111827;">4. Sector and Market Context</h2>
+  <p>It is important not to read SK hynix in isolation. On the same Naver Finance semiconductor comparison screen, Samsung Electronics, Hanmi Semiconductor, and other chip-related names such as Lino Industrial and DB HiTek were also down sharply in late-session data. That tells us the market was reducing exposure across the semiconductor complex rather than singling out SK hynix for a unique problem.</p>
+  <p>For newer investors, this is one of the most useful lessons from the day. A strong company can still have a weak session if it sits inside a sector that has become the market’s main risk-on trade. SK hynix has effectively become one of Korea’s clearest barometers for AI enthusiasm. When that enthusiasm rises, the stock can pull the index higher. When it cools, the same stock can become a source of downside pressure for the broader market.</p>
+  <p>That is why a one-day drop should be read through two lenses at once. The first lens is fundamental: demand for HBM, server DRAM, and AI memory remains an important support. The second lens is tactical: the faster the stock rises, the more violent the temporary pullbacks can become. Friday looked like a tactical shock inside a still-constructive strategic story.</p>
+
+  <h2 style="font-size:24px; color:#111827;">5. What to Watch Next</h2>
+  <ul style="padding-left:20px; margin-top:0;">
+    <li>Whether the stock can stabilize around the 1.8 million won area after Friday’s washout.</li>
+    <li>Whether foreign flows return, because SK hynix tends to move most powerfully when overseas money comes back into Korean semiconductors.</li>
+    <li>Whether AI memory pricing, HBM demand, and data-center spending headlines remain supportive next week.</li>
+    <li>Whether the broader KOSPI regains composure after Friday’s failed push through 8,000, since index stability will matter for leadership stocks.</li>
+  </ul>
+
+  <div style="background:#eff6ff; border:1px solid #93c5fd; padding:16px 18px; border-radius:10px; margin-top:20px;">
+    <p style="margin:0;"><strong>Bottom line:</strong> Friday’s move in SK hynix looked more like a sharp reset after an overheated run than a clear rejection of the company’s AI memory narrative. The long-term story still has support, but the market is reminding investors that even great stories can become crowded, and crowded trades can correct brutally.</p>
+  </div>
+</div>

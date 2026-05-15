@@ -1,0 +1,44 @@
+<div style="font-family:'Apple SD Gothic Neo','Noto Sans KR',sans-serif; line-height:1.75; color:#1f2937; max-width:860px; margin:0 auto;">
+  <h1 style="font-size:30px; margin-bottom:10px; color:#111827;">삼성전자(005930) 오늘 리포트</h1>
+  <p style="font-size:15px; color:#4b5563; margin-top:0;">기준 시점: 2026년 5월 15일 오후 2시 KST 전후. 아직 한국 증시 정규장 마감 전이므로 아래 내용은 <strong>장중 잠정 흐름</strong> 기준 정리입니다.</p>
+
+  <div style="background:#eef6ff; border-left:6px solid #2563eb; padding:18px 20px; border-radius:10px; margin:22px 0;">
+    <p style="margin:0 0 8px; font-size:18px; font-weight:700; color:#0f172a;">한눈에 보는 종목 요약</p>
+    <p style="margin:0;">삼성전자는 오늘 장중 한때 코스피가 8,000선을 넘기는 강한 흐름이 나왔음에도, 정작 주가는 28만원대까지 밀렸습니다. 시장은 지금 삼성전자를 <strong>좋은 실적과 긴 메모리 업황 상승 사이클</strong>이라는 장기 재료보다, <strong>노사 갈등에 따른 생산 차질 우려와 최근 급등 뒤 차익실현</strong>이라는 단기 변수로 더 민감하게 보고 있습니다.</p>
+  </div>
+
+  <h2 style="font-size:24px; margin-top:34px; color:#111827; border-bottom:2px solid #dbeafe; padding-bottom:8px;">1. 오늘 주가 흐름</h2>
+  <p>Investing.com 기준 삼성전자는 오후 1시 37분 56초 시점에 27만8,000원으로 전일 종가 29만6,000원 대비 6.08% 하락했습니다. 오늘 장중 범위는 27만6,000원~29만6,500원으로 확인됩니다. 장 초반 코스피가 사상 처음으로 8,000선을 넘길 때만 해도 29만원 초반에서 버텼지만, 이후 외국인 매도와 노사 리스크 부담이 겹치며 낙폭이 커졌습니다.</p>
+  <p>뉴스웨이 보도에 따르면 오전 11시 54분 기준 주가는 28만3,250원으로 4.31% 하락했고, 장중 한때 27만8,500원까지 밀렸습니다. 즉 오늘 삼성전자의 핵심은 "지수가 강하다고 해서 대형 반도체주가 모두 강한 것은 아니었다"는 점입니다. 시장 전체는 좋았지만, 삼성전자만 놓고 보면 단기 악재가 더 크게 반영된 하루라고 볼 수 있습니다.</p>
+
+  <h2 style="font-size:24px; margin-top:34px; color:#111827; border-bottom:2px solid #dbeafe; padding-bottom:8px;">2. 오늘 이 종목이 움직인 이유</h2>
+  <div style="background:#f9fafb; border:1px solid #e5e7eb; padding:18px 20px; border-radius:10px;">
+    <p style="margin:0 0 10px;"><strong>첫째, 노사 갈등이 주가를 눌렀습니다.</strong> 최근 임금협상 사후조정이 결렬됐고, 노조는 5월 21일부터 6월 7일까지 총파업을 예고한 상태입니다. 시장은 특히 AI 메모리 핵심인 HBM과 첨단 D램 생산에 차질이 생길 수 있는지를 예민하게 보고 있습니다.</p>
+    <p style="margin:0 0 10px;"><strong>둘째, 최근 급등 뒤 차익실현이 붙었습니다.</strong> 삼성전자는 1분기 실적 서프라이즈와 메모리 가격 상승 기대를 타고 최근 단기간 크게 올랐습니다. 그런데 코스피가 8,000선을 터치한 오늘 같은 날에는 오히려 "좋은 뉴스는 이미 주가에 반영됐다"는 심리가 작동하기 쉽습니다.</p>
+    <p style="margin:0;"><strong>셋째, 시장의 시선이 '장기 실적'보다 '단기 불확실성'으로 이동했습니다.</strong> 증권가는 여전히 메모리 업황 개선을 긍정적으로 보지만, 장중 주가는 당장 눈앞의 변수인 파업 가능성과 외국인 수급 변화에 더 민감하게 반응했습니다.</p>
+  </div>
+
+  <h2 style="font-size:24px; margin-top:34px; color:#111827; border-bottom:2px solid #dbeafe; padding-bottom:8px;">3. 관련 뉴스와 공시 핵심</h2>
+  <p>공식 실적 측면에서는 4월 30일 발표한 2026년 1분기 실적이 여전히 가장 중요한 기준점입니다. 삼성전자는 1분기 연결 기준 매출 133.9조원, 영업이익 57.2조원을 기록했고, DS부문은 매출 81.7조원, 영업이익 53.7조원으로 역대 최대 분기 실적을 냈습니다. 회사는 AI용 고부가 메모리 판매 확대와 메모리 가격 상승을 핵심 배경으로 설명했습니다.</p>
+  <p>같은 날 DART 공시 목록에는 현금·현물배당결정과 잠정실적 공시가 올라와 있습니다. 반면 오늘 날짜 기준으로 확인되는 최근 공시 흐름은 5월 8일 최대주주등소유주식변동신고서, 5월 11일과 13일 임원·주요주주 특정증권 등 소유상황 보고서 중심이어서, 오늘 주가를 직접 흔든 새로운 대형 실적 공시가 나온 것은 아닙니다. 다시 말해 오늘 하락은 '새로운 실적 악화'보다 '노사 리스크와 수급 부담'의 해석이 더 강했다고 보는 편이 자연스럽습니다.</p>
+  <div style="background:#fffbeb; border-left:6px solid #f59e0b; padding:16px 18px; border-radius:10px; margin-top:18px;">
+    <p style="margin:0; font-weight:700; color:#92400e;">포인트</p>
+    <p style="margin:8px 0 0;">실적은 매우 좋았고 주주환원 정책도 유지되고 있습니다. 하지만 오늘 시장은 "좋은 펀더멘털"보다 "파업이 실제 생산에 영향을 줄까"라는 질문에 더 크게 반응했습니다.</p>
+  </div>
+
+  <h2 style="font-size:24px; margin-top:34px; color:#111827; border-bottom:2px solid #dbeafe; padding-bottom:8px;">4. 업종 및 시장 맥락</h2>
+  <p>오늘 한국 증시는 종목별 체감이 크게 갈렸습니다. 코스피는 장 초반 사상 처음으로 8,000선을 돌파했지만, 이후 외국인 매도가 커지면서 변동성이 확대됐습니다. 코스닥도 오전 10시 34분 기준 1,167.64로 전일 대비 1.97% 하락해, 지수 전체가 아주 편안한 강세장이라고 보긴 어려운 모습이었습니다.</p>
+  <p>삼성전자 입장에서는 더 미묘합니다. 코스피 8,000 돌파의 상징성은 컸지만, 정작 반도체 대형주에는 순환매와 차익실현이 나타났습니다. 특히 삼성전자는 최근 급등으로 단기 차익실현 대상이 되기 쉬웠고, 여기에 노사 갈등 변수까지 겹치며 같은 반도체 업종 안에서도 더 약한 흐름을 보였습니다.</p>
+
+  <h2 style="font-size:24px; margin-top:34px; color:#111827; border-bottom:2px solid #dbeafe; padding-bottom:8px;">5. 다음 체크포인트</h2>
+  <ul style="padding-left:20px;">
+    <li style="margin-bottom:10px;">노조 총파업 예고가 실제로 실행되는지, 그리고 생산 차질 우려가 HBM·첨단 메모리 라인까지 번지는지</li>
+    <li style="margin-bottom:10px;">외국인 매도 강도가 진정되는지. 최근 코스피 급등 과정에서 외국인 차익실현이 지수와 대형주를 함께 흔들고 있습니다.</li>
+    <li style="margin-bottom:10px;">시장 관심이 다시 1분기 실적과 메모리 업황 개선 쪽으로 돌아오는지. 장기 논리는 여전히 살아 있지만, 단기 리스크를 이겨내야 주가가 다시 힘을 받기 쉽습니다.</li>
+    <li>정규장 마감 가격이 28만원선을 지키는지. 장중 급락이 마감까지 이어지면 투자심리가 더 위축될 수 있고, 반대로 낙폭을 줄이면 "단기 과민반응" 해석이 살아날 수 있습니다.</li>
+  </ul>
+
+  <div style="margin-top:30px; padding:16px 18px; background:#f3f4f6; border-radius:10px; font-size:14px; color:#4b5563;">
+    이 글은 투자 권유가 아니라 오늘 장중 흐름을 이해하기 쉽게 정리한 해설형 리포트입니다.
+  </div>
+</div>

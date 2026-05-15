@@ -16,7 +16,7 @@
   </div>
 
 <----이미지---->
-  <img src="https://raw.githubusercontent.com/hsc870708-glitch/myBlogLinks/main/2026-05-15-005930-image-1.png" alt="Samsung Electronics stock cover image summarizing the May 15 2026 selloff" style="width:100%;display:block;border-radius:14px;margin:0 0 22px 0;" />
+  <img src="https://raw.githubusercontent.com/hsc870708-glitch/myBlogLinks/main/2026-05-15-005930-image-1.svg" alt="Samsung Electronics stock cover image summarizing the May 15 2026 selloff" style="width:100%;display:block;border-radius:14px;margin:0 0 22px 0;" />
 
   <section style="margin-bottom:24px;">
     <h2 style="font-size:23px;margin:0 0 12px 0;color:#111827;border-bottom:2px solid #e5e7eb;padding-bottom:8px;">1. What Moved the Stock Today</h2>
@@ -42,7 +42,7 @@
   </section>
 
 <----이미지---->
-  <img src="https://raw.githubusercontent.com/hsc870708-glitch/myBlogLinks/main/2026-05-15-005930-image-2.png" alt="Supporting image showing Samsung Electronics AI memory momentum and strike-related market risk" style="width:100%;display:block;border-radius:14px;margin:0 0 22px 0;" />
+  <img src="https://raw.githubusercontent.com/hsc870708-glitch/myBlogLinks/main/2026-05-15-005930-image-2.svg" alt="Supporting image showing Samsung Electronics AI memory momentum and strike-related market risk" style="width:100%;display:block;border-radius:14px;margin:0 0 22px 0;" />
 
   <section style="margin-bottom:24px;">
     <h2 style="font-size:23px;margin:0 0 12px 0;color:#111827;border-bottom:2px solid #e5e7eb;padding-bottom:8px;">3. Sector and Market Context</h2>

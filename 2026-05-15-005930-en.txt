@@ -1,0 +1,84 @@
+<div style="max-width:860px;margin:0 auto;padding:24px 20px;font-family:Arial,'Helvetica Neue',sans-serif;line-height:1.8;color:#1f2937;background:#ffffff;">
+  <div style="background:#eef6ff;border:1px solid #dbeafe;border-radius:16px;padding:22px 24px;margin-bottom:20px;">
+    <div style="font-size:13px;font-weight:700;color:#1d4ed8;margin-bottom:8px;">Samsung Electronics Closing Note | May 15, 2026</div>
+    <h1 style="font-size:30px;line-height:1.35;margin:0 0 10px 0;color:#111827;">Why Samsung Electronics Fell 8.61%: Strike Risk Hit at the Same Time as Profit-Taking, but the AI Memory Story Is Still Alive</h1>
+    <p style="margin:0;font-size:16px;color:#374151;">Samsung Electronics closed at KRW 270,500 on May 15, 2026, down 8.61% in one session. That move came right after a previous close of KRW 296,000 and an intraday high of KRW 296,500, so the market was clearly unwinding a very crowded bullish trade rather than reacting to weak operating results. 1) 2)</p>
+  </div>
+
+  <div style="background:#fff7ed;border-left:6px solid #f97316;border-radius:12px;padding:16px 18px;margin-bottom:22px;">
+    <div style="font-size:18px;font-weight:800;color:#9a3412;margin-bottom:8px;">Quick Take</div>
+    <ul style="margin:0;padding-left:20px;">
+      <li style="margin-bottom:6px;">Samsung Electronics ended the day at KRW 270,500, with an intraday range of KRW 266,000 to KRW 296,500. 1)</li>
+      <li style="margin-bottom:6px;">The broader market also cracked hard: the KOSPI fell 6.12% to 7,493.18 and the KOSDAQ dropped 5.14% to 1,129.82. 3)</li>
+      <li style="margin-bottom:6px;">A planned strike by Samsung’s South Korean labor union amplified fear just as foreigners were heavily taking profits in large-cap tech shares. 2) 3) 4)</li>
+      <li>At the same time, Samsung’s first-quarter results were exceptionally strong, and at least one major local brokerage raised its target price on the very same day. 5) 6)</li>
+    </ul>
+  </div>
+
+<----이미지---->
+  <img src="https://raw.githubusercontent.com/hsc870708-glitch/myBlogLinks/main/2026-05-15-005930-image-1.png" alt="Samsung Electronics stock cover image summarizing the May 15 2026 selloff" style="width:100%;display:block;border-radius:14px;margin:0 0 22px 0;" />
+
+  <section style="margin-bottom:24px;">
+    <h2 style="font-size:23px;margin:0 0 12px 0;color:#111827;border-bottom:2px solid #e5e7eb;padding-bottom:8px;">1. What Moved the Stock Today</h2>
+    <p style="margin:0 0 12px 0;">The easiest way to understand Samsung’s drop is to separate the trigger from the backdrop. The trigger was labor uncertainty. Reuters reported that Samsung Electronics’ South Korean union said it would stick to a planned strike starting next week even after management proposed resuming talks without conditions. Yonhap also reported that top executives visited the Pyeongtaek site and asked the union to return to talks, but the meeting only confirmed the gap between the two sides. 2) 4)</p>
+    <p style="margin:0 0 12px 0;">For the market, that matters because Samsung is not just any blue chip. It is a systemically important semiconductor name, a major KOSPI heavyweight, and a core vehicle for global investors expressing the AI memory trade in Korea. When a stock with that profile is sitting near a 52-week high, even a temporary operational uncertainty can trigger an outsized reset in positioning. That is why the move looked violent: investors were not reassessing long-term demand first, they were reducing short-term exposure. 1) 2) 3)</p>
+    <p style="margin:0;">So the price action was not saying “Samsung’s business has broken.” It was saying “the market suddenly dislikes uncertainty more than it likes the earnings story.” That distinction is important, especially for non-Korean readers trying to interpret a large one-day swing. 2) 3) 5)</p>
+  </section>
+
+  <section style="margin-bottom:24px;">
+    <h2 style="font-size:23px;margin:0 0 12px 0;color:#111827;border-bottom:2px solid #e5e7eb;padding-bottom:8px;">2. The Key News Behind the Move</h2>
+    <div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:12px;padding:16px 18px;margin-bottom:12px;">
+      <div style="font-size:18px;font-weight:800;color:#111827;margin-bottom:6px;">The strike headline landed at the worst possible moment</div>
+      <p style="margin:0;">Reuters said Samsung shares slid sharply as the union maintained its plan for a strike. Yonhap reported that the union has been preparing for an 18-day strike from May 21 to June 7. In a market already watching whether Korean equities had become overheated after a record run, that kind of headline was enough to push fast money into the exit. 2) 4)</p>
+    </div>
+    <div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:12px;padding:16px 18px;margin-bottom:12px;">
+      <div style="font-size:18px;font-weight:800;color:#111827;margin-bottom:6px;">Fundamentals, however, still look very strong</div>
+      <p style="margin:0;">Samsung’s official first-quarter 2026 results were not weak at all. The company reported consolidated revenue of KRW 133.9 trillion and operating profit of KRW 57.2 trillion, both all-time quarterly highs. The Device Solutions division posted KRW 81.7 trillion in sales and KRW 53.7 trillion in operating profit, helped by higher memory prices and strong demand for AI-oriented products. Samsung also highlighted the start of mass production and sales for HBM4 and SOCAMM2, which tells investors the company still sees itself as a meaningful player in next-generation AI memory. 5)</p>
+    </div>
+    <div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:12px;padding:16px 18px;">
+      <div style="font-size:18px;font-weight:800;color:#111827;margin-bottom:6px;">Sell-side sentiment did not collapse with the stock</div>
+      <p style="margin:0;">According to Newsis, KB Securities raised its target price for Samsung Electronics to KRW 450,000 on May 15, arguing that memory pricing in the second quarter was exceeding expectations and that supply tightness could become even more severe next year. That is a useful clue. It suggests today’s drop was mainly about risk discounting and market positioning, not a sudden downgrade in the earnings trajectory. 6)</p>
+    </div>
+  </section>
+
+<----이미지---->
+  <img src="https://raw.githubusercontent.com/hsc870708-glitch/myBlogLinks/main/2026-05-15-005930-image-2.png" alt="Supporting image showing Samsung Electronics AI memory momentum and strike-related market risk" style="width:100%;display:block;border-radius:14px;margin:0 0 22px 0;" />
+
+  <section style="margin-bottom:24px;">
+    <h2 style="font-size:23px;margin:0 0 12px 0;color:#111827;border-bottom:2px solid #e5e7eb;padding-bottom:8px;">3. Sector and Market Context</h2>
+    <p style="margin:0 0 12px 0;">Samsung’s fall did not happen in isolation. Yonhap said the KOSPI briefly broke above 8,000 for the first time ever before collapsing to 7,493.18, while foreigners dumped KRW 5.6 trillion worth of local shares and institutions sold another KRW 1.7 trillion. Analysts quoted by Yonhap said investors, especially foreigners, rushed to take profits in the same large-cap semiconductor and technology names that had powered the recent rally, including Samsung Electronics and SK hynix. 3)</p>
+    <p style="margin:0 0 12px 0;">That matters because it changes the interpretation. If only Samsung had fallen while the rest of the market remained stable, the move would have looked like a company-specific warning. But with the KOSPI and KOSDAQ both hit hard, the day looks more like a broad market de-risking event in which Samsung became one of the main pressure points. Its sheer size and index weight made it a natural source of liquidity. 1) 3)</p>
+    <p style="margin:0;">There was also a macro overlay. Yonhap pointed to lingering uncertainty around the Middle East crisis, while the Korean won weakened to around 1,500.8 per U.S. dollar at the 3:30 p.m. close. That combination of geopolitical nerves, profit-taking, and local labor risk created a very unfriendly setting for a crowded semiconductor long. 3)</p>
+  </section>
+
+  <section style="margin-bottom:24px;">
+    <h2 style="font-size:23px;margin:0 0 12px 0;color:#111827;border-bottom:2px solid #e5e7eb;padding-bottom:8px;">4. What to Watch Next</h2>
+    <div style="background:#eefbf3;border:1px solid #cdeed8;border-radius:12px;padding:16px 18px;">
+      <ul style="margin:0;padding-left:20px;">
+        <li style="margin-bottom:8px;">First, watch whether labor talks restart in a credible way. If the strike path remains unchanged, the market may continue to demand a discount for execution risk. 2) 4)</li>
+        <li style="margin-bottom:8px;">Second, keep an eye on foreign flows. When Samsung falls this sharply during a market-wide washout, stabilization usually starts with a slowdown in foreign selling. 3)</li>
+        <li style="margin-bottom:8px;">Third, watch whether AI memory optimism stays intact. Samsung’s own earnings release and KB Securities’ note both argue that the memory upcycle is still strengthening rather than fading. 5) 6)</li>
+        <li>Finally, remember the timing. With the next earnings release expected in late July, the market will spend the next several weeks balancing near-term strike headlines against medium-term earnings momentum. 1)</li>
+      </ul>
+    </div>
+  </section>
+
+  <div style="background:#f8fafc;border:1px solid #e5e7eb;border-radius:12px;padding:16px 18px;margin-bottom:22px;">
+    <strong style="display:block;margin-bottom:8px;color:#111827;">Bottom line</strong>
+    <p style="margin:0;">Samsung Electronics fell because a high-momentum stock met a bad uncertainty shock on a day when the whole Korean market was already reversing hard. The cleanest reading is not that the company’s earnings story suddenly disappeared, but that investors temporarily decided labor risk and profit-taking mattered more than AI memory optimism. The next move will likely depend on which of those two narratives fades first. 2) 3) 4) 5) 6)</p>
+  </div>
+
+  <p style="font-size:14px;color:#6b7280;margin:0 0 18px 0;">This report is not investment advice. It is an explanatory note intended to make the May 15, 2026 market action in Samsung Electronics easier to understand.</p>
+
+  <section>
+    <h2 style="font-size:20px;margin:0 0 12px 0;color:#111827;">Sources</h2>
+    <ol style="margin:0;padding-left:22px;font-size:14px;color:#4b5563;">
+      <li style="margin-bottom:8px;">Investing.com, Samsung Electronics Co Ltd 오늘의 주가 | 005930 실시간 티커, checked on 2026-05-15.</li>
+      <li style="margin-bottom:8px;">Reuters, Samsung’s South Korean union sticks to strike plan after talks offer; shares slide, 2026-05-15.</li>
+      <li style="margin-bottom:8px;">Yonhap News Agency, (2nd LD) KOSPI crashes over 6 pct on foreign sell-offs after achieving 8,000-point milestone, 2026-05-15.</li>
+      <li style="margin-bottom:8px;">연합뉴스, 삼성전자 사장단, 평택 찾아가 노조 회동…입장차만 확인(종합), 2026-05-15.</li>
+      <li style="margin-bottom:8px;">Samsung Newsroom Korea, 삼성전자, 2026년 1분기 실적 발표, 2026-04-30.</li>
+      <li>뉴시스, KB證 "AI 투자 천장 없다, 삼성전자 목표가 45만원↑", 2026-05-15.</li>
+    </ol>
+  </section>
+</div>

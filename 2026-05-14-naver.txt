@@ -1,0 +1,79 @@
+<div style="max-width:860px;margin:0 auto;padding:24px 20px;font-family:'Pretendard','Apple SD Gothic Neo','Noto Sans KR',sans-serif;line-height:1.8;color:#1f2937;background-color:#ffffff;">
+  <div style="background:#eef6ff;border:1px solid #cfe0ff;border-radius:16px;padding:22px 22px 20px 22px;margin-bottom:20px;">
+    <div style="font-size:13px;font-weight:700;color:#2563eb;margin-bottom:8px;">네이버 블로그용 한국 증시 마감 정리</div>
+    <h1 style="font-size:29px;line-height:1.38;margin:0 0 10px 0;color:#111827;">2026년 5월 14일 증시 마감, 코스피 8천선 문 앞까지 왔던 이유</h1>
+    <p style="margin:0;font-size:16px;color:#374151;">어제 한국 증시는 숫자만 보면 '코스피가 또 최고치'로 끝낼 수 있지만, 실제로는 그보다 읽을 포인트가 더 많았습니다. 외국인은 계속 팔았는데도 개인과 기관이 받아냈고, 반도체뿐 아니라 플랫폼·바이오·소비주까지 제법 폭넓게 움직이면서 시장 분위기가 꽤 살아났습니다. 1) 2)</p>
+  </div>
+
+  <div style="background:#fff7ed;border:1px solid #fed7aa;border-radius:12px;padding:16px 18px;margin-bottom:22px;">
+    <div style="font-size:18px;font-weight:800;color:#9a3412;margin-bottom:8px;">먼저 한 줄 요약</div>
+    <p style="margin:0;">코스피는 7,981.41로 1.75% 올랐고, 코스닥은 1,191.09로 1.20% 상승했습니다. 시장은 'AI와 반도체 기대'를 중심으로 강했지만, 외국인 매도와 옵션 만기 부담 때문에 장중 8천선 돌파는 다음으로 미뤄졌습니다. 1) 2)</p>
+  </div>
+
+  <section style="margin-bottom:24px;">
+    <h2 style="font-size:23px;margin:0 0 12px 0;color:#111827;">1. 어제 장, 어떻게 봐야 했을까</h2>
+    <p style="margin:0 0 12px 0;">코스피는 전일 대비 137.40포인트 오른 7,981.41, 코스닥은 14.16포인트 오른 1,191.09로 마감했습니다. 장중에는 코스피가 7,991.04까지 올라서 정말 8천선을 넘길 듯했지만, 끝까지 밀어붙이진 못했습니다. 1)</p>
+    <p style="margin:0 0 12px 0;">그런데 여기서 중요한 건 '왜 못 넘었느냐'보다 '외국인이 계속 파는데도 왜 안 밀렸느냐'입니다. 코스피에서 외국인은 2조1천674억원을 순매도했지만, 개인이 1조8천377억원을 순매수했고 기관도 1천897억원 매수 우위였습니다. 코스닥도 비슷하게 개인과 기관은 사고, 외국인은 파는 구도였습니다. 1)</p>
+    <p style="margin:0;">즉, 어제 장은 해외 자금이 시장을 끌어올린 날이 아니라 국내 자금이 '지금은 아직 주도 흐름이 살아 있다'고 판단하며 버틴 날로 보는 편이 더 자연스럽습니다. 1) 2)</p>
+  </section>
+
+  <section style="margin-bottom:24px;">
+    <h2 style="font-size:23px;margin:0 0 12px 0;color:#111827;">2. 왜 올랐나, 핵심은 두 가지였습니다</h2>
+    <div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:12px;padding:16px 18px;margin-bottom:12px;">
+      <div style="font-size:18px;font-weight:800;color:#111827;margin-bottom:6px;">첫째, 미국 기술주 강세가 한국 반도체 심리를 밀어줬습니다</div>
+      <p style="margin:0;">연합뉴스에 따르면 밤사이 미국 기술주가 강했고, 미중 정상회담을 둘러싼 기대가 위험자산 선호를 자극했습니다. 쉽게 말해 &quot;글로벌 기술주 분위기가 아직 꺾이지 않았다&quot;는 안도감이 한국 시장에도 이어진 것입니다. 2)</p>
+    </div>
+    <div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:12px;padding:16px 18px;">
+      <div style="font-size:18px;font-weight:800;color:#111827;margin-bottom:6px;">둘째, AI 이야기가 여전히 가장 강한 주도 재료였습니다</div>
+      <p style="margin:0;">삼성전자는 4.23% 오른 29만6천원에 마감했고, 장중에는 29만9천500원까지 올라 신고가를 다시 썼습니다. SK하이닉스는 장중 신고가를 경신한 뒤 0.30% 하락 마감했지만, 로이터가 이날 '시가총액 1조달러에 근접했다'고 전할 정도로 AI 수요 기대는 여전히 강합니다. 그래서 하이닉스가 하루 쉬었다고 해서 반도체 흐름이 끝났다고 보기엔 이른 장이었습니다. 1) 3)</p>
+    </div>
+  </section>
+
+  <section style="margin-bottom:24px;">
+    <h2 style="font-size:23px;margin:0 0 12px 0;color:#111827;">3. 반도체만 오른 건 아니었습니다</h2>
+    <p style="margin:0 0 12px 0;">어제 장이 생각보다 괜찮게 느껴졌던 이유는 상승이 넓게 퍼졌기 때문입니다. 업종별로는 건설이 6.20%, 오락·문화가 5.94%, 의료·정밀기기가 5.65% 오르며 강했고, 코스피 상승 종목도 649개로 하락 종목 221개를 크게 웃돌았습니다. 1)</p>
+    <p style="margin:0 0 12px 0;">대표 종목도 다양했습니다. 네이버는 배달의민족 운영사 우아한형제들 인수 가능성을 검토한다는 소식에 5.71% 올랐고, 삼양식품은 1분기 최대 실적 기대가 붙으며 11% 넘게 뛰었습니다. 코스닥에서는 알테오젠이 8.76% 올라 시총 1위를 지켰고, 에코프로비엠과 에코프로도 강했습니다. 1) 2) 4) 5)</p>
+    <p style="margin:0;">이 말은 곧, 어제 장이 단순히 삼성전자 한 종목으로 끌어올린 지수가 아니라는 뜻입니다. 시장이 강할 때 나타나는 '좋은 재료를 가진 종목들로 매수세가 번지는 모습'이 어느 정도 확인된 날이었습니다. 1) 2)</p>
+  </section>
+
+  <section style="margin-bottom:24px;">
+    <h2 style="font-size:23px;margin:0 0 12px 0;color:#111827;">4. 그런데 왜 8천선을 넘지는 못했을까</h2>
+    <div style="background:#fff1f2;border:1px solid #fecdd3;border-radius:12px;padding:16px 18px;">
+      <p style="margin:0 0 10px 0;">여기엔 두 가지가 걸렸습니다.</p>
+      <ul style="margin:0;padding-left:20px;">
+        <li style="margin-bottom:6px;">외국인 매도가 6거래일째 이어졌습니다. 지수가 오르는데 외국인이 계속 파는 장은 보통 흔들림이 함께 따라옵니다. 1) 2)</li>
+        <li style="margin-bottom:6px;">옵션 만기일 물량 부담이 상단을 눌렀습니다. 기대감만으로는 8천선 돌파를 밀어붙이기 어려웠다는 뜻입니다. 1)</li>
+        <li>원·달러 환율도 1,491.0원으로 올라 있어, 시장이 완전히 마음 편한 상태는 아니었습니다. 1) 2)</li>
+      </ul>
+    </div>
+  </section>
+
+  <section style="margin-bottom:24px;">
+    <h2 style="font-size:23px;margin:0 0 12px 0;color:#111827;">5. 오늘 장을 볼 때 이어서 체크할 부분</h2>
+    <div style="background:#ecfdf5;border:1px solid #bbf7d0;border-radius:12px;padding:16px 18px;">
+      <ul style="margin:0;padding-left:20px;">
+        <li style="margin-bottom:6px;">코스피가 8천선을 실제로 넘는지보다, 넘은 뒤에도 버티는지가 더 중요합니다. 외국인 매도가 계속되면 숫자만 찍고 밀릴 수 있습니다. 1) 2)</li>
+        <li style="margin-bottom:6px;">삼성전자 강세가 다른 반도체주로 다시 번지는지 보셔야 합니다. 하루 쉬어간 하이닉스가 다시 힘을 내면 시장은 더 탄력을 받을 수 있습니다. 1) 3)</li>
+        <li>네이버, 삼양식품처럼 개별 재료가 있는 종목으로 매수세가 계속 확산되는지도 체크 포인트입니다. 이 흐름이 이어지면 체감 장세가 더 좋아질 수 있습니다. 2) 4) 5)</li>
+      </ul>
+    </div>
+  </section>
+
+  <section style="margin-bottom:18px;">
+    <div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:12px;padding:16px 18px;">
+      <div style="font-size:17px;font-weight:800;color:#111827;margin-bottom:8px;">마무리</div>
+      <p style="margin:0;">정리하면, 2026년 5월 14일 장은 &quot;외국인이 팔아도 시장이 쉽게 안 꺾일 만큼 국내 매수 심리가 강했던 날&quot;로 볼 수 있습니다. 8천선을 눈앞에 두고 멈췄지만, 시장 내부 온도는 생각보다 꽤 뜨거웠습니다. 다만 외국인 수급과 환율이 아직 편하지 않기 때문에, 숫자만 보고 무조건 낙관하기보다는 주도주와 수급의 힘이 계속 이어지는지 확인하는 쪽이 더 중요해 보입니다. 1) 2)</p>
+    </div>
+  </section>
+
+  <section>
+    <h2 style="font-size:21px;margin:0 0 12px 0;color:#111827;">출처</h2>
+    <ol style="margin:0;padding-left:22px;font-size:14px;color:#4b5563;">
+      <li style="margin-bottom:8px;">연합뉴스, 「코스피, 또 사상최고 7,981…'8천피' 19포인트 남았다(종합)」, 2026-05-14, https://www.yna.co.kr/amp/view/AKR20260514136951008</li>
+      <li style="margin-bottom:8px;">Yonhap News Agency, “(2nd LD) KOSPI ends at new peak, just shy of historic 8,000 landmark amid U.S.-China summit,” 2026-05-14, https://en.yna.co.kr/view/AEN20260514006652320</li>
+      <li style="margin-bottom:8px;">Reuters via MarketScreener, “AI boom puts SK Hynix on cusp of $1 trillion market value,” 2026-05-14, https://uk.marketscreener.com/news/ai-boom-puts-sk-hynix-on-the-cusp-1-trillion-market-value-ce7f5bdcd08ff124</li>
+      <li style="margin-bottom:8px;">Yonhap News Agency, “Delivery Hero seeking to sell operator of food delivery platform Baemin: sources,” 2026-05-14, https://en.yna.co.kr/view/AEN20260514003500320</li>
+      <li>AJU PRESS, “Samyang Foods hits record Q1 on Buldak demand,” 2026-05-13, https://www.ajupress.com/view/20260513161631222</li>
+    </ol>
+  </section>
+</div>

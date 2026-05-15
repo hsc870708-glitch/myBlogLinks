@@ -1,0 +1,38 @@
+<div style="font-family:'Microsoft YaHei','PingFang SC',sans-serif; line-height:1.9; color:#1f2937; max-width:860px; margin:0 auto;">
+  <h1 style="font-size:30px; margin:0 0 14px; color:#111827;">SK海力士跌回181.9万韩元，为什么AI存储逻辑没坏，股价却在5月15日重挫</h1>
+  <div style="background:#eef6ff; border-left:6px solid #2563eb; padding:16px 18px; margin:18px 0 22px; border-radius:10px;">
+    <strong style="font-size:18px;">收盘速览</strong>
+    <p style="margin:10px 0 0;">2026年5月15日，SK海力士收于181.9万韩元，较前一交易日下跌7.66%。当天KOSPI收于7493.18点，KOSDAQ收于1129.82点，韩国股市在盘中突破8000点后迅速反转，最终演变成明显的风险回避行情。对SK海力士来说，这更像是市场先抛售最拥挤的半导体龙头，而不是公司基本面突然出现坏消息。1) 2) 3) 4)</p>
+  </div>
+  <----이미지---->
+  <img src="https://raw.githubusercontent.com/hsc870708-glitch/myBlogLinks/main/2026-05-15-000660-image-1.svg" alt="SK海力士 2026年5月15日 股价走势与AI存储定位的代表图" style="width:100%; border-radius:14px; margin:6px 0 22px;" />
+  <h2 style="font-size:23px; margin:26px 0 10px; color:#111827;">今天这只股票为什么会跌</h2>
+  <p style="margin:0 0 14px;">如果只看公司新闻，很多投资者会觉得今天的跌幅有些难理解，因为并没有出现足以推翻公司成长逻辑的重大利空。真正更重要的，是资金在卖什么。根据《周刊东亚》的整理，最近5个交易日外资累计净卖出SK海力士9.6892万亿韩元，而个人投资者同期净买入10.7847万亿韩元。也就是说，今天的下跌更像是外资在高位兑现利润，个人资金在低位承接，这是一种典型的“情绪急转弯”行情。1) 4)</p>
+  <p style="margin:0 0 14px;">对初学者来说，可以把今天理解成一句很简单的话：好公司也会因为涨得太快而被先卖掉。SK海力士5月13日收盘已经到197.6万韩元，距离“200万韩元关口”只差一步。当市场突然从追涨切换到降风险时，最容易被卖出的往往就是流动性最好、涨幅最大、持仓最拥挤的龙头股。今天SK海力士的表现，正是这种结构性回吐的典型例子。4)</p>
+  <h2 style="font-size:23px; margin:26px 0 10px; color:#111827;">相关消息与公司基本面</h2>
+  <p style="margin:0 0 14px;">从公司基本面看，SK海力士依然处在非常强的景气周期中。公司在4月23日公布，2026年第一季度营收为52.5763万亿韩元，营业利润为37.6103万亿韩元，双双创下季度历史新高。公司表示，AI基础设施投资持续扩张，带动HBM、高容量服务器DRAM模组和企业级SSD等高附加值产品销售增加；同时，M15X产线爬坡、龙仁园区准备以及EUV设备 확보将使今年资本开支明显增加。换句话说，公司不是在解释“需求转弱”，而是在准备“如何把供给做大”。5)</p>
+  <p style="margin:0 0 14px;">5月15日披露的季度报告解读也进一步强化了这一点。韩联社报道，SK海力士第一季度美国市场销售额占总营收的64.7%，其中来自英伟达的销售额达到7.7万亿韩元，此外还有一家销售额达到6万亿韩元级别的新大型科技客户。这说明资本市场之所以愿意给SK海力士高估值，不只是因为它是存储芯片厂商，更因为它已经深度嵌入北美AI数据中心扩张链条。6)</p>
+  <p style="margin:0 0 14px;">下一代产品路线也没有停。公司表示，HBM4E将采用1c纳米工艺，目标是在2026年下半年提供样品，并在2027年实现量产。对于投资者来说，这一点非常关键，因为市场不仅在看当前HBM3E赚钱有多快，也在看谁能把下一代HBM的领先优势延续下去。7)</p>
+  <----이미지---->
+  <img src="https://raw.githubusercontent.com/hsc870708-glitch/myBlogLinks/main/2026-05-15-000660-image-2.svg" alt="SK海力士 2026年5月15日 AI存储需求与短期波动并存的辅助说明图" style="width:100%; border-radius:14px; margin:6px 0 22px;" />
+  <h2 style="font-size:23px; margin:26px 0 10px; color:#111827;">行业与市场背景</h2>
+  <p style="margin:0 0 14px;">今天的剧烈波动还要放回韩国股市的大背景里去看。此前三星电子与SK海力士两大半导体权重股在KOSPI中的占比已经非常高，指数一旦反转，这两只股票就会同时成为被减仓的核心目标。也就是说，SK海力士不仅是“市场中的一只股票”，它本身已经成了市场情绪传导的主要通道之一。所以当KOSPI盘中突破8000点后快速跳水，龙头半导体被放大抛售并不意外。1) 4) 8)</p>
+  <p style="margin:0 0 14px;">不过，中期行业逻辑并没有明显变坏。Reuters上周的报道提到，面对AI存储供给紧张，一些全球大型科技公司甚至向SK海力士提出资助新产线或分担EUV设备成本的方案，以便提前锁定未来产能。这说明从客户角度看，真正的问题仍然是“产能不够”，而不是“需求消失”。因此，理解今天SK海力士的下跌时，最重要的是分清短期资金波动和长期需求趋势，这两件事不能混为一谈。8)</p>
+  <h2 style="font-size:23px; margin:26px 0 10px; color:#111827;">接下来要看什么</h2>
+  <p style="margin:0 0 14px;">后续可以重点观察三件事。第一，外资对韩国半导体龙头的连续卖出是否开始放缓。第二，HBM4E在下半年样品验证上的消息是否继续兑现。第三，M15X与龙仁园区相关扩产能否顺利落地，同时不伤害公司的财务纪律。如果这些关键点没有明显恶化，那么5月15日这次重挫更可能被市场记作一次高位拥挤交易的清洗，而不是公司成长逻辑的拐点。4) 5) 7) 8)</p>
+  <div style="background:#f9fafb; border:1px solid #d1d5db; padding:16px 18px; margin:24px 0 10px; border-radius:10px;">
+    <strong>说明</strong>
+    <p style="margin:8px 0 0;">本文不是投资建议，而是一篇帮助读者理解当日盘面与市场情绪的解读型报告。</p>
+  </div>
+  <h2 style="font-size:22px; margin:28px 0 10px; color:#111827;">来源</h2>
+  <ol style="padding-left:22px; margin:0;">
+    <li>KBS WORLD，《KOSPI Down 6.12% Friday》，2026-05-15。</li>
+    <li>韩联社，KOSPI 200 Closing Price List-2，2026-05-15。</li>
+    <li>Investing.com Korea，SK Hynix Inc 000660 实时行情页，2026-05-15确认。</li>
+    <li>《周刊东亚》，外资大举抛售两大半导体龙头，2026-05-15。</li>
+    <li>SK hynix Newsroom，《SK하이닉스, 2026년 1분기 경영실적 발표》，2026-04-23。</li>
+    <li>韩联社，《SK하이닉스, 1분기 엔비디아 매출 7.7조…매출 6조 빅테크 추가》，2026-05-15。</li>
+    <li>朝鲜Biz，《SK하이닉스 “HBM4E에 1c나노 적용… 하반기 샘플, 2027년 양산 목표”》，2026-04-23。</li>
+    <li>Reuters via Investing.com，《SK Hynix fields offers from tech firms to secure chip supplies》，2026-05-08。</li>
+  </ol>
+</div>

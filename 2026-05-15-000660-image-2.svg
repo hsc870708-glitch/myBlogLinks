@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" role="img" aria-labelledby="title desc">
+  <title id="title">SK hynix demand versus volatility</title>
+  <desc id="desc">Supporting infographic showing SK hynix's strong AI memory demand on one side and short-term market volatility on the other.</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f6f8fc"/>
+      <stop offset="100%" stop-color="#edf2fa"/>
+    </linearGradient>
+    <linearGradient id="leftGlow" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#0f4c81"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
+    </linearGradient>
+    <linearGradient id="rightGlow" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#7f1d1d"/>
+      <stop offset="100%" stop-color="#fb7185"/>
+    </linearGradient>
+    <filter id="shadow2" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#111827" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <rect width="1000" height="560" fill="url(#bg2)"/>
+  <g filter="url(#shadow2)">
+    <rect x="42" y="42" width="916" height="476" rx="28" fill="#ffffff"/>
+  </g>
+  <rect x="70" y="86" width="394" height="388" rx="26" fill="#0f172a"/>
+  <rect x="536" y="86" width="394" height="388" rx="26" fill="#1f2937"/>
+  <text x="98" y="126" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#bfdbfe">Demand Side</text>
+  <text x="98" y="164" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800" fill="#ffffff">AI Memory Pull</text>
+  <text x="98" y="194" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#cbd5e1">Record profits and key U.S. customers keep the long story alive.</text>
+  <g transform="translate(98 234)">
+    <rect x="0" y="0" width="126" height="126" rx="20" fill="#111c32" stroke="#3b82f6"/>
+    <rect x="24" y="24" width="78" height="18" rx="6" fill="#dbeafe"/>
+    <rect x="24" y="52" width="78" height="18" rx="6" fill="#93c5fd"/>
+    <rect x="24" y="80" width="78" height="18" rx="6" fill="#60a5fa"/>
+    <text x="156" y="36" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#e2e8f0">HBM / Server DRAM / eSSD</text>
+    <text x="156" y="68" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#cbd5e1">Q1 revenue KRW 52.6T</text>
+    <text x="156" y="98" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#cbd5e1">Operating profit KRW 37.6T</text>
+    <text x="156" y="128" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#cbd5e1">HBM4E samples targeted in H2</text>
+  </g>
+  <path d="M100 420 C180 390, 240 360, 310 316 S402 260, 438 238" fill="none" stroke="url(#leftGlow)" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="438" cy="238" r="8" fill="#93c5fd"/>
+  <text x="564" y="126" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#fecaca">Price Side</text>
+  <text x="564" y="164" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800" fill="#ffffff">Short-Term Shock</text>
+  <text x="564" y="194" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d1d5db">Foreign selling and crowded positioning drove a hard reset.</text>
+  <g transform="translate(564 234)">
+    <rect x="0" y="0" width="320" height="150" rx="20" fill="#111827"/>
+    <g opacity="0.16" stroke="#cbd5e1" stroke-width="1">
+      <line x1="24" y1="28" x2="296" y2="28"/>
+      <line x1="24" y1="70" x2="296" y2="70"/>
+      <line x1="24" y1="112" x2="296" y2="112"/>
+      <line x1="24" y1="18" x2="24" y2="126"/>
+      <line x1="92" y1="18" x2="92" y2="126"/>
+      <line x1="160" y1="18" x2="160" y2="126"/>
+      <line x1="228" y1="18" x2="228" y2="126"/>
+      <line x1="296" y1="18" x2="296" y2="126"/>
+    </g>
+    <path d="M28 34 C96 26, 146 22, 182 38 S236 86, 292 118" fill="none" stroke="url(#rightGlow)" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="292" cy="118" r="8" fill="#fb7185"/>
+    <text x="28" y="138" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#fecaca">Close KRW 1,819,000</text>
+  </g>
+  <text x="74" y="510" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#475569">The business story and the trading tape moved in different directions on the same day.</text>
+</svg>

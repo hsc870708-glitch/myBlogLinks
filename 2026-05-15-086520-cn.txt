@@ -5,7 +5,7 @@
     <p style="margin:10px 0 0;">2026年5月15日，EcoPro收于12.92万韩元，较前一交易日下跌9.21%。同一天KOSDAQ下跌5.14%，收于1129.82点，而EcoPro盘中波动区间也很大，在12.61万到14.48万韩元之间。对这只股票来说，今天的下跌更像是KOSDAQ成长股集体遭遇风险回避，而不是公司突然出现新的实质性利空。1) 2) 3)</p>
   </div>
   <----이미지---->
-  <img src="https://raw.githubusercontent.com/hsc870708-glitch/myBlogLinks/main/2026-05-15-086520-image-1.png" alt="EcoPro 2026年5月15日 急跌与电池材料盈利修复并存的代表图" style="width:100%; border-radius:14px; margin:6px 0 22px;" />
+  <img src="https://raw.githubusercontent.com/hsc870708-glitch/myBlogLinks/main/2026-05-15-086520-image-1.svg" alt="EcoPro 2026年5月15日 急跌与电池材料盈利修复并存的代表图" style="width:100%; border-radius:14px; margin:6px 0 22px;" />
   <h2 style="font-size:23px; margin:26px 0 10px; color:#111827;">今天这只股票为什么会跌</h2>
   <p style="margin:0 0 14px;">理解今天EcoPro的第一步，是先看市场，而不是先看公司。KOSDAQ一天跌掉5%以上时，很多基本面正在改善的股票也会被一起卖出。EcoPro本来就是波动性比较高的二次电池材料代表股，平时涨起来弹性大，跌的时候也更容易被放大。今天的走势，正是这种“市场先卖高波动成长股”的典型场景。1) 2) 3)</p>
   <p style="margin:0 0 14px;">很多初学者会疑惑，既然公司最近数字在变好，为什么股价反而会大跌。原因是股价从来不只反映财报，还反映仓位、流动性和当天市场最想先砍掉什么。就5月15日这一天来说，EcoPro更像是被当成高风险成长股代理一起卖掉，而不是因为市场突然否定了它最近的业绩改善。这一判断属于基于盘面和公司近况做出的推断。1) 2) 3) 4)</p>
@@ -14,7 +14,7 @@
   <p style="margin:0 0 14px;">公司把改善原因概括得很清楚：印尼GEN冶炼项目并表、金属价格上涨、下游产业恢复。尤其是氢氧化锂均价从2025年第四季度的每公斤10.3美元，上升到2026年第一季度的18.5美元，对产品售价改善形成了直接支持。对电池材料企业来说，原材料价格和产品售价之间经常存在时间差，所以一旦价格回升并逐步传导，利润弹性会比营收看起来更明显。4)</p>
   <p style="margin:0 0 14px;">子公司数据也强化了这个逻辑。EcoPro BM第一季度营收6054亿韩元，营业利润209亿韩元；EcoPro Materials营收1665亿韩元，营业利润157亿韩元。公司还提到欧洲电动车用正极材料供货增加，以及AI基础设施扩张带来的ESS需求增长。换句话说，EcoPro现在不仅押注电动车，也在试图让储能和半导体相关需求一起成为新的盈利支撑。4)</p>
   <----이미지---->
-  <img src="https://raw.githubusercontent.com/hsc870708-glitch/myBlogLinks/main/2026-05-15-086520-image-2.png" alt="EcoPro 2026年5月15日 市场抛压与锂价盈利改善预期并存的辅助图" style="width:100%; border-radius:14px; margin:6px 0 22px;" />
+  <img src="https://raw.githubusercontent.com/hsc870708-glitch/myBlogLinks/main/2026-05-15-086520-image-2.svg" alt="EcoPro 2026年5月15日 市场抛压与锂价盈利改善预期并存的辅助图" style="width:100%; border-radius:14px; margin:6px 0 22px;" />
   <h2 style="font-size:23px; margin:26px 0 10px; color:#111827;">行业与市场背景</h2>
   <p style="margin:0 0 14px;">所以，今天的下跌不能简单理解为二次电池景气重新坏掉。EcoPro明确表示，从第二季度开始，矿物价格上涨会更明显地反映到产品售价里，盈利改善速度有望进一步加快。公司还提到匈牙利正极材料工厂即将在第二季度进入量产，以及印尼项目继续推进。这些内容当然不能保证股价马上反弹，但至少说明公司经营方向还在往改善的一边走。2) 3) 4)</p>
   <h2 style="font-size:23px; margin:26px 0 10px; color:#111827;">接下来要看什么</h2>

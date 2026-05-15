@@ -16,7 +16,7 @@
   </div>
 
 <----이미지---->
-  <img src="https://raw.githubusercontent.com/hsc870708-glitch/myBlogLinks/main/2026-05-15-005930-image-1.png" alt="三星电子 2026年5月15日 股价回调概览封面图" style="width:100%;display:block;border-radius:14px;margin:0 0 22px 0;" />
+  <img src="https://raw.githubusercontent.com/hsc870708-glitch/myBlogLinks/main/2026-05-15-005930-image-1.svg" alt="三星电子 2026年5月15日 股价回调概览封面图" style="width:100%;display:block;border-radius:14px;margin:0 0 22px 0;" />
 
   <section style="margin-bottom:24px;">
     <h2 style="font-size:23px;margin:0 0 12px 0;color:#111827;border-bottom:2px solid #e5e7eb;padding-bottom:8px;">1. 今天这只股票为什么会跌</h2>
@@ -42,7 +42,7 @@
   </section>
 
 <----이미지---->
-  <img src="https://raw.githubusercontent.com/hsc870708-glitch/myBlogLinks/main/2026-05-15-005930-image-2.png" alt="三星电子 AI存储前景与罢工风险并存的辅助说明图" style="width:100%;display:block;border-radius:14px;margin:0 0 22px 0;" />
+  <img src="https://raw.githubusercontent.com/hsc870708-glitch/myBlogLinks/main/2026-05-15-005930-image-2.svg" alt="三星电子 AI存储前景与罢工风险并存的辅助说明图" style="width:100%;display:block;border-radius:14px;margin:0 0 22px 0;" />
 
   <section style="margin-bottom:24px;">
     <h2 style="font-size:23px;margin:0 0 12px 0;color:#111827;border-bottom:2px solid #e5e7eb;padding-bottom:8px;">3. 放到行业与市场里看，会更容易理解</h2>

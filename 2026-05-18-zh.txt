@@ -1,0 +1,48 @@
+<div style="font-family:'Microsoft YaHei','PingFang SC',sans-serif; color:#222; line-height:1.8; font-size:16px; max-width:860px; margin:0 auto;">
+  <h1 style="font-size:30px; line-height:1.35; margin:0 0 18px; color:#111;">2026年5月18日韩国股市收盘解读：KOSPI反弹，KOSDAQ走弱，市场到底在担心什么</h1>
+  <p style="font-size:17px; margin:0 0 14px;">5月18日的韩国股市收盘后，最值得注意的不是“指数涨了还是跌了”，而是主板和成长板块出现了明显分化。KOSPI收于7,541.48点，上涨0.64%；KOSDAQ收于1,111.20点，下跌1.65%。这说明市场并没有全面转强，而是部分权重股，尤其是半导体龙头，带动了主板修复，但成长股和中小盘的风险偏好仍然偏弱。1) 2) 3)</p>
+  <div style="background:#f5f7fb; border-left:6px solid #1f4aa8; padding:16px 18px; margin:18px 0 24px;">
+    <p style="margin:0 0 8px; font-weight:700;">收盘重点速览</p>
+    <ul style="margin:0; padding-left:20px;">
+      <li>KOSPI报7,541.48点，日涨0.64%。1)</li>
+      <li>KOSDAQ报1,111.20点，日跌1.65%。2)</li>
+      <li>市场主线是半导体大市值个股反弹，而中小型成长股仍承压。3) 4)</li>
+      <li>代表个股方面，三星电子、SK海力士走强，现代汽车、LG电子明显回调。5) 6) 7) 8)</li>
+    </ul>
+  </div>
+
+  <h2 style="font-size:24px; margin:28px 0 12px; color:#173b7a;">今天韩国股市为什么会出现这种分化</h2>
+  <p style="margin:0 0 14px;">从盘面看，KOSPI今天一度大幅下探，最低跌到7,100点附近，随后又迅速拉回，最终翻红收盘。这种走势通常意味着资金对大盘权重股出现了明显的低位承接。也就是说，前一个交易日大跌之后，部分资金开始认为一些龙头公司“跌得太快、太多”，于是选择回补。1)</p>
+  <p style="margin:0 0 14px;">但KOSDAQ没有同步修复，这一点非常关键。因为KOSDAQ里的成长股和中小盘股票，对利率和风险情绪更敏感。只要外部不确定性还在，资金通常更愿意先回到流动性好、业绩更清晰的大型公司，而不会马上全面回流到风险更高的板块。2) 3)</p>
+
+  <h2 style="font-size:24px; margin:28px 0 12px; color:#173b7a;">今天推动韩国股市波动的核心消息</h2>
+  <h3 style="font-size:20px; margin:18px 0 10px; color:#1f4aa8;">美国利率上行先压住了风险偏好</h3>
+  <p style="margin:0 0 14px;">根据Investing.com收录的Infostock Daily盘初检查，首尔市场早盘承压的重要背景，是美国国债收益率走高，以及美国大型科技股出现获利了结。对普通投资者来说，可以把它理解成一句话：当利率上升时，市场会对高估值成长股更挑剔，所以风险更高的股票通常先跌。3)</p>
+  <h3 style="font-size:20px; margin:18px 0 10px; color:#1f4aa8;">半导体龙头吸引了逢低买盘</h3>
+  <p style="margin:0 0 14px;">EBN的报道显示，当天高收益投资者的买入重点包括三星电子和SK海力士。这说明资金并没有无差别回流整个市场，而是优先回到了最具确定性的核心资产。当前韩国市场里，这类确定性最强的代表仍然是半导体龙头。4)</p>
+
+  <h2 style="font-size:24px; margin:28px 0 12px; color:#173b7a;">行业与代表个股有哪些看点</h2>
+  <p style="margin:0 0 14px;">三星电子收于282,750韩元，上涨4.62%；SK海力士收于435,000韩元，上涨1.05%。这两只权重股的稳定表现，是KOSPI能够翻红的重要原因。相比之下，现代汽车收于280,250韩元，下跌5.08%；LG电子收于217,500韩元，下跌9.56%。这说明即便主板指数上涨，市场内部也不是普遍走强，而是“少数龙头托住指数，其他板块仍在调整”。5) 6) 7) 8)</p>
+  <p style="margin:0 0 14px;">KOSDAQ方面，半导体设备股主成工程收于45,350韩元，大涨29.96%，表现十分亮眼。不过，单一强势个股并不能代表整个KOSDAQ已经回暖，因为指数本身仍然收跌。更准确的表述是，今天的KOSDAQ属于“个股选择非常重要、整体风险偏好仍弱”的市场。2) 9)</p>
+
+  <h2 style="font-size:24px; margin:28px 0 12px; color:#173b7a;">下一个交易日该重点观察什么</h2>
+  <p style="margin:0 0 14px;">第一，要看半导体是否能继续担当韩国股市的稳定器。如果三星电子和SK海力士能持续获得买盘，KOSPI可能会比市场担心的更快企稳；如果买盘只是一日反弹，那么今天更像是技术性修复，而不是趋势反转。1) 4) 5) 6)</p>
+  <p style="margin:0 0 14px;">第二，要看KOSDAQ能否止跌。主板上涨而成长板块继续下滑，通常说明市场信心并不牢固。第三，要继续关注美国利率和科技股气氛，因为今天韩国市场早盘的紧张情绪，本身就与海外利率波动密切相关。2) 3)</p>
+  <p style="margin:0 0 18px;">简单总结，5月18日的韩国股市传递出的信号是：半导体救了KOSPI，但整体风险偏好并没有完全修复。对于刚接触韩国市场的读者来说，这比单看指数涨跌更值得重视。</p>
+
+  <h2 style="font-size:24px; margin:28px 0 12px; color:#173b7a;">来源</h2>
+  <ol style="padding-left:22px; margin:0 0 18px;">
+    <li>Investing.com，KOSPI Historical Data，2026-05-18查阅</li>
+    <li>Investing.com，KOSDAQ Composite Index页面，2026-05-18查阅</li>
+    <li>Infostock Daily盘初市场检查文章，Investing.com新闻页收录，2026-05-18查阅</li>
+    <li>EBN，关于高收益投资者买入三星电子与SK海力士、减持部分二次电池与能源股的报道，Investing.com新闻页收录，2026-05-18查阅</li>
+    <li>Investing.com，三星电子股价页面，2026-05-18查阅</li>
+    <li>Investing.com，SK海力士股价页面，2026-05-18查阅</li>
+    <li>Investing.com，现代汽车股价页面，2026-05-18查阅</li>
+    <li>Investing.com，LG电子股价页面，2026-05-18查阅</li>
+    <li>Investing.com，主成工程股价页面，2026-05-18查阅</li>
+  </ol>
+  <div style="background:#fff6e5; border:1px solid #f0d28a; padding:14px 16px; margin:0 0 8px;">
+    本文不是投资建议，而是一份帮助读者理解当日盘面变化的解读型市场简报。
+  </div>
+</div>

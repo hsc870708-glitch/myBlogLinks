@@ -1,0 +1,48 @@
+<div style="font-family:Arial,'Segoe UI',sans-serif; color:#222; line-height:1.75; font-size:16px; max-width:860px; margin:0 auto;">
+  <h1 style="font-size:30px; line-height:1.35; margin:0 0 18px; color:#111;">South Korea Market Close on May 18, 2026: Why the KOSPI Rebounded While the KOSDAQ Still Slipped</h1>
+  <p style="font-size:17px; margin:0 0 14px;">South Korea’s stock market closed with a clear split on May 18. The KOSPI rose 0.64% to 7,541.48 after a violent intraday swing, while the KOSDAQ fell 1.65% to 1,111.20, showing that risk appetite did not recover evenly across the market. The early weakness was tied to higher U.S. Treasury yields and profit-taking in U.S. technology shares, but late buying in large semiconductor names helped the main board recover. 1) 2) 3)</p>
+  <div style="background:#f5f7fb; border-left:6px solid #1f4aa8; padding:16px 18px; margin:18px 0 24px;">
+    <p style="margin:0 0 8px; font-weight:700;">Quick market takeaway</p>
+    <ul style="margin:0; padding-left:20px;">
+      <li>KOSPI: 7,541.48, up 0.64% on the day 1)</li>
+      <li>KOSDAQ: 1,111.20, down 1.65% on the day 2)</li>
+      <li>Main pattern: heavyweight semiconductors rebounded, while smaller growth names stayed under pressure 3) 4)</li>
+      <li>Representative stocks: Samsung Electronics and SK hynix outperformed, while Hyundai Motor and LG Electronics lagged 5) 6) 7) 8)</li>
+    </ul>
+  </div>
+
+  <h2 style="font-size:24px; margin:28px 0 12px; color:#173b7a;">What happened in the Korean stock market today?</h2>
+  <p style="margin:0 0 14px;">The headline move in the Korean stock market was not simply “stocks went up.” The KOSPI fell sharply early, dropped toward the 7,100 area, then recovered enough to finish higher. That tells us investors were willing to buy back large caps after the previous session’s steep selloff. The KOSDAQ, however, did not follow. That matters because smaller and higher-growth names tend to be more sensitive to rates and risk sentiment. When those shares remain weak, it usually means confidence is still fragile beneath the surface. 1) 2) 3)</p>
+  <p style="margin:0 0 14px;">For international readers, this was a classic “index recovery without full market healing” session. If you only looked at the KOSPI close, the day might have seemed constructive. If you looked at the KOSDAQ and sector dispersion, the picture was much more cautious. 1) 2)</p>
+
+  <h2 style="font-size:24px; margin:28px 0 12px; color:#173b7a;">Why did the market move this way?</h2>
+  <h3 style="font-size:20px; margin:18px 0 10px; color:#1f4aa8;">Higher U.S. yields hit sentiment first</h3>
+  <p style="margin:0 0 14px;">According to an Infostock Daily market check carried on Investing.com, the early tone in Seoul was shaped by a jump in U.S. Treasury yields and profit-taking in major U.S. tech names. That backdrop tends to hurt growth-sensitive assets first. In practical terms, it means investors become less willing to hold smaller, higher-beta names until volatility cools. 3)</p>
+  <h3 style="font-size:20px; margin:18px 0 10px; color:#1f4aa8;">Dip-buying returned to semiconductor leaders</h3>
+  <p style="margin:0 0 14px;">An EBN report highlighted that high-performing investors were actively buying Samsung Electronics and SK hynix on the day. That is important because it suggests money did not return to the whole market at once. Instead, it flowed first into the companies investors still trust most when sentiment is shaky: large liquid semiconductor names with clear earnings relevance and strategic importance in the AI supply chain. 4)</p>
+
+  <h2 style="font-size:24px; margin:28px 0 12px; color:#173b7a;">Sector and stock highlights investors should notice</h2>
+  <p style="margin:0 0 14px;">Samsung Electronics closed at 282,750 won, up 4.62%, while SK hynix ended at 435,000 won, up 1.05%. Those gains were central to the KOSPI rebound. By contrast, Hyundai Motor fell 5.08% to 280,250 won and LG Electronics dropped 9.56% to 217,500 won. That gap helps explain why the market felt uneven even with the KOSPI finishing in positive territory. A few heavyweight winners lifted the index, but weakness remained visible in autos and parts of consumer electronics. 5) 6) 7) 8)</p>
+  <p style="margin:0 0 14px;">On the KOSDAQ side, Jusung Engineering surged 29.96% to 45,350 won, showing that selective strength still existed in semiconductor equipment. Even so, the broader KOSDAQ index closed lower, which means stock picking mattered much more than simply buying the market. 2) 9)</p>
+
+  <h2 style="font-size:24px; margin:28px 0 12px; color:#173b7a;">What to watch for the next trading day</h2>
+  <p style="margin:0 0 14px;">The first checkpoint is whether semiconductor leadership in South Korea continues. If Samsung Electronics and SK hynix can attract follow-through buying, the KOSPI may stabilize faster than many investors expect. If that support fades quickly, today’s rebound could look more like a technical bounce than a durable turn. 1) 4) 5) 6)</p>
+  <p style="margin:0 0 14px;">The second checkpoint is whether the KOSDAQ can stop underperforming. A market where only a few large names hold up usually remains vulnerable. The third is the overseas backdrop, especially U.S. yields and technology sentiment. Because those factors drove the early stress in Seoul, they are likely to remain the first external trigger investors watch overnight. 2) 3)</p>
+  <p style="margin:0 0 18px;">The cleanest summary of the day is this: Korea’s main board was rescued by semiconductors, but the broader risk mood still looked cautious. For newer investors, that distinction matters more than the headline index alone.</p>
+
+  <h2 style="font-size:24px; margin:28px 0 12px; color:#173b7a;">Sources</h2>
+  <ol style="padding-left:22px; margin:0 0 18px;">
+    <li>Investing.com, KOSPI Historical Data, checked on May 18, 2026</li>
+    <li>Investing.com, KOSDAQ Composite Index page, checked on May 18, 2026</li>
+    <li>Infostock Daily market check article carried on Investing.com News, checked on May 18, 2026</li>
+    <li>EBN, &quot;Top 1% investors still bet on Samsung Electronics and robot stocks while taking profits in battery and energy names,&quot; carried on Investing.com News, May 18, 2026</li>
+    <li>Investing.com, Samsung Electronics stock page, checked on May 18, 2026</li>
+    <li>Investing.com, SK hynix stock page, checked on May 18, 2026</li>
+    <li>Investing.com, Hyundai Motor stock page, checked on May 18, 2026</li>
+    <li>Investing.com, LG Electronics stock page, checked on May 18, 2026</li>
+    <li>Investing.com, Jusung Engineering stock page, checked on May 18, 2026</li>
+  </ol>
+  <div style="background:#fff6e5; border:1px solid #f0d28a; padding:14px 16px; margin:0 0 8px;">
+    This report is not investment advice. It is an explanatory market note designed to make today’s trading flow easier to understand.
+  </div>
+</div>

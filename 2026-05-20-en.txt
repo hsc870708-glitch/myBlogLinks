@@ -1,0 +1,54 @@
+<div style="font-family:Arial,'Helvetica Neue',sans-serif; color:#222; line-height:1.75; font-size:16px; max-width:860px; margin:0 auto;">
+  <h1 style="font-size:30px; line-height:1.35; margin-bottom:18px; color:#111;">KOSPI Tests 7,000 Support as Korea Stocks Struggle With Yields, FX and Chip Anxiety</h1>
+  <p style="font-size:17px; color:#444; margin-bottom:14px;">South Korea’s stock market close on Wednesday, May 20, 2026, was less about a clean rebound or a fresh selloff and more about a market that still could not regain confidence after the prior day’s shock. Because this note was prepared right after the 3:30 p.m. Korea close, some outlet-by-outlet final close wrapups were still unevenly published. The analysis below therefore relies on verified same-day reporting and KRX-cited figures that were available around the close, with the goal of explaining what the market was actually worried about. 1) 2) 3) 5)</p>
+  <div style="background:#f5f7fb; border-left:6px solid #2b5fab; padding:16px 18px; margin:18px 0 26px 0; border-radius:6px;">
+    <strong style="display:block; font-size:18px; margin-bottom:8px; color:#1f3f78;">At a Glance</strong>
+    <ul style="margin:0; padding-left:20px;">
+      <li>KOSPI had already dropped 3.25% to 7,271.66 and KOSDAQ had fallen to 1,084.36 on May 19. On May 20, KOSPI opened at 7,324.52 but soon turned lower and at one point slipped to 7,053.84 intraday. 1) 2) 7)</li>
+      <li>The main pressure points were surging U.S. yields, a tenth straight day of foreign selling, Nvidia earnings risk, and the won trading back above 1,500 per dollar. 2) 3) 5) 6)</li>
+      <li>Sector rotation mattered: chips and other growth areas stayed fragile, while defensive groups such as telecom looked relatively firmer. 2)</li>
+    </ul>
+  </div>
+
+  <h2 style="font-size:24px; margin-top:30px; margin-bottom:14px; color:#111;">Index and Market Tone</h2>
+  <p style="margin-bottom:14px;">To understand Wednesday’s close, investors first had to digest Tuesday’s damage. On May 19, KOSPI fell 3.25% to 7,271.66 while KOSDAQ lost 2.41% to 1,084.36. Foreign investors were reported to have sold more than 6.26 trillion won worth of shares on the main board, hitting semiconductors, autos and other large caps. 7) 8) That matters because Wednesday did not start from a neutral position. It started from a market already asking whether the rally had simply moved too far, too fast.</p>
+  <p style="margin-bottom:14px;">KOSPI did open higher at 7,324.52, but the rebound did not hold. It turned negative within minutes and fell as low as 7,053.84 during the session. Around 11:05 a.m., the index was still near 7,236.09, showing that the market had not truly rebuilt conviction. KOSDAQ also opened softer at 1,081.04 and remained under pressure. 1) 2) What made the session difficult was not just the decline itself, but the pattern: every recovery attempt kept meeting the same obstacles of foreign outflows, rate pressure and weaker risk appetite. For newer investors, that is the key lesson from this market. Good headlines alone are not enough when macro and flow variables are driving price action.</p>
+
+  <h2 style="font-size:24px; margin-top:30px; margin-bottom:14px; color:#111;">What Moved Korean Stocks on May 20?</h2>
+  <h3 style="font-size:20px; margin-top:16px; margin-bottom:10px; color:#1f1f1f;">Global yields and Nvidia anticipation hit the AI trade</h3>
+  <p style="margin-bottom:14px;">Reuters reported that Asian equities fell for a fourth straight day as higher yields hurt sentiment and markets waited for Nvidia’s earnings. The benchmark U.S. 10-year Treasury yield was holding near 4.6713% after a sharp rise over the previous three sessions. 3) That is important for Korea because the KOSPI rally had been heavily concentrated in AI and semiconductor names. Once yields rise quickly, investors begin questioning whether expensive growth trades can keep climbing at the same pace.</p>
+  <h3 style="font-size:20px; margin-top:16px; margin-bottom:10px; color:#1f1f1f;">Foreign selling stopped being a one-day story</h3>
+  <p style="margin-bottom:14px;">Seoul Economic Daily highlighted that foreign investors had sold a cumulative 42.0152 trillion won over nine straight sessions, with the 7,000 level emerging as a key psychological support area. 6) Tuesday’s main-board foreign selloff alone exceeded 6 trillion won. 8) When a market sees that kind of repeated foreign liquidation, investors stop viewing weakness as a simple dip and start viewing it as a broader de-risking process. That shift in interpretation is one reason the market stayed nervous even when it tried to bounce.</p>
+  <h3 style="font-size:20px; margin-top:16px; margin-bottom:10px; color:#1f1f1f;">The won above 1,500 added another layer of stress</h3>
+  <p style="margin-bottom:14px;">South Korea’s FX authorities said they were monitoring markets around the clock after the won moved back above 1,500 per dollar, according to Seoul Economic Daily. 5) A weaker currency matters because it raises the sense that foreign selling is not just hurting equities but also feeding currency instability. Even if that move does not become a structural crisis, it is enough to make equity investors more defensive in the short run.</p>
+  <h3 style="font-size:20px; margin-top:16px; margin-bottom:10px; color:#1f1f1f;">Samsung labor risk became a market issue, not just a company issue</h3>
+  <p style="margin-bottom:14px;">Reuters reported that Samsung Electronics’ union planned to go ahead with a major strike from Thursday, May 21, after talks collapsed, involving roughly 48,000 workers. 4) During the session, hopes for a deal had briefly helped Samsung shares look steadier than SK hynix. But once negotiations failed, labor risk became another overhang for the broader semiconductor trade. In Korea, Samsung is not merely a large stock. It is one of the market’s emotional anchors, so uncertainty there tends to spill into the wider index.</p>
+
+  <h2 style="font-size:24px; margin-top:30px; margin-bottom:14px; color:#111;">Sector and Stock Takeaways</h2>
+  <p style="margin-bottom:14px;">The market did not move in one uniform block. Yonhap reported that Samsung Electronics was relatively firm in the morning while SK hynix remained weaker. 2) That divergence mattered. It suggested investors were distinguishing between company-specific headlines and the broader chip cycle. Telecom, meanwhile, showed relative strength because it was treated as a defensive area in a fragile tape. That is another important clue for international readers: the day was not simply “Korea down on tech.” It was also about money rotating away from aggressive momentum into businesses that looked steadier and easier to hold through volatility.</p>
+  <p style="margin-bottom:14px;">KOSDAQ also reflected that uneven mood. There were isolated pockets of excitement, such as the debut of MachinaRocks briefly hitting the so-called “ttadouble” level early in the day, but that did not mean broad risk appetite had returned. 2) A few hot IPO headlines can coexist with a weak market, especially when liquidity is still leaving higher-beta growth stocks elsewhere.</p>
+
+  <h2 style="font-size:24px; margin-top:30px; margin-bottom:14px; color:#111;">What to Watch Next</h2>
+  <ul style="padding-left:20px; margin-bottom:14px;">
+    <li>Nvidia earnings remain the clearest near-term catalyst for whether the AI and semiconductor trade regains momentum or suffers another valuation reset. 3) 6)</li>
+    <li>The won’s behavior above 1,500 per dollar matters because currency stabilization could ease some pressure on Korean risk assets. 5)</li>
+    <li>Samsung’s labor dispute on Thursday, May 21, could affect both sentiment and how investors price operational risk across the chip complex. 4)</li>
+    <li>KOSPI’s ability to hold the 7,000 area is likely to remain the market’s simplest and most visible psychological test. 6)</li>
+  </ul>
+  <p style="margin-bottom:14px;">The cleanest way to describe Korea’s market close is that the market is still searching for a sustainable floor after an overheated run. The story is no longer just about whether stocks look cheap after a drop. It is about whether foreign selling slows, whether yields stop rising so quickly, and whether the currency settles down. Until those pieces improve together, rebounds may continue to feel tentative rather than decisive. 2) 3) 5) 6)</p>
+  <div style="background:#fff7e8; border:1px solid #f0d7a4; padding:14px 16px; border-radius:6px; margin-top:22px; color:#6a4b12;">
+    This article is not investment advice. It is an explanatory market note designed to help readers understand the trading session on May 20, 2026.
+  </div>
+
+  <h2 style="font-size:22px; margin-top:32px; margin-bottom:12px; color:#111;">Sources</h2>
+  <ol style="padding-left:20px;">
+    <li>Yonhap News Agency, <em>Seoul shares open higher despite overnight U.S. losses</em>, All News 09:03 May 20, 2026.</li>
+    <li>연합뉴스, <em>코스피, 변동성 지속… 장중 7,100선 내주기도(종합)</em>, 2026년 5월 20일 11:37 송고.</li>
+    <li>Reuters via Investing.com, <em>Asian stocks fall for 4th day as higher yields bite, all eyes on Nvidia results</em>, May 20, 2026.</li>
+    <li>Reuters via Investing.com, <em>Samsung Elec set to be hit by major strike on Thursday after talks with union collapse</em>, May 20, 2026.</li>
+    <li>Seoul Economic Daily, <em>Korea FX Authorities Vow Action as Won Tops 1,500 Per Dollar</em>, Published 2026.05.20.</li>
+    <li>Seoul Economic Daily, <em>KOSPI Nears 20-Day Moving Average as 7,000 Support Level Draws Focus</em>, Published 2026.05.20. 06:03:05.</li>
+    <li>KBS WORLD, <em>KOSPI Down 3.25% Tuesday</em>, Written 2026-05-19 15:40:40, Updated 2026-05-19 16:07:40.</li>
+    <li>Seoul Economic Daily, <em>KOSPI Falls Below 7,300 as Foreigners Dump 42 Trillion Won Over 9 Sessions</em>, Published 2026.05.19. 15:52:34.</li>
+  </ol>
+</div>

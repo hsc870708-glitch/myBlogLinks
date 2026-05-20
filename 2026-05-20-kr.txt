@@ -1,0 +1,54 @@
+<div style="font-family:'Pretendard','Apple SD Gothic Neo',sans-serif; color:#222; line-height:1.75; font-size:16px; max-width:860px; margin:0 auto;">
+  <h1 style="font-size:30px; line-height:1.35; margin-bottom:18px; color:#111;">코스피 7000선 시험대, 한국 증시 변동성 장세는 왜 길어졌나</h1>
+  <p style="font-size:17px; color:#444; margin-bottom:14px;">2026년 5월 20일 한국 증시 마감 흐름을 한 문장으로 요약하면, 반등을 시도했지만 외국인 매도와 금리·환율 부담을 완전히 이기지 못한 하루였습니다. 마감 직후 작성된 만큼 일부 매체의 최종 종가 속보 반영 시점은 엇갈렸고, 이 글은 오후 3시 30분 전후까지 확인된 연합뉴스·Yonhap·Seoul Economic Daily·Reuters 보도를 바탕으로 시장의 방향성과 투자심리를 해설형으로 정리했습니다. 1) 2) 3) 5)</p>
+  <div style="background:#f5f7fb; border-left:6px solid #2b5fab; padding:16px 18px; margin:18px 0 26px 0; border-radius:6px;">
+    <strong style="display:block; font-size:18px; margin-bottom:8px; color:#1f3f78;">한눈에 보는 마감 요약</strong>
+    <ul style="margin:0; padding-left:20px;">
+      <li>전날 코스피는 7,271.66, 코스닥은 1,084.36으로 마감했고, 20일 코스피는 7,324.52로 반등 출발했지만 곧 하락 전환해 장중 7,053.84까지 밀릴 만큼 변동성이 컸습니다. 1) 2) 7)</li>
+      <li>핵심 부담은 미국 국채금리 급등, 엔비디아 실적 대기, 외국인 10거래일 연속 매도, 원/달러 환율 1,500원 재돌파였습니다. 2) 3) 5) 6)</li>
+      <li>업종별로는 반도체와 성장주 전반이 흔들린 반면, 통신처럼 방어 성격이 강한 업종이 상대적으로 버티는 흐름이 나타났습니다. 2)</li>
+    </ul>
+  </div>
+
+  <h2 style="font-size:24px; margin-top:30px; margin-bottom:14px; color:#111;">지수 및 시장 흐름</h2>
+  <p style="margin-bottom:14px;">오늘 시장을 이해하려면 먼저 전날 충격을 기억할 필요가 있습니다. 5월 19일 코스피는 3.25% 급락해 7,271.66으로 밀렸고, 코스닥도 2.41% 하락한 1,084.36에 마감했습니다. 당시 외국인은 6조2,620억원 규모를 순매도하며 반도체·자동차·대형주 전반을 눌렀습니다. 7) 8) 이런 상태에서 20일 장은 반등 출발 자체는 나왔지만, 투자자들이 "이제 바닥인가"보다 "아직 매도 압력이 덜 끝난 것 아닌가"를 더 크게 의식한 장이었다고 보는 편이 맞습니다. 1) 2)</p>
+  <p style="margin-bottom:14px;">실제 20일 코스피는 7,324.52로 출발했지만 약 3분 만에 하락 전환했고, 장중 한때 7,053.84까지 밀렸습니다. 오전 11시 5분 기준으로도 7,236.09 수준이었습니다. 코스닥 역시 1,081.04로 출발한 뒤 약세를 이어갔습니다. 중요한 점은 단순히 지수가 내렸다는 사실보다, 반등 시도가 나와도 외국인 매도와 금리 부담이 재차 눌러버리는 패턴이 반복됐다는 점입니다. 이런 장은 초보 투자자 입장에서는 "왜 반등이 나와도 오래 못 가는지"가 가장 헷갈리는데, 지금은 좋은 뉴스 하나보다 수급과 금리 같은 큰 축이 훨씬 더 강하게 작동하는 구간이라고 보시면 이해가 쉽습니다. 1) 2) 3)</p>
+
+  <h2 style="font-size:24px; margin-top:30px; margin-bottom:14px; color:#111;">오늘 시장을 움직인 핵심 이슈</h2>
+  <h3 style="font-size:20px; margin-top:16px; margin-bottom:10px; color:#1f1f1f;">1. 미국 금리와 엔비디아 실적 대기가 위험자산 선호를 꺾었습니다</h3>
+  <p style="margin-bottom:14px;">Reuters는 20일 아시아 증시가 나흘째 약세를 보였고, 투자자들이 엔비디아 실적 발표를 기다리는 가운데 미국 10년물 국채금리가 최근 3거래일 동안 21bp 급등한 4.6713% 수준에 머물렀다고 전했습니다. 쉽게 말하면, AI 기대감만으로 계속 올라가던 주식시장에 "금리가 이렇게 오르면 주식 할인율이 다시 부담된다"는 현실이 덮친 것입니다. 최근 한국 증시 랠리를 끌어온 주체가 반도체와 AI 기대였던 만큼, 엔비디아 실적 발표를 앞둔 경계심은 코스피의 가장 중요한 단기 변수로 작용했습니다. 3)</p>
+  <h3 style="font-size:20px; margin-top:16px; margin-bottom:10px; color:#1f1f1f;">2. 외국인 매도가 단순 하루짜리 조정이 아니라는 경계가 더 커졌습니다</h3>
+  <p style="margin-bottom:14px;">Seoul Economic Daily는 외국인이 9거래일 동안 누적으로 42조152억원을 순매도했고, 코스피 20일선과 7,000선이 심리적 지지선으로 부각되고 있다고 짚었습니다. 19일 급락 때도 외국인은 6조원 넘게 팔았습니다. 이 수치는 시장이 단순히 "살짝 쉬어가는 조정"으로 보기 어렵게 만드는 대목입니다. 외국인 매도가 길어질수록 개인은 싸다고 느껴도, 시장 전체는 더 오래 흔들릴 수 있습니다. 즉 지금 장은 가격보다도 수급의 방향성이 더 중요하다는 뜻입니다. 6) 8)</p>
+  <h3 style="font-size:20px; margin-top:16px; margin-bottom:10px; color:#1f1f1f;">3. 원/달러 환율 1,500원 재돌파가 심리를 더 얼어붙게 했습니다</h3>
+  <p style="margin-bottom:14px;">환율은 주식 초보자에게 멀게 느껴지지만, 오늘 같은 날에는 아주 직접적인 악재입니다. 서울경제는 외환당국이 원/달러 환율이 다시 1,500원을 웃돌자 24시간 점검과 필요 시 대응을 언급했다고 보도했습니다. 환율이 오르면 외국인 입장에서는 한국 자산의 환차손 우려가 커지고, 국내 투자자 입장에서는 외국인 매도와 원화 약세가 동시에 겹친다는 불안이 커집니다. 그래서 오늘 장은 단순한 주가 조정보다 "한국 자산 전반의 가격이 동시에 흔들리는 구간인가"를 확인하는 성격이 강했습니다. 5)</p>
+  <h3 style="font-size:20px; margin-top:16px; margin-bottom:10px; color:#1f1f1f;">4. 삼성전자 노사 협상 결렬은 반도체 심리에 추가 부담이 됐습니다</h3>
+  <p style="margin-bottom:14px;">Reuters는 삼성전자 노조가 성과급 협상 결렬 뒤 5월 21일부터 약 4만8천명 규모 파업에 들어갈 계획이라고 전했습니다. 장중에는 협상 타결 기대가 삼성전자 낙폭을 다소 줄이는 재료가 됐지만, 최종적으로는 "메모리 슈퍼사이클 기대를 누가 얼마나 안정적으로 실적으로 연결하느냐"라는 질문에 다시 불확실성이 붙은 셈입니다. 한국 증시에서 삼성전자는 단일 종목을 넘어 시장 심리의 중심축이기 때문에, 이 이슈는 개별 기업 뉴스 이상으로 받아들여질 필요가 있습니다. 2) 4)</p>
+
+  <h2 style="font-size:24px; margin-top:30px; margin-bottom:14px; color:#111;">업종 및 대표 종목 포인트</h2>
+  <p style="margin-bottom:14px;">대표주 안에서는 미묘한 온도차도 있었습니다. 연합뉴스에 따르면 오전 기준 삼성전자는 강보합권을 보였지만 SK하이닉스는 약세였습니다. 이는 시장이 반도체 업종 전체를 한 방향으로 보기보다, 삼성전자에는 협상 기대와 파업 우려를 함께 반영하고, SK하이닉스에는 고점 부담과 엔비디아 실적 경계심을 더 직접적으로 반영한 결과로 읽힙니다. 같은 반도체라도 "무조건 같이 간다"보다 어떤 이슈가 더 직접 연결되는지 구분해서 봐야 하는 장입니다. 2) 4)</p>
+  <p style="margin-bottom:14px;">반대로 통신 업종은 경기방어 성격이 부각되며 상대 강세를 보였습니다. 시장이 불안할수록 투자자들은 성장 기대보다 당장 실적 가시성과 변동성 방어력을 찾게 됩니다. 그래서 오늘의 업종 흐름은 단순히 "무슨 섹터가 올랐나"보다 "돈이 공격형에서 방어형으로 옮겨가고 있나"를 보여주는 신호에 더 가깝습니다. 코스닥에서는 마키나락스가 상장 첫날 장 초반 따따블을 기록하는 등 개별 이벤트는 있었지만, 시장 전체의 위험선호가 살아났다고 보기는 어려웠습니다. 2)</p>
+
+  <h2 style="font-size:24px; margin-top:30px; margin-bottom:14px; color:#111;">내일 체크포인트</h2>
+  <ul style="padding-left:20px; margin-bottom:14px;">
+    <li>엔비디아 실적이 AI 랠리 재점화 재료가 될지, 아니면 눈높이 부담만 확인시키는 이벤트가 될지 봐야 합니다. 3) 6)</li>
+    <li>원/달러 환율이 1,500원 위에서 더 흔들리는지, 외환당국 메시지가 실제 심리 안정에 도움이 되는지 확인이 필요합니다. 5)</li>
+    <li>삼성전자 노조 파업이 계획대로 5월 21일 시작되는지, 혹은 추가 협상 여지가 살아나는지에 따라 반도체 대형주 분위기가 달라질 수 있습니다. 4)</li>
+    <li>코스피 7,000선이 심리적 지지선 역할을 하는지 여부가 단기 투자심리의 핵심 분기점이 될 가능성이 큽니다. 6)</li>
+  </ul>
+  <p style="margin-bottom:14px;">정리하면, 오늘 한국 증시는 단기 급등 뒤 숨고르기라는 말만으로는 부족한 장이었습니다. 금리, 환율, 외국인 수급, 반도체 핵심 이벤트가 한꺼번에 겹치면서 시장이 스스로 적정 속도를 다시 찾는 과정에 들어간 모습입니다. 그래서 내일 시장을 볼 때는 단순히 반등하느냐 하락하느냐보다, 반등이 나오더라도 외국인 매도가 줄고 환율이 안정되는지까지 함께 확인하시는 편이 훨씬 중요합니다. 2) 3) 5) 6)</p>
+  <div style="background:#fff7e8; border:1px solid #f0d7a4; padding:14px 16px; border-radius:6px; margin-top:22px; color:#6a4b12;">
+    이 글은 투자 권유가 아니라 2026년 5월 20일 장중과 마감 전후 흐름을 이해하기 쉽게 정리한 해설형 리포트입니다.
+  </div>
+
+  <h2 style="font-size:22px; margin-top:32px; margin-bottom:12px; color:#111;">출처</h2>
+  <ol style="padding-left:20px;">
+    <li>Yonhap News Agency, <em>Seoul shares open higher despite overnight U.S. losses</em>, All News 09:03 May 20, 2026.</li>
+    <li>연합뉴스, <em>코스피, 변동성 지속… 장중 7,100선 내주기도(종합)</em>, 2026년 5월 20일 11:37 송고.</li>
+    <li>Reuters via Investing.com, <em>Asian stocks fall for 4th day as higher yields bite, all eyes on Nvidia results</em>, May 20, 2026.</li>
+    <li>Reuters via Investing.com, <em>Samsung Elec set to be hit by major strike on Thursday after talks with union collapse</em>, May 20, 2026.</li>
+    <li>Seoul Economic Daily, <em>Korea FX Authorities Vow Action as Won Tops 1,500 Per Dollar</em>, Published 2026.05.20.</li>
+    <li>Seoul Economic Daily, <em>KOSPI Nears 20-Day Moving Average as 7,000 Support Level Draws Focus</em>, Published 2026.05.20. 06:03:05.</li>
+    <li>KBS WORLD, <em>KOSPI Down 3.25% Tuesday</em>, Written 2026-05-19 15:40:40, Updated 2026-05-19 16:07:40.</li>
+    <li>Seoul Economic Daily, <em>KOSPI Falls Below 7,300 as Foreigners Dump 42 Trillion Won Over 9 Sessions</em>, Published 2026.05.19. 15:52:34.</li>
+  </ol>
+</div>

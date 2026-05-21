@@ -1,0 +1,52 @@
+<div style="font-family:'Microsoft YaHei','PingFang SC',sans-serif; line-height:1.8; color:#222; max-width:860px; margin:0 auto;">
+  <h1 style="font-size:30px; margin:0 0 18px; color:#111;">5月21日韩国股市收盘解读：英伟达业绩提振AI情绪，三星罢工风险降温，韩股强势反弹</h1>
+  <p style="font-size:16px; margin:0 0 14px;">2026年5月21日星期四是韩国交易所正常交易日，收盘后看，KOSPI和KOSDAQ都走出了明显的反弹行情。今天最值得把握的重点，并不只是指数上涨，而是压制市场的几项核心担忧在同一天出现缓和：AI景气预期回暖、三星电子劳资冲突降温、油价与美国国债收益率压力暂时减轻。1) 4) 5)</p>
+  <p style="font-size:16px; margin:0 0 18px;">对不熟悉韩国市场的读者来说，可以把今天理解成一次“风险情绪快速修复”的交易日。此前韩股的波动，很大程度上来自三星潜在罢工、美国利率上行、能源价格不稳等因素。到了5月21日，市场突然发现这些压力同时缓了一口气，于是资金快速回流到半导体和大型权重股。4) 5) 6)</p>
+
+  <div style="background:#f4f7fb; border-left:6px solid #2f6fed; padding:16px 18px; margin:0 0 24px;">
+    <strong style="display:block; font-size:18px; margin-bottom:8px;">收盘速览</strong>
+    <p style="margin:0 0 8px;">KOSPI盘中最高触及7,819.23，最低为7,486.37。资金面上，外资净买入1,087亿韩元，机构净买入2.4619万亿韩元，散户净卖出2.5710万亿韩元，说明今天的上涨并不是散户追高，而是机构承接了大量获利回吐筹码。2)</p>
+    <p style="margin:0;">KOSDAQ盘中高点为1,115.66，低点为1,085.30。外资与机构同样录得净买入，二级电池、机器人和部分成长股表现活跃，市场情绪明显改善。3)</p>
+  </div>
+
+  <h2 style="font-size:24px; margin:28px 0 12px; color:#111;">指数与市场结构：今天为什么弹得这么猛</h2>
+  <p style="font-size:16px; margin:0 0 14px;">先看KOSPI的上涨质量。当天上涨家数为678家，下跌家数只有213家，这说明并不是只有三星电子等少数巨头在拉指数，而是市场整体风险偏好都在回暖。更重要的是，机构净买入超过2万亿韩元，这种级别的资金回流，通常会被市场视为情绪修复已经从“嘴上乐观”转向“真金白银进场”。2)</p>
+  <p style="font-size:16px; margin:0 0 14px;">KOSDAQ也呈现类似特征，上涨家数达到1,066家，下跌571家。不过KOSDAQ的反弹和KOSPI略有不同。KOSPI更像是半导体和大型蓝筹带动的修复，KOSDAQ则更像风险 appetite 重新打开后，资金往高弹性板块扩散。因此今天的韩股，并不是单纯的“权重股救指数”，而是主板先带头，成长板块随后接力。3)</p>
+
+  <h2 style="font-size:24px; margin:28px 0 12px; color:#111;">今天市场的三大驱动因素</h2>
+  <h3 style="font-size:20px; margin:18px 0 10px; color:#222;">1. 英伟达业绩重新点燃AI交易逻辑</h3>
+  <p style="font-size:16px; margin:0 0 14px;">路透报道称，英伟达业绩好于预期，带动亚洲市场重新买入芯片股。对韩国市场来说，这一点尤其关键，因为半导体不是普通板块，而是KOSPI盈利故事的核心，也是外资配置韩股时最看重的方向之一。换句话说，只要英伟达让市场相信AI需求还没有熄火，韩国半导体股通常就会最快得到提振。5)</p>
+  <h3 style="font-size:20px; margin:18px 0 10px; color:#222;">2. 三星电子罢工风险明显降温</h3>
+  <p style="font-size:16px; margin:0 0 14px;">今天的另一个关键催化剂，是三星电子与工会达成了暂定薪资协议。路透消息显示，原本计划中的罢工已被暂缓，这意味着全球存储芯片供应链面临的扰动风险暂时下降。对于韩国股市而言，这不仅仅是三星一家公司的消息，而是整个指数风险溢价下降的信号。三星在KOSPI中的权重极大，一旦它的劳资风险缓和，市场会立刻重新给韩股定价。5) 6)</p>
+  <h3 style="font-size:20px; margin:18px 0 10px; color:#222;">3. 油价与利率压力暂时缓和</h3>
+  <p style="font-size:16px; margin:0 0 14px;">韩国媒体指出，今天盘初急涨还与油价回落、美国国债收益率趋稳有关。同时，特朗普关于与伊朗谈判进入最后阶段的发言，也让市场对地缘风险的担忧有所降温。股市很多时候不是因为“世界变得特别好”才上涨，而是因为“最坏的想象暂时没继续恶化”。今天首尔市场的情绪修复，正是这种逻辑。4) 5)</p>
+
+  <h2 style="font-size:24px; margin:28px 0 12px; color:#111;">板块与代表个股：市场到底在买什么</h2>
+  <p style="font-size:16px; margin:0 0 14px;">权重股表现非常能说明问题。三星电子收于298,500韩元，上涨8.15%；SK海力士收于1,948,000韩元，大涨11.63%；SK Square上涨13.99%；现代汽车上涨12.67%。这意味着今天市场并不是只追逐单一AI故事，而是在半导体带头后，重新接受韩国大型蓝筹和周期股。2)</p>
+  <p style="font-size:16px; margin:0 0 14px;">KOSDAQ方面，Ecopro BM上涨9.79%，Ecopro上涨9.10%，Rainbow Robotics大涨16.77%，而Alteogen反而下跌2.09%。这个分化很有意思，它说明资金虽然回到了成长股，但并不是无差别扫货，而是更偏好有明确题材和高弹性的方向，比如机器人、电池链和电子硬件，而对部分生物医药龙头仍然保持选择性。3)</p>
+
+  <h2 style="font-size:24px; margin:28px 0 12px; color:#111;">下一个交易日要看什么</h2>
+  <ul style="font-size:16px; margin:0 0 18px; padding-left:20px;">
+    <li style="margin-bottom:8px;">第一，看外资净买入能否延续。今天KOSPI上外资确实转为净买入，但力度仍明显弱于机构，所以后续是否跟进很重要。2)</li>
+    <li style="margin-bottom:8px;">第二，看三星劳资协议后续是否顺利推进。如果暂定协议在表决或执行阶段再出波折，今天的“安心反弹”就有被部分回吐的风险。6)</li>
+    <li style="margin-bottom:8px;">第三，看英伟达业绩能否继续支撑韩国半导体的盈利预期，还是会很快被市场理解成“利好兑现”。5)</li>
+    <li>第四，看油价与美债收益率是否继续稳定。今天韩股之所以弹得这么顺，是因为公司层面的利好和宏观层面的缓和同时出现，一旦其中任意一个重新恶化，波动率就可能再次放大。4) 5)</li>
+  </ul>
+
+  <div style="background:#fff7e8; border:1px solid #f0d8a8; padding:16px 18px; margin:0 0 24px;">
+    <strong style="display:block; margin-bottom:8px;">一句话总结</strong>
+    <p style="margin:0;">5月21日的韩国股市，可以概括为一次“英伟达提振AI预期、三星缓解罢工风险、宏观压力暂时减轻”共同推动的强势修复行情。指数大涨当然重要，但更重要的是，市场重新愿意拥抱风险资产了。接下来真正要看的，不是今天涨了多少，而是这股修复情绪能不能持续到下一个交易日。2) 3) 4) 5) 6)</p>
+  </div>
+
+  <p style="font-size:15px; color:#555; margin:0 0 24px;">本文不构成任何投资建议，而是一篇帮助读者理解当日盘面与市场情绪的解释型收盘报告。</p>
+
+  <h2 style="font-size:22px; margin:24px 0 12px; color:#111;">来源</h2>
+  <ol style="font-size:15px; padding-left:20px; margin:0;">
+    <li style="margin-bottom:8px;">CalendarLabs, 2026 KRX Market Holidays - CalendarLabs，查询日期 2026-05-21。</li>
+    <li style="margin-bottom:8px;">韩国经济新闻，코스피 | 한국경제，查询日期 2026-05-21。</li>
+    <li style="margin-bottom:8px;">韩国经济新闻，코스닥 | 한국경제，查询日期 2026-05-21。</li>
+    <li style="margin-bottom:8px;">韩国经济新闻，삼전닉스·엔비디아 겹호재 터졌다…맘고생 개미들 '환호' [종합]，2026-05-21。</li>
+    <li style="margin-bottom:8px;">Reuters via Investing.com, Shares rally on Nvidia earnings, Samsung strike suspension，2026-05-21。</li>
+    <li>Reuters via StreetInsider, Samsung Electronics' shares jump after tentative wage deal suspends strike，2026-05-21。</li>
+  </ol>
+</div>

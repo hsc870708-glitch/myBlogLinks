@@ -1,0 +1,57 @@
+<div style="font-family:'Apple SD Gothic Neo','Malgun Gothic',sans-serif; line-height:1.8; color:#222; max-width:860px; margin:0 auto;">
+  <h1 style="font-size:31px; margin:0 0 18px; color:#111;">한국 증시 급반등, 엔비디아와 삼성전자 이슈가 동시에 터진 날 | 오늘 시장에서 꼭 읽어야 할 신호</h1>
+  <p style="font-size:16px; margin:0 0 14px;">오늘 한국 증시는 그냥 “많이 올랐다”로 끝내기엔 아까운 장이었습니다. 2026년 5월 21일은 한국거래소 정상 거래일이었고, 코스피와 코스닥은 모두 강한 반등으로 하루를 마쳤습니다.1) 그런데 오늘 장의 진짜 포인트는 숫자보다 분위기였습니다. 시장을 눌러왔던 불안이 한 번에 몇 개나 약해졌고, 그 틈으로 돈이 아주 빠르게 대형주와 성장주 쪽으로 다시 몰렸습니다.4) 5)</p>
+  <p style="font-size:16px; margin:0 0 20px;">초보 투자자 기준으로 쉽게 말하면 이렇습니다. 어제까지만 해도 시장은 “혹시 더 빠지는 것 아닌가”를 걱정했는데, 오늘은 “생각보다 최악은 아닐 수 있겠다”는 쪽으로 생각이 확 돌아섰습니다. 주식시장은 늘 좋은 뉴스 때문에만 오르는 것이 아니라, 무서운 뉴스가 덜 무서워질 때도 세게 반등합니다. 오늘이 바로 그런 날이었습니다.4) 5) 6)</p>
+
+  <div style="background:#f7f9fc; border:1px solid #d8e3f2; padding:18px; margin:0 0 24px; border-radius:6px;">
+    <strong style="display:block; font-size:18px; margin-bottom:10px; color:#123;">오늘 장, 30초 요약</strong>
+    <ul style="margin:0; padding-left:20px; font-size:16px;">
+      <li style="margin-bottom:8px;">코스피는 장중 7,819.23까지 오르고 저점도 7,486.37에서 지켜내며 강한 반등 흐름을 보였습니다.2)</li>
+      <li style="margin-bottom:8px;">외국인 1,087억원, 기관 2조4,619억원 순매수로 수급이 개선됐고, 개인은 2조5,710억원 순매도로 차익실현에 나섰습니다.2)</li>
+      <li style="margin-bottom:8px;">코스닥도 외국인과 기관이 동반 순매수했고, 고가 1,115.66 저가 1,085.30 범위에서 탄탄하게 움직였습니다.3)</li>
+      <li>핵심 재료는 엔비디아 호실적, 삼성전자 파업 리스크 완화, 유가와 미국 금리 부담 진정이었습니다.4) 5) 6)</li>
+    </ul>
+  </div>
+
+  <h2 style="font-size:24px; margin:30px 0 12px; color:#111;">왜 이렇게 갑자기 분위기가 좋아졌을까</h2>
+  <p style="font-size:16px; margin:0 0 14px;">오늘 시장을 움직인 첫 번째 재료는 엔비디아였습니다. 로이터는 엔비디아의 예상 상회 실적이 아시아 기술주 전반에 매수세를 불러왔다고 전했습니다. 한국 증시는 반도체 비중이 매우 크기 때문에, 엔비디아가 AI 수요가 여전히 강하다는 신호를 주면 삼성전자와 SK하이닉스 같은 대표 반도체주가 가장 먼저 반응합니다.5)</p>
+  <p style="font-size:16px; margin:0 0 14px;">두 번째는 삼성전자 노사 협상입니다. 예정됐던 파업이 부담으로 남아 있었는데, 잠정 임금 합의로 파업이 보류되면서 시장이 크게 안도했습니다. 삼성전자는 한국 증시에서 차지하는 무게가 워낙 크기 때문에, 이 종목 하나의 악재 완화만으로도 코스피 전체 분위기가 달라질 수 있습니다. 오늘 장이 강했던 이유를 하나만 꼽자면, 많은 투자자가 바로 이 부분을 가장 크게 봤을 가능성이 높습니다.5) 6)</p>
+  <p style="font-size:16px; margin:0 0 14px;">세 번째는 거시 환경입니다. 한국경제는 유가 하락과 미국 국채금리 진정, 그리고 이란 협상 관련 발언이 장 초반 반등의 배경이 됐다고 짚었습니다.4) 최근 시장은 금리와 유가에 굉장히 예민했습니다. 그래서 오늘처럼 두 변수의 압박이 동시에 약해지면, 투자자 입장에서는 “적어도 오늘은 위험자산을 다시 담아볼 수 있겠다”는 심리가 살아날 수 있습니다.</p>
+
+  <h2 style="font-size:24px; margin:30px 0 12px; color:#111;">오늘 수급이 말해주는 것</h2>
+  <p style="font-size:16px; margin:0 0 14px;">오늘 코스피 수급은 꽤 인상적이었습니다. 개인이 2조5천억원 넘게 순매도했는데도 지수가 강하게 버틴 이유는 외국인과 기관이 그 물량을 받아냈기 때문입니다. 특히 기관의 순매수 규모가 2조4,619억원으로 컸다는 점은, 오늘 반등이 단순한 순간적인 반발 매수에 그치지 않았다는 해석을 가능하게 합니다.2)</p>
+  <p style="font-size:16px; margin:0 0 14px;">시장 폭도 나쁘지 않았습니다. 코스피는 상승 종목이 678개, 하락 종목이 213개였고, 코스닥은 상승 종목이 1,066개, 하락 종목이 571개였습니다.2) 3) 즉 오늘은 “삼성전자만 오른 날”이 아니라, 시장 전반으로 온기가 번진 날에 가까웠습니다. 이런 날은 체감상 투자자들이 훨씬 편하게 느끼는 경우가 많습니다.</p>
+
+  <h2 style="font-size:24px; margin:30px 0 12px; color:#111;">대표 종목을 보면 오늘 장이 더 쉬워집니다</h2>
+  <p style="font-size:16px; margin:0 0 14px;">코스피 쪽에서는 삼성전자 29만8,500원, 8.15% 상승, SK하이닉스 194만8,000원, 11.63% 상승이 가장 눈에 띕니다. SK스퀘어는 13.99%, 현대차는 12.67% 올랐습니다.2) 이 흐름은 오늘 시장이 반도체 중심의 랠리였지만, 거기서 끝난 것이 아니라 자동차 같은 다른 대형주까지 반등이 확산됐다는 뜻입니다.</p>
+  <p style="font-size:16px; margin:0 0 14px;">코스닥에서는 에코프로비엠 9.79%, 에코프로 9.10%, 레인보우로보틱스 16.77%가 눈에 띄었고, 알테오젠은 2.09% 하락했습니다.3) 이건 코스닥 안에서도 돈이 아무 데나 간 게 아니라, 오늘은 로봇·2차전지·전기전자처럼 설명이 쉬운 강한 테마 쪽으로 더 빨리 몰렸다는 뜻입니다. 바이오도 전체가 다 좋았다기보다는 종목별로 온도차가 있었다고 보는 편이 맞습니다.</p>
+
+  <h2 style="font-size:24px; margin:30px 0 12px; color:#111;">초보 투자자가 오늘 장에서 읽어야 할 심리</h2>
+  <p style="font-size:16px; margin:0 0 14px;">오늘 같은 날은 “무슨 뉴스가 있었나”만 보는 것보다 “시장이 그 뉴스를 어떻게 받아들였나”를 같이 봐야 합니다. 엔비디아 실적이 좋았다는 사실 자체보다, 그 뉴스를 계기로 한국 반도체주에 매수가 몰렸다는 점이 중요합니다. 삼성전자 파업 우려가 완전히 끝났다고 단정할 수는 없어도, 적어도 오늘 시장은 “당장 최악의 시나리오는 아니다”라고 해석했습니다.5) 6)</p>
+  <p style="font-size:16px; margin:0 0 14px;">즉 오늘 장은 실적 기대와 안도감, 그리고 눌렸던 투자심리가 한꺼번에 되살아난 장이었습니다. 이런 날에는 주가가 단순히 오르는 것보다 시장의 중심이 어디로 다시 이동하는지가 더 중요합니다. 오늘 중심은 분명 반도체와 대형 성장주였습니다.2) 3) 5)</p>
+
+  <h2 style="font-size:24px; margin:30px 0 12px; color:#111;">다음 거래일 체크포인트</h2>
+  <ul style="font-size:16px; margin:0 0 20px; padding-left:20px;">
+    <li style="margin-bottom:8px;">외국인 순매수가 하루로 끝나는지, 며칠 더 이어지는지 확인할 필요가 있습니다. 오늘 외국인은 분명 돌아왔지만, 주도권은 기관이 더 강했습니다.2)</li>
+    <li style="margin-bottom:8px;">삼성전자 잠정 합의 이후 실제로 파업 리스크가 완전히 더 약해지는지 봐야 합니다. 오늘 반등의 큰 축이었던 만큼 후속 뉴스가 중요합니다.6)</li>
+    <li style="margin-bottom:8px;">엔비디아 호실적이 한국 반도체주 실적 기대를 더 밀어 올릴지, 아니면 단기 급등 뒤 차익실현 명분이 될지도 체크해야 합니다.5)</li>
+    <li>유가와 미국 금리가 다시 흔들리지 않는지도 중요합니다. 오늘은 거시 불안이 잠깐 쉬어간 날이었기 때문에, 이 부분이 다시 나빠지면 변동성도 다시 커질 수 있습니다.4) 5)</li>
+  </ul>
+
+  <div style="background:#fff7e8; border-left:6px solid #f1b74d; padding:16px 18px; margin:0 0 24px;">
+    <strong style="display:block; font-size:18px; margin-bottom:8px;">마지막 한 줄 정리</strong>
+    <p style="margin:0; font-size:16px;">오늘 한국 증시는 엔비디아가 살린 AI 기대, 삼성전자가 덜어낸 파업 불안, 그리고 잠시 진정된 거시 변수 위에서 강하게 되살아난 장이었습니다. 그래서 내일은 “더 오르나”보다 “오늘 살아난 심리가 얼마나 유지되나”를 보는 게 더 중요합니다.2) 4) 5) 6)</p>
+  </div>
+
+  <p style="font-size:15px; color:#555; margin:0 0 24px;">이 글은 투자 권유가 아니라 오늘 장중 흐름을 이해하기 쉽게 정리한 해설형 리포트입니다.</p>
+
+  <h2 style="font-size:22px; margin:24px 0 12px; color:#111;">출처</h2>
+  <ol style="font-size:15px; padding-left:20px; margin:0;">
+    <li style="margin-bottom:8px;">CalendarLabs, 2026 KRX Market Holidays - CalendarLabs, 확인일 2026-05-21.</li>
+    <li style="margin-bottom:8px;">한국경제, 코스피 | 한국경제, 확인일 2026-05-21.</li>
+    <li style="margin-bottom:8px;">한국경제, 코스닥 | 한국경제, 확인일 2026-05-21.</li>
+    <li style="margin-bottom:8px;">한국경제, 삼전닉스·엔비디아 겹호재 터졌다…맘고생 개미들 '환호' [종합], 2026-05-21.</li>
+    <li style="margin-bottom:8px;">Reuters via Investing.com, Shares rally on Nvidia earnings, Samsung strike suspension, 2026-05-21.</li>
+    <li>Reuters via StreetInsider, Samsung Electronics' shares jump after tentative wage deal suspends strike, 2026-05-21.</li>
+  </ol>
+</div>

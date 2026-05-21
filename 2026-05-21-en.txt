@@ -1,0 +1,52 @@
+<div style="font-family:Arial,'Noto Sans',sans-serif; line-height:1.75; color:#222; max-width:860px; margin:0 auto;">
+  <h1 style="font-size:30px; margin:0 0 18px; color:#111;">Korea Market Close on May 21: Nvidia Relief, Samsung Strike Easing, and a Sharp Rebound in KOSPI</h1>
+  <p style="font-size:16px; margin:0 0 14px;">Thursday, May 21, 2026 was a normal trading day on the Korea Exchange, and both the benchmark KOSPI and the junior KOSDAQ finished the session with a strong rebound. The key to understanding this market was not just that stocks bounced, but that several pressure points eased at the same time: AI optimism improved, Samsung’s labor risk cooled, and macro fears around oil and yields softened.1) 4) 5)</p>
+  <p style="font-size:16px; margin:0 0 18px;">That matters because recent Korean market volatility had been driven by exactly the opposite mix. Investors were worried about a possible Samsung Electronics strike, higher U.S. yields, and energy-related inflation pressure. On May 21, the market read the news flow as a partial reversal of those fears, and money rushed back into large-cap technology and cyclicals.4) 5) 6)</p>
+
+  <div style="background:#f4f7fb; border-left:6px solid #2f6fed; padding:16px 18px; margin:0 0 24px;">
+    <strong style="display:block; font-size:18px; margin-bottom:8px;">Quick Take</strong>
+    <p style="margin:0 0 8px;">The KOSPI climbed as high as 7,819.23 during the session and never fell below 7,486.37. Foreign investors bought a net 108.7 billion won, institutions bought a much larger 2.4619 trillion won, and retail investors sold 2.5710 trillion won, suggesting that institutional money absorbed profit-taking from individuals.2)</p>
+    <p style="margin:0;">The KOSDAQ also stayed firm, with an intraday high of 1,115.66 and a low of 1,085.30. Foreign and institutional investors were both net buyers there as well, while gains were broad across secondary batteries, robotics and selected growth shares.3)</p>
+  </div>
+
+  <h2 style="font-size:24px; margin:28px 0 12px; color:#111;">Index Flow: Why This Rebound Felt Different</h2>
+  <p style="font-size:16px; margin:0 0 14px;">The first thing to notice is market breadth. On the KOSPI, 678 stocks rose while only 213 fell. That tells us this was not just a one-stock move led by Samsung Electronics. It was a wider risk-on rebound, supported by a very large institutional bid. When institutions put more than 2 trillion won to work in a session like this, the market usually sees it as more than a brief emotional reaction.2)</p>
+  <p style="font-size:16px; margin:0 0 14px;">The KOSDAQ showed the same broad tone, with 1,066 gainers against 571 decliners. But the character of the move was a little different. Unlike the KOSPI, which is heavily driven by mega-cap chips, the KOSDAQ rebound spread through several themes at once. That is why today looked less like a narrow technical bounce and more like a confidence reset across Korean equities.3)</p>
+
+  <h2 style="font-size:24px; margin:28px 0 12px; color:#111;">What Moved the Market Today</h2>
+  <h3 style="font-size:20px; margin:18px 0 10px; color:#222;">1. Nvidia earnings revived the AI trade</h3>
+  <p style="font-size:16px; margin:0 0 14px;">Reuters said Asia shares were lifted by better-than-expected Nvidia results, which encouraged investors to buy chipmakers again. In Korea, that matters immediately because semiconductors are not just another sector. They are the center of the KOSPI’s earnings story and a major driver of foreign positioning. So when Nvidia reassures the market about AI demand, Korean chip names usually react quickly.5)</p>
+  <h3 style="font-size:20px; margin:18px 0 10px; color:#222;">2. Samsung’s strike risk suddenly eased</h3>
+  <p style="font-size:16px; margin:0 0 14px;">The second major catalyst was Samsung Electronics reaching a tentative wage deal with its union. Reuters reported that the planned strike was suspended until further notice, easing concerns about supply disruption at one of the world’s most important memory chip producers. For Korean equities, this was a major sentiment release valve, because Samsung’s weight in the KOSPI and in Korea’s export machine is simply too large to ignore.5) 6)</p>
+  <h3 style="font-size:20px; margin:18px 0 10px; color:#222;">3. Oil and bond-market pressure softened</h3>
+  <p style="font-size:16px; margin:0 0 14px;">Korean media tied the early surge to falling oil prices and calmer U.S. Treasury yields, while also highlighting comments from Donald Trump that talks with Iran were in their final stage. Markets do not always rally because the world turns clearly positive. Sometimes they rally because the worst-case scenario stops getting worse. That is exactly how May 21 looked in Seoul.4) 5)</p>
+
+  <h2 style="font-size:24px; margin:28px 0 12px; color:#111;">Sector and Stock Highlights</h2>
+  <p style="font-size:16px; margin:0 0 14px;">Large-cap leaders told the story clearly. Samsung Electronics closed at 298,500 won, up 8.15%, while SK hynix surged 11.63% to 1,948,000 won. SK Square gained 13.99%, and Hyundai Motor rose 12.67%. This was important because it showed investors were not only buying AI semiconductors, but also reopening risk appetite toward broader Korean blue chips.2)</p>
+  <p style="font-size:16px; margin:0 0 14px;">On the KOSDAQ, Ecopro BM rose 9.79%, Ecopro added 9.10%, and Rainbow Robotics jumped 16.77%, while Alteogen fell 2.09%. That split matters. It suggests investors were favoring high-beta growth stories with strong momentum, but they were still selective. In other words, this was a bullish session, not a blind one.3)</p>
+
+  <h2 style="font-size:24px; margin:28px 0 12px; color:#111;">What to Watch Next</h2>
+  <ul style="font-size:16px; margin:0 0 18px; padding-left:20px;">
+    <li style="margin-bottom:8px;">First, watch whether foreign buying continues. Foreign investors did turn net buyers on the KOSPI, but institutions were the bigger force today. If overseas money follows through, the rebound becomes more durable.2)</li>
+    <li style="margin-bottom:8px;">Second, keep an eye on the Samsung labor story. A tentative agreement helped today, but markets will still want confirmation that the strike risk truly stays off the table.6)</li>
+    <li style="margin-bottom:8px;">Third, investors need to decide whether Nvidia’s earnings justify a new leg higher for Korean chip stocks, or whether the move has already gone far enough to invite another round of profit-taking.5)</li>
+    <li>Fourth, oil prices and U.S. bond yields remain critical. Today’s rebound worked because company-specific and macro pressures both eased at once. If either of those turns again, volatility can return quickly.4) 5)</li>
+  </ul>
+
+  <div style="background:#fff7e8; border:1px solid #f0d8a8; padding:16px 18px; margin:0 0 24px;">
+    <strong style="display:block; margin-bottom:8px;">Bottom Line</strong>
+    <p style="margin:0;">May 21 was a classic relief-and-repricing session for Korean stocks. Nvidia restored confidence in the AI trade, Samsung reduced a major labor overhang, and macro stress eased enough for investors to rotate back into risk. The market’s next test is simple: can it keep this rebound once the emotional first reaction passes?2) 3) 4) 5) 6)</p>
+  </div>
+
+  <p style="font-size:15px; color:#555; margin:0 0 24px;">This article is not investment advice. It is an explanatory market-close report designed to make the day’s trading flow easier to understand.</p>
+
+  <h2 style="font-size:22px; margin:24px 0 12px; color:#111;">Sources</h2>
+  <ol style="font-size:15px; padding-left:20px; margin:0;">
+    <li style="margin-bottom:8px;">CalendarLabs, 2026 KRX Market Holidays - CalendarLabs, accessed on 2026-05-21.</li>
+    <li style="margin-bottom:8px;">Hankyung, 코스피 | 한국경제, accessed on 2026-05-21.</li>
+    <li style="margin-bottom:8px;">Hankyung, 코스닥 | 한국경제, accessed on 2026-05-21.</li>
+    <li style="margin-bottom:8px;">Hankyung, 삼전닉스·엔비디아 겹호재 터졌다…맘고생 개미들 '환호' [종합], 2026-05-21.</li>
+    <li style="margin-bottom:8px;">Reuters via Investing.com, Shares rally on Nvidia earnings, Samsung strike suspension, 2026-05-21.</li>
+    <li>Reuters via StreetInsider, Samsung Electronics' shares jump after tentative wage deal suspends strike, 2026-05-21.</li>
+  </ol>
+</div>

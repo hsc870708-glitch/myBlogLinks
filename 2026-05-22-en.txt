@@ -1,0 +1,54 @@
+<div style="font-family:Arial,'Helvetica Neue',sans-serif; color:#1f1f1f; line-height:1.75; font-size:16px; max-width:860px; margin:0 auto;">
+  <h1 style="font-size:30px; line-height:1.35; margin:0 0 18px; color:#111;">Korea Stock Market Close on May 22, 2026: KOSPI Paused, KOSDAQ Surged, and Money Rotated Into Growth Trades</h1>
+  <p style="margin:0 0 14px;">South Korea’s stock market finished May 22 with a split personality. The benchmark KOSPI spent the session catching its breath near the 7,800 level after the previous day’s explosive rebound, while the tech-heavy KOSDAQ jumped into the mid-1,100 range as money rotated toward biotech, battery and other growth names. The easiest way to read the day is not that risk appetite disappeared, but that it changed lanes inside the market.2)3)</p>
+  <p style="margin:0 0 18px; padding:14px 16px; background:#f5f7fb; border-left:5px solid #2f6fed;">This report is based on publicly accessible coverage and market-related references verified around the close on May 22. Because the final print was not uniformly available across all open sources reachable at generation time, the article focuses on verified levels, direction, flows and sector leadership rather than forcing an unverified exact close figure.2)3)</p>
+
+  <div style="background:#eef8ee; border:1px solid #b7ddb7; padding:16px 18px; margin:0 0 24px; border-radius:8px;">
+    <strong style="display:block; font-size:18px; margin-bottom:10px; color:#1f5f2d;">Quick Take</strong>
+    <ul style="margin:0; padding-left:20px;">
+      <li>KOSPI moved into consolidation mode after the prior session’s 8.42% jump. The May 21 close was 7,815.59, and May 22 trading opened at 7,873.12 before slipping back toward the upper 7,700s intraday.2)9)</li>
+      <li>KOSDAQ was much stronger. Buying was strong enough to trigger a second straight buy-side sidecar, with foreign and institutional investors pushing money into growth-heavy names such as EcoPro BM, EcoPro and Alteogen.2)4)5)</li>
+      <li>The main drivers were easing oil prices on U.S.-Iran negotiation hopes, profit-taking in the large-cap semiconductor trade after the previous day’s surge, and policy-driven expectations linked to the launch of the public growth fund.3)5)6)</li>
+    </ul>
+  </div>
+
+  <h2 style="font-size:24px; margin:28px 0 12px; color:#163b73;">Index and Market Flow</h2>
+  <p style="margin:0 0 14px;">The broad market message was simple: KOSPI rested, KOSDAQ ran. Yonhap reported that foreign investors were still net sellers in the main board for a 12th straight session, while local individuals and institutions absorbed supply. On KOSDAQ, by contrast, foreign and institutional investors were both net buyers as the index accelerated. For international readers, this matters because it shows Korea was not facing a blanket risk-off day. Instead, investors were reallocating from yesterday’s crowded winners into parts of the market that looked cheaper, more under-owned or newly supported by policy expectations.2)3)</p>
+  <p style="margin:0 0 14px;">That distinction is important. A weak KOSPI alongside a strong KOSDAQ can look contradictory if one only watches headline indices. In practice, it often means leadership is rotating. Yesterday’s advance was driven heavily by mega-cap semiconductors. Today, those names cooled while domestic growth stories took over. In other words, the market was not losing conviction across the board. It was redistributing conviction.2)3)5)</p>
+
+  <h2 style="font-size:24px; margin:28px 0 12px; color:#163b73;">What Moved the Market Today?</h2>
+  <h3 style="font-size:20px; margin:18px 0 8px; color:#222;">1. Hopes for a U.S.-Iran deal helped sentiment, but did not remove all caution</h3>
+  <p style="margin:0 0 14px;">Overnight, U.S. equities closed slightly higher, with the Dow reaching another record and both the S&amp;P 500 and Nasdaq ending in positive territory. Yonhap said markets were supported by hopes of progress in U.S.-Iran talks and by lower oil prices. At the same time, Washington’s hard line on Iran’s enriched uranium meant the geopolitical risk was reduced, not resolved. That helps explain why KOSPI could stay resilient but not deliver another straight-line rally like the previous day.2)6)</p>
+  <h3 style="font-size:20px; margin:18px 0 8px; color:#222;">2. The market was digesting an unusually large rally from the previous session</h3>
+  <p style="margin:0 0 14px;">On May 21, KOSPI rose 606.64 points to 7,815.59 and KOSDAQ gained 49.90 points to 1,105.97. After a move of that size, some pause was natural. Yonhap also pointed to the impact of changing foreign futures positions and program trading dynamics, which may have capped the main index. Put more simply, some of the force that lifted the market the day before was being unwound or rebalanced, especially around the large-cap segment.2)9)</p>
+  <h3 style="font-size:20px; margin:18px 0 8px; color:#222;">3. The new public growth fund gave KOSDAQ a policy tailwind</h3>
+  <p style="margin:0 0 14px;">KOSDAQ’s sharp move was not just momentum chasing. Edaily, NoCut News and Yonhap all linked the rally to expectations surrounding the launch of the public-participation growth fund, which investors believe could ultimately support listed growth companies in biotech, IT, robotics and other strategic sectors. Markets often react before money actually arrives, and that is what seemed to happen here. Investors were buying the possibility of future capital support, not just the day’s price action.3)4)5)</p>
+
+  <h2 style="font-size:24px; margin:28px 0 12px; color:#163b73;">Sector and Stock Highlights</h2>
+  <p style="margin:0 0 14px;">Large semiconductors paused. Samsung Electronics briefly touched 300,000 won intraday, but Yonhap said it also showed around a 2% morning decline at one point, while SK hynix traded around flat. That matters because these were the same stocks that powered the prior session’s surge. When they stopped carrying the tape, KOSPI naturally looked calmer. Yet not every large-cap was weak. LG Energy Solution, Samsung Electro-Mechanics and Doosan Enerbility were cited as relatively firmer names, showing that the story was not “large caps are over,” but rather “yesterday’s leaders are taking a breather.”2)</p>
+  <p style="margin:0 0 14px;">On KOSDAQ, EcoPro BM and EcoPro jumped sharply again, Alteogen joined the rebound, and HLB drew attention on ASCO 2026-related expectations. For non-Korean readers, this is the key point: Korea’s secondary board can swing quickly when policy support, event-driven biotech optimism and foreign buying line up on the same day. That also means volatility can stay high. Fast upside in these names rarely comes without the risk of equally fast digestion later.3)5)7)</p>
+
+  <h2 style="font-size:24px; margin:28px 0 12px; color:#163b73;">What to Watch Next</h2>
+  <ul style="margin:0 0 16px; padding-left:22px;">
+    <li>The next trading day is Tuesday, May 26. Korea’s market is closed on Monday, May 25 for the observed Buddha’s Birthday holiday.1)8)</li>
+    <li>For KOSPI, the bigger issue is not whether chip stocks bounce immediately, but whether foreign selling pressure starts to ease. If foreigners keep selling, index upside can remain limited even if the 7,800 area holds.2)</li>
+    <li>For KOSDAQ, investors should watch whether the policy-fund narrative turns into broader follow-through or fades into short-term profit-taking after two straight sidecar sessions.3)4)5)</li>
+    <li>Biotech remains highly event-sensitive. ASCO-related anticipation can keep the group strong, but conference-driven trades are often volatile before and after the actual data or presentation.7)</li>
+  </ul>
+
+  <p style="margin:0 0 14px;">The best summary of May 22 is that the Korean market regained enough confidence to choose where it wanted to take risk. KOSPI did not break down. It simply paused after a historic rebound. KOSDAQ, meanwhile, became the day’s expression of renewed appetite for policy-supported growth. For anyone trying to understand Korean equities, this was less about one headline index level and more about how quickly capital rotated under the surface.2)3)5)</p>
+  <p style="margin:18px 0 0; padding:14px 16px; background:#f3f5f7; border-radius:8px; color:#444;">This article is not investment advice. It is an explanatory market wrap designed to make the day’s trading easier to understand.</p>
+
+  <h2 style="font-size:22px; margin:30px 0 12px; color:#163b73;">Sources</h2>
+  <ol style="padding-left:22px; margin:0;">
+    <li>PublicHolidays.co.kr, “Today – 22 May 2026 – is not a holiday in South Korea”, checked on 2026-05-22.</li>
+    <li>Yonhap News, “‘강보합’ 코스피, 7,800선서 숨고르기…코스닥 4% 후반대 급등”, published 2026-05-22.</li>
+    <li>Yonhap News, “코스피 쉬어가자 코스닥 ‘껑충’…외인 순매수 행진 속 순환매?”, published 2026-05-22.</li>
+    <li>Edaily, “코스닥, 2거래일 연속 매수 사이드카…올들어 8번째”, 2026-05-22.</li>
+    <li>NoCut News, “‘국민성장펀드’ 기대감에…코스닥 2거래일 연속 ‘매수 사이드카’”, 2026-05-22.</li>
+    <li>Seoul Daily Data Lab, “미국 증시, 기술주 혼조 속 강보합 마감”, 2026-05-22.</li>
+    <li>Money Today, “HLB, ASCO 2026 단독 부스 참가…간암·담관암 파이프라인 KOL 공략”, 2026-05-22.</li>
+    <li>MarketHours.io, “Korea Exchange (KRX) Holidays 2026 &amp; Trading Calendar”, checked on 2026-05-22.</li>
+    <li>Money Today, “역대 최대폭 뛴 코스피, 단숨에 7800 탈환”, 2026-05-22 04:14.</li>
+  </ol>
+</div>

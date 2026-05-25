@@ -1,0 +1,53 @@
+<div style="max-width:860px;margin:0 auto;padding:24px 20px;color:#1f2937;font-size:16px;line-height:1.8;background:#ffffff;">
+  <h1 style="font-size:30px;line-height:1.35;margin:0 0 18px;color:#0f172a;">Korea Stock Market Close on May 25, 2026: No KOSPI or KOSDAQ Session Due to Holiday, So What Matters for the Next Trading Day?</h1>
+  <p style="margin:0 0 14px;">At the 3:30 p.m. Korea close on May 25, 2026, there was no regular trading session in South Korea. The market was closed for the substitute holiday tied to Buddha’s Birthday, and the government’s 2026 calendar notice also shows May 23 through May 25 as a connected holiday stretch. 1) 2)</p>
+  <p style="margin:0 0 14px;">That means this is not a day to force a fake KOSPI or KOSDAQ close recap. Instead, the more useful question is why the market was closed, what investors should pay attention to during a non-trading day, and which signals could shape the first reaction when Korea reopens on May 26. 1) 2)</p>
+  <div style="margin:18px 0;padding:16px 18px;border-left:5px solid #2563eb;background:#eff6ff;">
+    <strong style="display:block;margin-bottom:8px;color:#1d4ed8;">Quick takeaway</strong>
+    <ul style="margin:0;padding-left:20px;">
+      <li>South Korea’s stock market was closed on May 25, 2026, so there was no fresh KOSPI or KOSDAQ close to analyze. 1) 2)</li>
+      <li>On market holidays, the real job is to track what may be priced in on the next session rather than to stare at nonexistent index moves.</li>
+      <li>Date-sensitive products can still matter: a Korea Exchange KIND disclosure shows the last trading day for Daishin Natural Gas Futures ETN(H) was adjusted to May 22 because of the holiday schedule. 3)</li>
+      <li>The U.S. market was also closed for Memorial Day on the same date, which removes one of the usual overnight cues Korean investors often use before the next open. 4)</li>
+    </ul>
+  </div>
+
+  <h2 style="font-size:24px;margin:28px 0 12px;color:#111827;">What happened to the Korean stock market today?</h2>
+  <p style="margin:0 0 14px;">The simplest answer is that nothing traded in the regular cash session because the market was shut. There was no new closing level for KOSPI, no fresh KOSDAQ finish, no sector leaderboard, and no same-day foreign or institutional flow to interpret. On a holiday report, the real task shifts from “what rose or fell today” to “what could pile up in the background while trading is paused.” 1) 2)</p>
+  <p style="margin:0 0 14px;">For beginners, a market holiday can feel like a blank page. In practice, it is often the opposite. Prices stop moving, but headlines, expectations, and worries do not. When trading resumes after a break, those delayed reactions can come back at once through the opening price, early volatility, and sector rotation. That is why a holiday briefing can still be useful even without a live market close.</p>
+
+  <h2 style="font-size:24px;margin:28px 0 12px;color:#111827;">Why was the Korea market closed on May 25?</h2>
+  <h3 style="font-size:20px;margin:18px 0 10px;color:#1f2937;">The main reason was the substitute holiday for Buddha’s Birthday</h3>
+  <p style="margin:0 0 14px;">Korea’s public holiday rules include Buddha’s Birthday, and the official holiday framework allows substitute holidays when the calendar alignment triggers one. The 2026 national calendar notice also identifies May 23 to May 25 as a holiday run, which is why the local stock market did not open on Monday, May 25. 1) 2)</p>
+  <h3 style="font-size:20px;margin:18px 0 10px;color:#1f2937;">Holiday schedules can also change product mechanics</h3>
+  <p style="margin:0 0 14px;">This matters most for products where trading dates are part of the investment decision. A Korea Exchange KIND filing on Daishin Natural Gas Futures ETN(H) shows that the final trading day was revised to May 22 instead of May 25. That is a practical reminder that during holiday periods, investors should not assume a calendar date remains tradable just because it would normally be a weekday. 3)</p>
+  <h3 style="font-size:20px;margin:18px 0 10px;color:#1f2937;">The missing Wall Street close matters too</h3>
+  <p style="margin:0 0 14px;">Nasdaq’s 2026 holiday schedule shows that U.S. equity and options markets were also closed on May 25 for Memorial Day. Korean investors often start the day with an immediate read on the prior U.S. session, especially for semiconductors, growth stocks, and risk sentiment. This time, that reference point is missing, so the next Korean open may lean more heavily on exchange rates, commodity moves, macro headlines, and the tone of other Asian markets. 4)</p>
+
+  <h2 style="font-size:24px;margin:28px 0 12px;color:#111827;">How should investors think about sectors and leading stocks on a holiday?</h2>
+  <p style="margin:0 0 14px;">Because there was no trading session, there is no honest way to rank semiconductors, autos, batteries, biotech, internet platforms, or financials by today’s market performance. But that does not mean sector thinking becomes irrelevant. In fact, the first session after a holiday often sharpens the differences between sectors because investors return to the screen with accumulated news and a need to express it quickly.</p>
+  <p style="margin:0 0 14px;">Export-heavy names may react first to currency moves and global rate expectations. Large technology stocks may reflect any change in demand sentiment around chips and AI-related supply chains. Domestic demand plays can react to consumer or policy headlines that emerged during the break. The key point is simple: on a holiday, do not ask which sector won today. Ask which sector is most exposed to the first batch of information once the market reopens.</p>
+  <p style="margin:0 0 14px;">The same logic applies to representative stocks. Names such as Samsung Electronics, SK Hynix, Hyundai Motor, Kia, major battery stocks, large financials, and heavyweight internet shares may become the first scoreboard for broader sentiment on May 26. But any attempt to describe their May 25 regular-session price action as if it happened today would be inaccurate. The better approach is to watch whether their opening gaps reflect company-specific news or broad market mood.</p>
+
+  <h2 style="font-size:24px;margin:28px 0 12px;color:#111827;">What to watch when Korea reopens on May 26</h2>
+  <ul style="margin:0 0 14px;padding-left:20px;">
+    <li>First, watch how KOSPI and KOSDAQ price the holiday gap at the open. A strong start matters less if it fades quickly in the first 30 minutes.</li>
+    <li>Second, track the won-dollar exchange rate and foreign futures activity. After a break, those signals can shape the tone of the entire session faster than usual.</li>
+    <li>Third, check whether leadership comes from large caps such as semiconductors and autos, or from smaller thematic names. That difference often tells you whether the market is calm or speculative.</li>
+    <li>Fourth, if you hold date-sensitive products, verify final trading dates and maturity structures again. Holiday adjustments can turn a simple calendar mistake into an avoidable loss. 3)</li>
+    <li>Fifth, remember that there is no fresh U.S. close from the previous night because American markets were shut on May 25. Korea may therefore react more heavily to local flows and early Asia trading signals. 4)</li>
+  </ul>
+  <p style="margin:0 0 14px;">So the right conclusion for May 25 is not that the market was quiet, but that price discovery was delayed. Trading stopped for the day, yet expectations kept building. When the market comes back, investors will need to separate broad sentiment from stock-specific stories instead of reacting to the opening print alone.</p>
+
+  <h2 style="font-size:24px;margin:28px 0 12px;color:#111827;">Bottom line</h2>
+  <p style="margin:0 0 14px;">South Korea’s stock market close report for May 25, 2026 is a holiday report, not a performance report. There was no regular session because of the substitute holiday for Buddha’s Birthday, and even the U.S. market was closed on the same date. That combination means the first Korean trading session on May 26 may open with fewer familiar overnight anchors and a greater focus on local flows, sector leadership, and deferred reactions from the holiday window. 1) 2) 3) 4)</p>
+  <p style="margin:0 0 14px;">This article is an explanatory market note meant to help readers understand the day’s market context, not a recommendation to buy or sell any security.</p>
+
+  <h2 style="font-size:24px;margin:28px 0 12px;color:#111827;">Sources</h2>
+  <ol style="margin:0;padding-left:20px;">
+    <li>Korea AeroSpace Administration, 「2026년 월력요항」 발표, 2025-06-30.</li>
+    <li>National Law Information Center, 「관공서의 공휴일에 관한 규정」 [effective 2026-05-11] [Presidential Decree No. 36290, 2026-04-30].</li>
+    <li>Korea Exchange KIND, 「상장지수증권 발행조건 변경」, issue name Daishin Natural Gas Futures ETN(H), 2026-04-14.</li>
+    <li>Nasdaq Trader, “U.S. Equity and Options Markets Holiday Schedule 2026”.</li>
+  </ol>
+</div>

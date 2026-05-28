@@ -1,0 +1,59 @@
+<div style="font-family:'Noto Sans KR',sans-serif;color:#1f2937;line-height:1.75;max-width:860px;margin:0 auto;padding:24px;">
+  <h1 style="font-size:30px;margin:0 0 18px;color:#0f172a;">2026년 5월 28일 한국 증시 마감, 반도체 숨고르기 속 2차전지 부각…코스닥 조정이 더 컸던 이유</h1>
+  <p style="font-size:16px;margin:0 0 16px;">5월 28일 한국 증시는 전날 기록적인 상승의 열기를 그대로 이어가기보다 한 번 쉬어 가는 흐름에 가까웠습니다. 코스피는 8,185.25로 마감하며 전일 대비 43.45포인트, 0.53% 내렸고, 코스닥은 1,104.36으로 28.77포인트, 2.54% 하락해 낙폭이 더 컸습니다. 1) 2) 숫자만 보면 단순 조정처럼 보이지만, 실제로는 반도체 차익실현, 외국인 매도 부담, 그리고 일부 2차전지의 강한 반등이 한날한시에 겹친 장이었다고 보는 편이 이해에 더 가깝습니다. 3) 4) 5)</p>
+  <p style="font-size:16px;margin:0 0 20px;">쉽게 말해 오늘 시장은 “전체적으로 쉬어 갔지만, 돈은 완전히 빠진 것이 아니라 일부 새로운 곳으로 옮겨 다녔다”는 표현이 잘 맞습니다. 그래서 지수만 보면 약했지만, 개별 종목 체감은 더 극단적으로 갈렸습니다.</p>
+
+  <div style="background:#eef6ff;border-left:6px solid #2563eb;padding:16px 18px;margin:0 0 24px;border-radius:8px;">
+    <strong style="display:block;margin-bottom:8px;color:#1d4ed8;">한눈에 보는 마감 요약</strong>
+    <ul style="margin:0;padding-left:20px;">
+      <li>코스피 8,185.25, 전일 대비 -0.53% 마감 1)</li>
+      <li>코스닥 1,104.36, 전일 대비 -2.54% 마감 2)</li>
+      <li>전날 사상 첫 8,200선 안착 뒤 차익실현과 외국인 매도 압력이 겹친 하루 3) 4)</li>
+      <li>LG에너지솔루션은 미국 ESS 공급 계약 재료로 강세, 반도체는 종목별 차별화 진행 5) 7) 10) 11)</li>
+      <li>다음 거래일은 외국인 수급과 반도체-2차전지 간 자금 이동이 핵심 체크포인트</li>
+    </ul>
+  </div>
+
+  <h2 style="font-size:24px;margin:28px 0 12px;color:#111827;">지수와 시장 흐름: 왜 코스닥이 더 약했나</h2>
+  <p style="margin:0 0 16px;">코스피는 장중 8,221.88까지 올랐지만 결국 8,124.16까지 밀리는 변동성을 거친 뒤 약세로 마감했습니다. 1) 코스닥도 장중 1,127.64와 1,102.82 사이를 오가며 흔들렸는데, 최종 낙폭은 코스피보다 훨씬 컸습니다. 2) 이 차이는 시장 참가자들이 지수 자체보다 위험자산 선호를 조절했다는 뜻으로 읽을 수 있습니다. 대형 우량주가 많은 코스피보다 성장주와 중소형주 비중이 큰 코스닥이 위험 회피 심리에 더 민감하게 반응했기 때문입니다. 2) 4)</p>
+  <p style="margin:0 0 16px;">전날 코스피는 사상 처음 8,200선에 올라서며 강한 기대를 보여 줬지만, 5월 28일에는 그 열기가 그대로 이어지지 않았습니다. Korea JoongAng Daily와 AJU PRESS는 장 초반부터 AI 관련 랠리의 속도 조절, 미국과 이란을 둘러싼 혼재된 신호, 외국인 매도와 좁아진 상승 종목 폭을 함께 짚었습니다. 3) 4) 즉 오늘은 “상승 추세가 끝났다”기보다 “너무 빠르게 오른 시장이 하루 쉬었다”는 해석이 더 보수적이고 현실적입니다.</p>
+
+  <h2 style="font-size:24px;margin:28px 0 12px;color:#111827;">오늘 시장을 움직인 핵심 이슈</h2>
+  <h3 style="font-size:20px;margin:18px 0 10px;color:#1f2937;">1. 반도체는 쉬어 갔지만 완전히 꺾였다고 보긴 이릅니다</h3>
+  <p style="margin:0 0 16px;">삼성전자는 300,500원으로 2.12% 내렸지만, SK하이닉스는 2,271,000원으로 1.25% 올랐습니다. 8) 10) 같은 반도체 안에서도 주가가 다르게 움직였다는 점이 중요합니다. 보통 이런 날은 업종 전체가 무너졌다기보다, 이미 많이 오른 종목에서 차익실현이 나오고 상대적으로 강한 기대가 남아 있는 종목에는 매수세가 붙는 경우가 많습니다. 특히 SK하이닉스는 AI 메모리 기대와 시가총액 1조 달러 돌파 뉴스가 투자심리를 계속 지지해 주는 모습이었습니다. 11)</p>
+
+  <h3 style="font-size:20px;margin:18px 0 10px;color:#1f2937;">2. 2차전지는 오랜만에 강한 존재감을 보였습니다</h3>
+  <p style="margin:0 0 16px;">LG에너지솔루션은 미국 DTE Energy와 데이터센터용 ESS 배터리 공급 계약을 맺었다는 소식 이후 15.25% 급등해 442,000원에 마감했습니다. 5) 7) 이 재료가 눈에 띄는 이유는 단순 수주 하나 때문만이 아닙니다. 시장은 최근 AI 투자 확대가 결국 전력 인프라와 저장장치 수요까지 연결될 수 있는지를 보고 있었는데, 이번 계약은 그 연결고리를 실제 숫자와 계약 형태로 보여 준 사례로 받아들였기 때문입니다. 그래서 오늘은 “반도체만 AI 수혜주인가”라는 질문에 대해 2차전지 쪽도 일부 답을 내놓은 날로 볼 수 있습니다.</p>
+
+  <h3 style="font-size:20px;margin:18px 0 10px;color:#1f2937;">3. 금리 동결은 놀랍지 않았지만, 말의 톤은 여전히 신중했습니다</h3>
+  <p style="margin:0 0 16px;">한국은행은 5월 28일 기준금리를 동결했습니다. The Business Times는 중동 불확실성, 물가 흐름, 원화 움직임을 함께 보며 정책당국이 여전히 매파적 분열을 드러냈다고 전했습니다. 6) 금리 인하 기대가 당장 크게 살아나지 않았다는 뜻이어서, 오늘처럼 밸류에이션 부담이 큰 성장주에는 상대적으로 부담으로 작용할 수 있습니다. 코스닥 낙폭이 큰 배경을 이해할 때 이 점도 같이 볼 필요가 있습니다.</p>
+
+  <h2 style="font-size:24px;margin:28px 0 12px;color:#111827;">업종과 대표 종목 포인트</h2>
+  <p style="margin:0 0 16px;">업종별로 보면 오늘은 한 방향으로 쏠린 장이 아니었습니다. 반도체는 삼성전자 조정과 SK하이닉스 강세가 동시에 나왔고, 자동차 대표주인 현대차는 681,000원으로 사실상 보합권에 머물며 시장 전체의 관망 심리를 보여 줬습니다. 8) 9) 10) 반면 2차전지는 LG에너지솔루션 급등이 분위기를 바꿨습니다. 이런 날은 “지수가 빠졌으니 다 약했다”는 식으로 보면 실제 시장을 놓치기 쉽습니다. 오히려 어느 업종에 새로 수급이 붙는지, 같은 업종 안에서 누가 더 강한지까지 봐야 다음 흐름을 읽기가 쉬워집니다.</p>
+  <p style="margin:0 0 16px;">초보 투자자 입장에서는 오늘 같은 장에서 가장 헷갈리는 부분이 “지수는 밀렸는데 왜 일부 종목은 세게 올랐지?”일 수 있습니다. 답은 비교적 단순합니다. 시장은 늘 한 덩어리로 움직이지 않고, 기대가 이미 너무 커진 곳에서는 쉬어 가고 새 뉴스가 붙은 곳으로 시선이 이동합니다. 오늘의 LG에너지솔루션, 그리고 상대적으로 버틴 SK하이닉스가 바로 그런 사례였습니다. 5) 7) 10) 11)</p>
+
+  <h2 style="font-size:24px;margin:28px 0 12px;color:#111827;">다음 거래일 체크포인트</h2>
+  <ul style="margin:0 0 18px;padding-left:20px;">
+    <li>외국인 매도가 하루짜리 차익실현인지, 아니면 단기 과열 해소 국면이 며칠 더 이어질지 봐야 합니다. 4)</li>
+    <li>삼성전자와 SK하이닉스의 주가 온도 차가 계속되면 반도체 내부 순환매가 더 뚜렷해질 수 있습니다. 8) 10) 11)</li>
+    <li>LG에너지솔루션 급등이 2차전지 전반으로 확산되는지 확인이 필요합니다. 5) 7)</li>
+    <li>한국은행 동결 이후 환율과 금리 민감주의 반응이 이어질지도 중요합니다. 6)</li>
+  </ul>
+  <p style="margin:0 0 18px;">정리하면, 2026년 5월 28일 한국 증시는 급락장이라기보다 기록적인 상승 뒤 숨 고르기와 업종 간 자금 재배치가 동시에 나타난 날이었습니다. 코스닥 약세는 경계심을 보여 줬지만, 반도체와 2차전지 안에서는 여전히 다음 주도주를 찾으려는 움직임이 살아 있었습니다. 그래서 내일 시장은 지수 숫자 하나보다 “돈이 어디에 다시 붙는지”를 보는 것이 더 중요해 보입니다.</p>
+
+  <h2 style="font-size:22px;margin:28px 0 12px;color:#111827;">출처</h2>
+  <ol style="padding-left:20px;margin:0 0 18px;">
+    <li>Investing.com, 코스피지수 (KS11) 페이지, 2026-05-28 확인, <a href="https://kr.investing.com/indices/kospi" style="color:#2563eb;">https://kr.investing.com/indices/kospi</a></li>
+    <li>Investing.com, 코스닥 (KQ11) 페이지, 2026-05-28 확인, <a href="https://kr.investing.com/indices/kosdaq" style="color:#2563eb;">https://kr.investing.com/indices/kosdaq</a></li>
+    <li>Korea JoongAng Daily, "Kospi opens lower amid AI rally pause, mixed U.S.-Iran signals", Published 2026-05-28, <a href="https://koreajoongangdaily.joins.com/news/2026-05-28/business/markets/Kospi-opens-lower-amid-AI-rally-pause-mixed-USIran-signals/2313252" style="color:#2563eb;">기사 보기</a></li>
+    <li>AJU PRESS AMP, "KOSPI flattens as foreign selling and narrow breadth test record run", Posted 2026-05-28, <a href="https://www.ajupress.com/view/20260528110312807" style="color:#2563eb;">기사 보기</a></li>
+    <li>뉴스웨이, "LG에너지솔루션 10% 급등···美 AI 데이터센터 ESS 공급 계약 영향", 등록 2026-05-28, <a href="https://www.newsway.co.kr/news/view?ud=2026052810041946512" style="color:#2563eb;">기사 보기</a></li>
+    <li>The Business Times, "South Korea holds rates, reveals hawkish split within board", Published 2026-05-28, <a href="https://www.businesstimes.com.sg/international/south-korea-holds-rates-reveals-hawkish-split-within-board" style="color:#2563eb;">기사 보기</a></li>
+    <li>Investing.com, LG Energy Solution Ltd 오늘의 주가 | 373220 실시간 티커, 2026-05-28 확인, <a href="https://kr.investing.com/equities/lg-energy-solution" style="color:#2563eb;">페이지 보기</a></li>
+    <li>Investing.com, Samsung Electronics Co Ltd 오늘의 주가 | 005930 실시간 티커, 2026-05-28 확인, <a href="https://kr.investing.com/equities/samsung-electronics-co-ltd" style="color:#2563eb;">페이지 보기</a></li>
+    <li>Investing.com, Hyundai Motor 오늘의 주가 | 005380 실시간 티커, 2026-05-28 확인, <a href="https://kr.investing.com/equities/hyundai-motor" style="color:#2563eb;">페이지 보기</a></li>
+    <li>Investing.com, SK Hynix Inc 오늘의 주가 | 000660 실시간 티커, 2026-05-28 확인, <a href="https://kr.investing.com/equities/sk-hynix-inc" style="color:#2563eb;">페이지 보기</a></li>
+    <li>Investing.com, "SK하이닉스, AI 붐에 힘입어 시가총액 1조 달러 돌파", 수정 2026-05-27, <a href="https://kr.investing.com/news/stock-market-news/article-1599697" style="color:#2563eb;">기사 보기</a></li>
+  </ol>
+  <p style="font-size:14px;color:#4b5563;margin:0;">이 글은 투자 권유가 아니라 오늘 장중 흐름을 이해하기 쉽게 정리한 해설형 리포트입니다.</p>
+</div>

@@ -1,0 +1,59 @@
+<div style="font-family:Arial,'Noto Sans',sans-serif;color:#1f2937;line-height:1.75;max-width:860px;margin:0 auto;padding:24px;">
+  <h1 style="font-size:30px;margin:0 0 18px;color:#0f172a;">South Korea Market Close on May 28, 2026: KOSPI Took a Breather While Batteries Stole the Spotlight</h1>
+  <p style="font-size:16px;margin:0 0 16px;">South Korean stocks closed lower on Thursday, May 28, 2026, but the move looked more like a pause after a record run than a full change in trend. The KOSPI ended at 8,185.25, down 43.45 points or 0.53%, while the KOSDAQ closed at 1,104.36, down 28.77 points or 2.54%. 1) 2) The key point is that the market did not weaken in a uniform way. Semiconductor names started to cool after a powerful rally, foreign selling weighed on sentiment, and at the same time part of the market rotated toward selected battery plays led by LG Energy Solution. 3) 4) 5)</p>
+  <p style="font-size:16px;margin:0 0 20px;">For international readers, this was a useful reminder that the Korean market is not just a single AI trade. Today’s session showed a more nuanced picture: heavyweight index names pulled back, growth shares in the KOSDAQ were hit harder, and a fresh contract story in energy storage gave battery stocks a new narrative.</p>
+
+  <div style="background:#eef6ff;border-left:6px solid #2563eb;padding:16px 18px;margin:0 0 24px;border-radius:8px;">
+    <strong style="display:block;margin-bottom:8px;color:#1d4ed8;">Quick Take</strong>
+    <ul style="margin:0;padding-left:20px;">
+      <li>KOSPI closed at 8,185.25, down 0.53%. 1)</li>
+      <li>KOSDAQ closed at 1,104.36, down 2.54%, showing a sharper risk-off tone in smaller growth shares. 2)</li>
+      <li>The market was digesting the prior day’s historic move above 8,200 and dealing with foreign selling pressure. 3) 4)</li>
+      <li>Battery names stood out after LG Energy Solution surged on a U.S. ESS contract. 5) 7)</li>
+      <li>The next session will be about whether foreign flows stabilize and whether money keeps rotating between semiconductors and batteries.</li>
+    </ul>
+  </div>
+
+  <h2 style="font-size:24px;margin:28px 0 12px;color:#111827;">Index Performance and Why the KOSDAQ Looked More Fragile</h2>
+  <p style="margin:0 0 16px;">The KOSPI traded between 8,221.88 and 8,124.16 before finishing lower, which tells us this was not a straight-line selloff but a day of intraday hesitation and profit-taking. 1) The KOSDAQ moved between 1,127.64 and 1,102.82 and ultimately fell much more sharply than the KOSPI. 2) That gap matters. In Korea, the KOSDAQ usually carries a heavier mix of smaller growth-oriented companies, so when investors become a little more selective or defensive, the KOSDAQ often absorbs the bigger hit first. 2) 4)</p>
+  <p style="margin:0 0 16px;">Several reports published on May 28 framed the session as a cooling phase after a very strong AI-driven rally. Korea JoongAng Daily pointed to a pause in the AI trade and mixed U.S.-Iran signals early in the day, while AJU PRESS highlighted foreign selling and narrow market breadth. 3) 4) Put together, those signals suggest the market was not abandoning the broader bullish story, but it was clearly less willing to chase every momentum name at once.</p>
+
+  <h2 style="font-size:24px;margin:28px 0 12px;color:#111827;">What Actually Moved the Market</h2>
+  <h3 style="font-size:20px;margin:18px 0 10px;color:#1f2937;">Semiconductors cooled, but leadership inside the group remained uneven</h3>
+  <p style="margin:0 0 16px;">Samsung Electronics fell 2.12% to 300,500 won, but SK hynix rose 1.25% to 2,271,000 won. 8) 10) That divergence is important because it shows the semiconductor theme was not simply breaking down. Instead, investors appeared to be taking profits in some names while still rewarding companies with the strongest AI memory narrative. SK hynix had another layer of support from coverage around its market capitalization surpassing the 1 trillion dollar mark, reinforcing the idea that AI-linked memory remains a core driver of Korean equity enthusiasm. 11)</p>
+
+  <h3 style="font-size:20px;margin:18px 0 10px;color:#1f2937;">Batteries found a new talking point through AI infrastructure</h3>
+  <p style="margin:0 0 16px;">LG Energy Solution jumped 15.25% to 442,000 won after news of an energy storage system battery supply agreement with U.S. utility DTE Energy for data center demand. 5) 7) This mattered beyond one stock. Investors have been asking whether the global AI boom benefits only chips, or whether it also expands electricity demand, backup power needs, and storage infrastructure. The LG Energy Solution move gave the battery sector a concrete way to connect itself to that broader AI capital spending story. That is why today’s rally in the name drew so much attention.</p>
+
+  <h3 style="font-size:20px;margin:18px 0 10px;color:#1f2937;">The Bank of Korea held rates, and caution still shaped the backdrop</h3>
+  <p style="margin:0 0 16px;">The Bank of Korea kept rates unchanged on May 28. The Business Times said the decision came with signs of a hawkish split inside the board, against a backdrop of Middle East uncertainty, inflation concerns, and currency sensitivity. 6) That does not automatically trigger equity weakness, but it does make the market more selective. When rate expectations do not ease much, richly valued growth shares can face more pressure, which helps explain why the KOSDAQ underperformed on the day. 2) 6)</p>
+
+  <h2 style="font-size:24px;margin:28px 0 12px;color:#111827;">Sector Signals and Representative Stocks</h2>
+  <p style="margin:0 0 16px;">The most useful lesson from Thursday’s close is that headline index weakness did not mean every major sector was equally weak. Hyundai Motor closed flat at 681,000 won, reflecting a wait-and-see tone in another heavyweight segment. 9) Within semiconductors, investors differentiated between Samsung Electronics and SK hynix rather than treating the whole group the same way. 8) 10) 11) Within batteries, LG Energy Solution became the day’s standout because its contract story arrived with a clear business explanation that the market could understand immediately. 5) 7)</p>
+  <p style="margin:0 0 16px;">For readers who do not follow Korea every day, this is often how short-term turning points begin to appear. The index may look soft, but leadership starts to rotate under the surface. When that happens, tracking where new money is willing to go can be more informative than focusing only on the red close of the headline index.</p>
+
+  <h2 style="font-size:24px;margin:28px 0 12px;color:#111827;">What to Watch Next</h2>
+  <ul style="margin:0 0 18px;padding-left:20px;">
+    <li>Whether foreign selling was only a one-day pause after a historic rally, or the start of a broader consolidation. 4)</li>
+    <li>Whether the performance gap between Samsung Electronics and SK hynix continues. 8) 10) 11)</li>
+    <li>Whether LG Energy Solution’s surge spills over into the wider Korean battery complex. 5) 7)</li>
+    <li>How Korean equities react to the Bank of Korea’s steady but still cautious policy tone. 6)</li>
+  </ul>
+  <p style="margin:0 0 18px;">The bottom line is that May 28 was not simply a “bad day” for Korean stocks. It was a session that combined profit-taking, selective risk reduction, and early signs of sector rotation. If that rotation continues, the next trading day could matter less for the raw index number and more for which theme investors choose to trust next.</p>
+
+  <h2 style="font-size:22px;margin:28px 0 12px;color:#111827;">Sources</h2>
+  <ol style="padding-left:20px;margin:0 0 18px;">
+    <li>Investing.com, KOSPI Composite Index page, checked on 2026-05-28, <a href="https://kr.investing.com/indices/kospi" style="color:#2563eb;">https://kr.investing.com/indices/kospi</a></li>
+    <li>Investing.com, KOSDAQ page, checked on 2026-05-28, <a href="https://kr.investing.com/indices/kosdaq" style="color:#2563eb;">https://kr.investing.com/indices/kosdaq</a></li>
+    <li>Korea JoongAng Daily, "Kospi opens lower amid AI rally pause, mixed U.S.-Iran signals", published 2026-05-28, <a href="https://koreajoongangdaily.joins.com/news/2026-05-28/business/markets/Kospi-opens-lower-amid-AI-rally-pause-mixed-USIran-signals/2313252" style="color:#2563eb;">article link</a></li>
+    <li>AJU PRESS AMP, "KOSPI flattens as foreign selling and narrow breadth test record run", posted 2026-05-28, <a href="https://www.ajupress.com/view/20260528110312807" style="color:#2563eb;">article link</a></li>
+    <li>Newsway, "LG에너지솔루션 10% 급등···美 AI 데이터센터 ESS 공급 계약 영향", published 2026-05-28, <a href="https://www.newsway.co.kr/news/view?ud=2026052810041946512" style="color:#2563eb;">article link</a></li>
+    <li>The Business Times, "South Korea holds rates, reveals hawkish split within board", published 2026-05-28, <a href="https://www.businesstimes.com.sg/international/south-korea-holds-rates-reveals-hawkish-split-within-board" style="color:#2563eb;">article link</a></li>
+    <li>Investing.com, LG Energy Solution Ltd price page, checked on 2026-05-28, <a href="https://kr.investing.com/equities/lg-energy-solution" style="color:#2563eb;">page link</a></li>
+    <li>Investing.com, Samsung Electronics Co Ltd price page, checked on 2026-05-28, <a href="https://kr.investing.com/equities/samsung-electronics-co-ltd" style="color:#2563eb;">page link</a></li>
+    <li>Investing.com, Hyundai Motor price page, checked on 2026-05-28, <a href="https://kr.investing.com/equities/hyundai-motor" style="color:#2563eb;">page link</a></li>
+    <li>Investing.com, SK Hynix Inc price page, checked on 2026-05-28, <a href="https://kr.investing.com/equities/sk-hynix-inc" style="color:#2563eb;">page link</a></li>
+    <li>Investing.com, "SK하이닉스, AI 붐에 힘입어 시가총액 1조 달러 돌파", updated 2026-05-27, <a href="https://kr.investing.com/news/stock-market-news/article-1599697" style="color:#2563eb;">article link</a></li>
+  </ol>
+  <p style="font-size:14px;color:#4b5563;margin:0;">This report is not investment advice. It is an explanatory market wrap meant to help readers understand the day’s trading flow.</p>
+</div>

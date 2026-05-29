@@ -1,0 +1,53 @@
+<div style="font-family: Arial, sans-serif; line-height:1.75; color:#222; max-width:860px; margin:0 auto; padding:20px;">
+  <h1 style="font-size:28px; color:#111; margin:0 0 14px;">KOSPI Closes Above 8,470 as AI Chip Leaders Lift Korea, While KOSDAQ Weakness Shows a Split Market</h1>
+  <p style="font-size:16px; margin:0 0 16px;">South Korea's stock market traded normally on Friday, May 29, 2026. The closing message was clear but not simple: the KOSPI looked very strong because large AI semiconductor and electronics names led the index higher, while the broader market felt much less even. The KOSPI finished at 8,474.93, up 289.64 points or 3.54% from the previous close. Its intraday range stretched from 8,273.74 to 8,474.93, meaning the benchmark ended near its high after rebounding from the previous day's 8,185.29 close.1)</p>
+  <p style="font-size:16px; margin:0 0 18px;">The KOSDAQ told a different story. It was indicated around 1,073.84 at the close, down from the previous 1,104.36 level, and its intraday movement from 1,112.15 to 1,058.13 showed how much pressure remained on growth and smaller-cap shares.2) For overseas readers, the key point is that Korea's headline index strength did not mean the whole market moved together.</p>
+  <div style="background:#eef5ff; border-left:5px solid #2f6fed; padding:14px 16px; margin:18px 0;">
+    <strong>Market Close At A Glance</strong>
+    <ul style="margin:10px 0 0 20px; padding:0;">
+      <li>KOSPI: 8,474.93, up 3.54%, led by large-cap technology and AI-related names.1)</li>
+      <li>KOSDAQ: weaker on the day, with growth stocks lagging as liquidity concentrated in index heavyweights.2)</li>
+      <li>Main drivers: optimism around U.S.-Iran ceasefire talks, stronger U.S. markets, Samsung Electronics' HBM4E sample shipment, and institutional buying.3)8)</li>
+      <li>Main risk: the market is increasingly concentrated in Samsung Electronics and SK hynix, while volatility indicators remain elevated.5)</li>
+    </ul>
+  </div>
+
+  <h2 style="font-size:22px; color:#111; margin-top:26px;">Index Picture: A Strong KOSPI, But Not A Broad Rally</h2>
+  <p>The KOSPI's rebound was partly a recovery from the previous session's pullback. Early sentiment improved on expectations around a temporary U.S.-Iran ceasefire extension and strength in New York equities. The more Korea-specific catalyst was Samsung Electronics' announcement that it had shipped samples of its 12-layer HBM4E memory product, a next-generation AI memory component. SBS Biz reported during the morning session that the KOSPI was attempting to settle above 8,400, while Samsung Electronics rose on the HBM4E news and SK hynix also traded near record territory.3)</p>
+  <p>However, the KOSDAQ did not follow the same path. Capital continued to cluster around large KOSPI technology shares, leaving many growth names and smaller companies under pressure. That is why the day may have felt confusing to retail investors: the headline index was surging, but many individual portfolios may not have reflected that strength. Today's Korean market was not simply a broad risk-on day. It was a selective rally led by AI memory, large electronics names, and index-linked institutional demand.</p>
+
+  <h2 style="font-size:22px; color:#111; margin-top:26px;">What Moved The Market Today?</h2>
+  <h3 style="font-size:18px; margin-top:16px;">1. AI Semiconductor Expectations Returned To Center Stage</h3>
+  <p>Samsung Electronics said it had supplied global customers with samples of its seventh-generation, 12-layer HBM4E high-bandwidth memory product. The Dong-A Ilbo described the announcement as coming just three months after Samsung's HBM4 mass-production shipment, positioning it as an issue tied to leadership in next-generation AI memory.8) Investors interpreted this not just as a product headline, but as a signal that AI server demand could translate into Korean semiconductor earnings momentum.</p>
+  <h3 style="font-size:18px; margin-top:16px;">2. Institutional Buying Supported The Benchmark</h3>
+  <p>Asia Business Daily reported that, around 12:49 p.m., the KOSPI was holding near the 8,400 level despite selling by foreign and individual investors, thanks to continued institutional buying. The report also noted strength in telecom, electrical and electronics, transportation equipment and parts, distribution, and manufacturing sectors.4) This flow explains the character of the session: broad foreign appetite was not uniformly strong, but institutional demand for large-cap and index-sensitive shares was enough to lift the benchmark.</p>
+  <h3 style="font-size:18px; margin-top:16px;">3. Concentration Is Both The Opportunity And The Risk</h3>
+  <p>According to a Yonhap report carried by the Financial News, the VKOSPI volatility index rose for a fourth straight session to 73.95. Analysts pointed out that Samsung Electronics and SK hynix now account for a very large share of the KOSPI, so moves in those two names can move the broader index.5) In plain language, a market this concentrated can rise quickly when the news is favorable, but it can also swing sharply when sentiment turns.</p>
+
+  <h2 style="font-size:22px; color:#111; margin-top:26px;">Sector And Stock Highlights</h2>
+  <p>Electronics, semiconductors, and AI infrastructure-related parts were the most visible areas of strength. Samsung Electronics gained attention from the HBM4E news, while SK hynix remained a key name linked to AI memory demand. Samsung Electro-Mechanics also stood out. Channel A reported that the company crossed 2 million won intraday and briefly overtook Hyundai Motor to rank fourth by market capitalization on the KOSPI, helped by expectations for AI server MLCC demand.9)</p>
+  <p>Some large electronics and component names such as LG Electronics and LG Innotek also strengthened, showing that investors were willing to extend the AI and high-value component story beyond pure memory. But biotechnology, secondary battery, and many KOSDAQ growth names remained weak. Newsis reported that, over the past month, 2,276 of 2,764 listed KOSPI and KOSDAQ stocks, or 82.34%, had declined, pointing to the deepening concentration in large caps and semiconductor names.6) That is why the Korean market can look extremely strong from the outside while still feeling uneven from the inside.</p>
+
+  <h2 style="font-size:22px; color:#111; margin-top:26px;">What To Watch Next Trading Day</h2>
+  <ul style="margin-left:20px; padding:0;">
+    <li><strong>Durability of the semiconductor rally:</strong> Samsung's HBM4E news needs to evolve from a short-term catalyst into customer validation and production visibility.</li>
+    <li><strong>KOSDAQ stabilization:</strong> Dailian noted that the KOSPI had risen 24.04% month-to-date while the KOSDAQ had fallen 7%, with potential rate-hike concerns weighing on growth stock valuations.7)</li>
+    <li><strong>Volatility discipline:</strong> A rising VKOSPI means investors are still pricing risk even as the benchmark pushes higher.5)</li>
+    <li><strong>Foreign flows and the won:</strong> At high index levels, foreign profit-taking and currency swings can make intraday moves sharper.</li>
+  </ul>
+  <p style="background:#fff7e6; border-left:5px solid #f0a000; padding:14px 16px; margin-top:18px;">In short, the KOSPI's close above 8,470 was a powerful headline, but the real story was selective strength. The next session will be less about whether the headline index can set another high and more about whether buying spreads beyond AI semiconductor leaders into a wider group of Korean equities.</p>
+  <p>This article is not an investment recommendation. It is an explanatory market close report designed to help readers understand today's trading flow. Any investment decision should be made carefully based on personal risk tolerance, time horizon, and financial circumstances.</p>
+
+  <h2 style="font-size:22px; color:#111; margin-top:26px;">Sources</h2>
+  <ol style="margin-left:20px; padding:0;">
+    <li>Investing.com, 'KOSPI Index (KS11)', closing index, previous close and intraday range for May 29, 2026.</li>
+    <li>Investing.com, 'KOSDAQ (KQ11)', index level, previous close and intraday range for May 29, 2026.</li>
+    <li>SBS Biz, 'KOSPI recovers the 8,400 level during trading as New York stocks close at records', May 29, 2026.</li>
+    <li>Asia Business Daily, 'KOSPI hovers around 8,400; KOSDAQ turns higher', May 29, 2026.</li>
+    <li>Financial News/Yonhap News, 'Concerns over Samsung Electronics-SK hynix concentration and leveraged products as fear gauge rises despite rally', May 29, 2026.</li>
+    <li>Newsis, 'Only Samsung Electronics and SK hynix rose? 82% of KOSPI and KOSDAQ stocks declined', May 29, 2026.</li>
+    <li>Dailian, 'What happens to KOSDAQ amid liquidity concentration and possible rate hikes?', May 29, 2026.</li>
+    <li>The Dong-A Ilbo, 'Samsung ships world's first HBM4E samples, seeking leadership in next-generation AI memory', May 29, 2026.</li>
+    <li>Channel A, 'Samsung Electro-Mechanics overtakes Hyundai Motor by market cap after crossing 2 million won intraday', May 29, 2026.</li>
+  </ol>
+</div>

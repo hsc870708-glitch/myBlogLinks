@@ -1,0 +1,52 @@
+<div style="font-family: Arial, 'Noto Sans SC', sans-serif; line-height:1.78; color:#222; max-width:860px; margin:0 auto;">
+  <h1 style="font-size:28px; line-height:1.35; color:#111; margin:0 0 18px;">KOSPI收于8,646.50点：韩国股市上涨背后，是AI机器人预期与半导体集中行情</h1>
+  <p style="font-size:16px; margin:0 0 14px;">2026年6月1日，韩国股市在收盘时继续刷新强势印象。KOSPI指数收于8,646.50点，较前一交易日上涨170.35点，涨幅2.01%；KOSDAQ指数收于1,077.41点，上涨2.61点，涨幅0.24%。盘中KOSPI一度突破8,800点，但收盘前回落了一部分涨幅。1)</p>
+  <p style="font-size:16px; margin:0 0 18px;">今天的重点并不是“韩国股市又涨了”这么简单，而是资金流向发生了新的变化。英伟达CEO黄仁勋可能访问首尔的消息，带动市场重新定价LG集团、NAVER、机器人和机械设备板块；与此同时，三星电子、SK海力士等半导体龙头仍然决定着KOSPI的大方向。2) 3)</p>
+
+  <div style="background:#f2f7ff; border-left:5px solid #2f6fed; padding:16px 18px; margin:20px 0;">
+    <strong style="display:block; font-size:17px; margin-bottom:8px;">收盘要点速览</strong>
+    <ul style="margin:0; padding-left:20px;">
+      <li>KOSPI：8,646.50点，涨2.01%，盘中曾突破8,800点。1) 4)</li>
+      <li>KOSDAQ：1,077.41点，涨0.24%，盘中波动明显，最终小幅收高。1)</li>
+      <li>主线题材：AI基础设施、实体AI、机器人、机械设备、LG集团与NAVER。2)</li>
+      <li>风险信号：外资继续卖出，韩元走弱，说明指数上涨并不等于风险完全消失。2) 5)</li>
+    </ul>
+  </div>
+
+  <h2 style="font-size:22px; margin:26px 0 12px; color:#17324d;">指数表现：强势上涨，但不是一路收在最高点</h2>
+  <p style="margin:0 0 14px;">KOSPI当天以8,485.67点开盘，略高于上一交易日创下的8,476.15点历史收盘高位。随后指数快速上攻，上午10点54分左右一度升至8,826.61点，首次突破8,800点关口。4) 不过最终收盘为8,646.50点，虽然仍是大幅上涨，但从盘中高位回落，说明短线获利了结压力也在出现。1)</p>
+  <p style="margin:0 0 14px;">对中国投资者来说，这一点尤其值得注意。韩国股市今年的上涨非常强，但并不是所有股票都同步上涨。KOSDAQ虽然最终收红，但涨幅只有0.24%，盘中还经历了反复震荡。部分机器人和成长股获得资金追捧，而生物医药、二次电池和部分中小盘股票的表现相对分化。1) 5)</p>
+
+  <h2 style="font-size:22px; margin:26px 0 12px; color:#17324d;">推动市场的核心因素：黄仁勋访韩预期与“实体AI”</h2>
+  <p style="margin:0 0 14px;">今天最强的催化因素，是市场对英伟达CEO黄仁勋本周访问首尔的期待。Aju Press报道称，黄仁勋可能与LG和NAVER方面会面，这使投资者开始期待韩国企业与全球AI芯片龙头在人工智能和机器人领域展开合作。LG电子、LG控股、LG CNS和NAVER因此受到关注，机械板块也在Robostar、斗山机器人等个股带动下走强。2)</p>
+  <p style="margin:0 0 14px;">这与过去几个月单纯围绕半导体的行情有些不同。此前韩国股市的核心逻辑主要是AI服务器需求带动高带宽内存，进而推升三星电子和SK海力士。今天市场关注的是AI如何从芯片扩展到现实产业场景，包括机器人、自动化工厂、AI基础设施和平台生态。这也是市场所说的“实体AI”或“Physical AI”逻辑。2)</p>
+
+  <h2 style="font-size:22px; margin:26px 0 12px; color:#17324d;">行业结构：半导体仍是KOSPI的核心，但集中度也带来隐忧</h2>
+  <p style="margin:0 0 14px;">即使今天机器人和LG集团成为焦点，半导体仍然是韩国股市最重要的支柱。Chosun English引用Eugene Investment & Securities报告称，半导体行业在KOSPI总市值中的占比，从去年6月的25%升至今年的54.6%；同时，半导体预计可能贡献KOSPI整体营业利润的60%至70%。3)</p>
+  <p style="margin:0 0 14px;">这说明一个问题：KOSPI指数看起来非常强，但上涨的权重高度集中。如果三星电子和SK海力士上涨，指数就可能大幅走高；但很多普通股票未必有同样表现。该报道还提到，如果剔除半导体股票，KOSPI的实际体感水平可能更接近4,100至4,200点区间。3) 换句话说，韩国股市的牛市是真实存在的，但它并不是平均分配给所有行业和所有个股的牛市。</p>
+
+  <h2 style="font-size:22px; margin:26px 0 12px; color:#17324d;">代表性股票：LG、NAVER与三星电子承担不同角色</h2>
+  <p style="margin:0 0 14px;">LG电子盘中一度上涨约28%，LG控股和LG CNS也同步走强。NAVER则因为AI基础设施和潜在合作预期受到追捧。2) 这些股票代表了韩国市场试图寻找“半导体之后的下一层AI故事”。如果AI从数据中心走向机器人、工厂和服务平台，那么LG和NAVER这类公司就可能进入新的估值讨论。</p>
+  <p style="margin:0 0 14px;">三星电子依然保持强势，但今天的市场主导权明显从传统芯片龙头扩散到AI合作和机器人概念。SK海力士盘中表现相对反复，也说明半导体内部已经开始出现更细致的选择。2) 另一方面，外资持续卖出仍是压力。Aju Press报道称，外资卖出至少已经延续到第16个交易日，自5月初以来累计卖出规模接近50万亿韩元。2) 亚洲经济也报道称，盘中外资卖压较大，而个人和机构资金承接了部分抛压。5)</p>
+
+  <h2 style="font-size:22px; margin:26px 0 12px; color:#17324d;">下一交易日看点：预期能否变成真正的合作</h2>
+  <p style="margin:0 0 14px;">6月2日最重要的观察点，是与英伟达相关的市场期待能否变成具体消息，例如合作协议、共同开发、投资计划或订单。如果只有会面和战略信号，股价在短期急涨后容易出现获利回吐；如果出现明确合作内容，AI机器人和基础设施主题可能继续获得支撑。</p>
+  <p style="margin:0 0 14px;">第二个看点是外汇与外资流向。Aju Press报道，韩元一度走弱至1美元兑1,510.1韩元。2) 对海外投资者而言，即使韩国股票上涨，如果韩元继续贬值，以美元计价的回报也会受到影响。因此，KOSPI创新高与韩元走弱同时出现，是需要谨慎解读的组合。</p>
+  <p style="margin:0 0 14px;">第三个看点是交易日安排。Seoul Economic Daily报道称，韩国交易所将在6月3日地方选举日休市。6) 因此6月2日可能出现节前仓位调整、短线获利了结和事件预期再评估。对市场来说，接下来比“指数还能不能继续涨”更重要的问题，是今天上涨的题材能否获得真实业绩和合作消息支撑。</p>
+
+  <div style="background:#fff8e6; border:1px solid #f0d48a; padding:15px 18px; margin:22px 0;">
+    <strong style="display:block; margin-bottom:8px;">总结</strong>
+    <p style="margin:0;">6月1日的韩国股市非常强，但也非常有选择性。KOSPI继续处在历史高位，AI和机器人主题扩散，半导体仍是指数核心；但外资卖出、韩元走弱、KOSDAQ体感分化和短线获利压力也同时存在。理解今天的行情，不能只看指数涨幅，更要看资金集中在哪些行业，以及这些预期未来能否被真实合作和业绩验证。</p>
+  </div>
+
+  <h2 style="font-size:22px; margin:26px 0 12px; color:#17324d;">来源</h2>
+  <ol style="padding-left:20px; margin:0 0 18px;">
+    <li>GSIFN IRPlus，“Samsung Electronics :: Major Index Comparison”，2026年6月1日指数数据。</li>
+    <li>Aju Press，“KOSPI hits fresh high as Nvidia chief's expected Seoul visit raises AI partnership hopes”，2026年6月1日。</li>
+    <li>Chosun English，“KOSPI's Illusion: Semiconductors Hide 4,100 Stagnation”，2026年6月1日。</li>
+    <li>Maeil Business Newspaper，“[Breaking] KOSPI Breaks Above 8,800 Intraday, Renews Record High”，2026年6月1日。</li>
+    <li>Asia Business Daily，“KOSPI Rises More Than 3%, Breaks Above 8,700 and Renews Record High”，2026年6月1日。</li>
+    <li>Seoul Economic Daily，“Korea Exchange to Close on Local Election Day, Constitution Day”，2026年5月20日。</li>
+  </ol>
+  <p style="font-size:14px; color:#666; margin:18px 0 0;">本文不构成投资建议，只是为了帮助读者理解当天韩国股市交易脉络而整理的解释型市场评论。</p>
+</div>

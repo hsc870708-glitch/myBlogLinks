@@ -1,0 +1,52 @@
+<div style="font-family: Arial, sans-serif; line-height:1.75; color:#222; max-width:860px; margin:0 auto;">
+  <h1 style="font-size:28px; line-height:1.35; color:#111; margin:0 0 18px;">KOSPI Closes at 8,646.50: Korea’s Market Rally Is About AI, Robotics, and a Still-Dominant Chip Trade</h1>
+  <p style="font-size:16px; margin:0 0 14px;">South Korea’s stock market finished June 1, 2026 on a strong note. The KOSPI closed at 8,646.50, up 170.35 points or 2.01 percent from the previous session, while the KOSDAQ ended at 1,077.41, up 2.61 points or 0.24 percent. The headline index briefly broke above the 8,800 level intraday before giving back part of the move into the close. 1)</p>
+  <p style="font-size:16px; margin:0 0 18px;">The day’s message was not simply that Korean equities rose again. The more important point is where the buying went. Expectations around Nvidia CEO Jensen Huang’s possible Seoul visit lifted LG-related names, NAVER, robotics, and machinery shares, while the broader KOSPI remained heavily shaped by the semiconductor giants that have driven much of Korea’s 2026 equity rally. 2) 3)</p>
+
+  <div style="background:#f2f7ff; border-left:5px solid #2f6fed; padding:16px 18px; margin:20px 0;">
+    <strong style="display:block; font-size:17px; margin-bottom:8px;">Market Close at a Glance</strong>
+    <ul style="margin:0; padding-left:20px;">
+      <li>KOSPI: 8,646.50, up 2.01 percent after an intraday break above 8,800. 1) 4)</li>
+      <li>KOSDAQ: 1,077.41, up 0.24 percent after a volatile session. 1)</li>
+      <li>Main themes: AI infrastructure, physical AI, robotics, machinery, LG Group, and NAVER. 2)</li>
+      <li>Key risk signal: foreign selling and Korean won weakness continued even as the headline equity index reached new highs. 2) 5)</li>
+    </ul>
+  </div>
+
+  <h2 style="font-size:22px; margin:26px 0 12px; color:#17324d;">Index Performance: A Powerful Rally, but Not a Clean Close at the High</h2>
+  <p style="margin:0 0 14px;">The KOSPI started the day at 8,485.67, slightly above the previous record close of 8,476.15. Momentum accelerated quickly, and by late morning the index had crossed the 8,800 mark for the first time, reaching 8,826.61 around 10:54 a.m. local time. 4) The final close at 8,646.50 was still a strong gain, but it also showed that investors took some profits after the morning surge. 1)</p>
+  <p style="margin:0 0 14px;">For international readers, this distinction matters. Korea’s market remains one of the most momentum-driven equity stories in Asia, but the intraday fade shows that investors are not simply buying everything at any price. The KOSDAQ’s modest 0.24 percent gain also shows that the rally was selective. Growth stocks and robotics names caught attention, but parts of biotechnology and battery-related small and mid-cap shares remained under pressure. 1) 5)</p>
+
+  <h2 style="font-size:22px; margin:26px 0 12px; color:#17324d;">What Moved the Market: Nvidia Visit Hopes and the Physical AI Narrative</h2>
+  <p style="margin:0 0 14px;">The clearest catalyst was the expectation that Nvidia CEO Jensen Huang would visit Seoul during the week for meetings with LG and NAVER. Aju Press reported that the potential meetings fueled hopes for artificial intelligence and robotics partnerships involving Korea’s leading technology and industrial groups. LG Electronics, LG Corp., LG CNS, and NAVER all attracted strong market attention, while the machinery sector rallied behind robotics names such as Robostar and Doosan Robotics. 2)</p>
+  <p style="margin:0 0 14px;">This was not just another semiconductor day. Korea’s market has been dominated for months by Samsung Electronics and SK hynix, whose AI memory exposure turned the KOSPI into a global proxy for high-bandwidth memory and AI data center demand. On June 1, however, investors broadened the AI story toward “physical AI”: robotics, automated factories, AI infrastructure, and platform companies that could benefit if global AI leaders deepen partnerships with Korean firms. 2)</p>
+
+  <h2 style="font-size:22px; margin:26px 0 12px; color:#17324d;">Sector Picture: Semiconductors Still Define the KOSPI</h2>
+  <p style="margin:0 0 14px;">Even with robotics in the spotlight, semiconductors remain the backbone of the Korean equity market. Chosun English cited a Eugene Investment & Securities report saying that the semiconductor sector’s share of KOSPI market capitalization rose from 25 percent in June of last year to 54.6 percent this year. The same report estimated that semiconductors could account for 60 to 70 percent of total KOSPI operating profit. 3)</p>
+  <p style="margin:0 0 14px;">That concentration explains why headline index records can feel very different from the experience of many investors. If Samsung Electronics and SK hynix are strong, the KOSPI can rise sharply even when the average stock is not participating in the same way. Chosun also noted an analysis suggesting that excluding semiconductor stocks, the effective KOSPI level would look closer to the 4,100 to 4,200 range. 3) In plain terms, Korea’s rally is real, but it is not evenly distributed.</p>
+
+  <h2 style="font-size:22px; margin:26px 0 12px; color:#17324d;">Key Stocks: LG and NAVER Carried the New AI Story</h2>
+  <p style="margin:0 0 14px;">LG Electronics surged by around 28 percent in early trading, while LG Corp. and LG CNS also moved sharply higher. NAVER gained attention as investors linked the company to AI infrastructure and possible cooperation with global AI players. 2) These stocks represented the market’s attempt to find the next layer of Korea’s AI trade beyond memory chips.</p>
+  <p style="margin:0 0 14px;">Samsung Electronics remained firm, but the leadership of the session clearly shifted toward AI partnership and robotics expectations. SK hynix showed a more mixed tone during the session, underlining that even within the semiconductor complex the market is becoming more selective. 2) Meanwhile, foreign investors remained net sellers. Aju Press reported that foreign selling had extended to at least a sixteenth consecutive session, with cumulative selling since early May approaching 50 trillion won. 2) Asia Business Daily also reported heavy foreign selling during the morning while domestic individuals and institutions helped absorb the pressure. 5)</p>
+
+  <h2 style="font-size:22px; margin:26px 0 12px; color:#17324d;">Next Trading Day: Watch Whether Expectations Become Real Deals</h2>
+  <p style="margin:0 0 14px;">The first issue to watch on June 2 is whether the Nvidia-related excitement turns into concrete announcements, such as contracts, joint development plans, or investment commitments. A rally based on meetings and strategic signals can continue if hard evidence follows, but it can also reverse quickly if investors decide the expectations ran too far ahead of confirmed news.</p>
+  <p style="margin:0 0 14px;">The second issue is the foreign exchange and foreign-flow backdrop. Aju Press reported the Korean won weakening to 1,510.1 against the U.S. dollar, a reminder that the equity rally is happening alongside currency pressure. 2) For foreign investors, a weaker won can reduce the attractiveness of Korean equity gains when translated back into dollars.</p>
+  <p style="margin:0 0 14px;">The third issue is the trading calendar. Seoul Economic Daily reported that the Korea Exchange will close its markets on June 3 for Local Election Day. 6) That makes June 2 important because investors may reduce risk, take profits, or adjust positions before the holiday. The market is strong, but the next session should be read through the lens of confirmation, not just momentum.</p>
+
+  <div style="background:#fff8e6; border:1px solid #f0d48a; padding:15px 18px; margin:22px 0;">
+    <strong style="display:block; margin-bottom:8px;">Bottom Line</strong>
+    <p style="margin:0;">Korea’s June 1 close was bullish, but selective. The KOSPI set another record zone, AI and robotics themes broadened, and semiconductor concentration remained the central structural feature of the market. The key question now is whether the new AI partnership narrative can produce concrete evidence strong enough to offset foreign selling, currency pressure, and the risk of short-term profit-taking.</p>
+  </div>
+
+  <h2 style="font-size:22px; margin:26px 0 12px; color:#17324d;">Sources</h2>
+  <ol style="padding-left:20px; margin:0 0 18px;">
+    <li>GSIFN IRPlus, “Samsung Electronics :: Major Index Comparison,” June 1, 2026 index data.</li>
+    <li>Aju Press, “KOSPI hits fresh high as Nvidia chief's expected Seoul visit raises AI partnership hopes,” June 1, 2026.</li>
+    <li>Chosun English, “KOSPI's Illusion: Semiconductors Hide 4,100 Stagnation,” June 1, 2026.</li>
+    <li>Maeil Business Newspaper, “[Breaking] KOSPI Breaks Above 8,800 Intraday, Renews Record High,” June 1, 2026.</li>
+    <li>Asia Business Daily, “KOSPI Rises More Than 3%, Breaks Above 8,700 and Renews Record High,” June 1, 2026.</li>
+    <li>Seoul Economic Daily, “Korea Exchange to Close on Local Election Day, Constitution Day,” May 20, 2026.</li>
+  </ol>
+  <p style="font-size:14px; color:#666; margin:18px 0 0;">This article is not investment advice. It is an explanatory market commentary designed to help readers understand the day’s trading flow.</p>
+</div>

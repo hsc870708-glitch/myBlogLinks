@@ -1,0 +1,53 @@
+<article style="font-family: Arial, sans-serif; line-height:1.72; color:#222; max-width:860px; margin:0 auto; padding:20px;">
+  <h1 style="font-size:30px; color:#111; margin-bottom:14px;">KOSPI Pulls Back After Testing 8,900: South Korea Market Close, June 2, 2026</h1>
+  <p style="font-size:16px; color:#444;">South Korea’s stock market opened June 2 with the kind of momentum that usually makes investors talk about a new milestone. The KOSPI briefly climbed to 8,933.62, moving within sight of the psychologically important 9,000 level, but the rally did not hold. By the close, the index had retreated to 8,600.74, while the KOSDAQ slid to around 1,014.69, showing that the market’s AI-driven optimism was now meeting short-term profit-taking and heavier volatility.1)2)</p>
+  <p style="font-size:16px; color:#444;">The day’s message was not that the AI and semiconductor story had suddenly disappeared. Rather, the market showed how fragile a fast rally can become when leadership is concentrated in a small number of heavyweight technology names. The previous session had already lifted the KOSPI to a record close of 8,788.38, leaving it only 211.62 points away from 9,000. U.S. technology shares, the MSCI Korea ETF, and KOSPI overnight futures all strengthened before the Korean open, so the early buying made sense.3) But once the index pushed above 8,900, foreign selling, program trades, and concerns about leveraged product flows quickly changed the tone.1)3)</p>
+
+  <div style="background:#f4f7fb; border-left:5px solid #2f6fed; padding:16px 18px; margin:22px 0;">
+    <strong style="display:block; font-size:18px; margin-bottom:8px;">Quick Market Summary</strong>
+    <ul style="margin:0; padding-left:20px;">
+      <li>KOSPI: touched 8,933.62 intraday before falling back to 8,600.74 as profit-taking accelerated.1)</li>
+      <li>KOSDAQ: dropped to about 1,014.69, down 3.37%, showing weaker risk appetite in growth shares.2)</li>
+      <li>Flows: foreign investors were reported as net sellers, while retail and institutional investors absorbed part of the pressure.1)</li>
+      <li>Key stocks: Samsung Electronics held relatively firm, while SK hynix, Hyundai Motor, Samsung Electro-Mechanics, and several LG, Naver, and Doosan-related names faced selling pressure.1)4)</li>
+      <li>Next session factor: Korean markets will be closed on June 3 for local elections.5)</li>
+    </ul>
+  </div>
+
+  <h2 style="font-size:24px; color:#111; margin-top:28px;">Why Did the KOSPI Reverse After Testing 8,900?</h2>
+  <p>The opening setup looked bullish. U.S. technology shares had risen, Nvidia and other AI-related stocks remained in focus, and domestic investors were looking at the KOSPI’s 9,000 level as the next symbolic target.3) However, markets do not move only on good stories. They also move on positioning. After a very rapid advance, many short-term traders had gains to protect, and foreign investors appeared willing to lock in part of those gains near the high.</p>
+  <p>For international readers, the important context is index concentration. Korea’s main index has become heavily influenced by semiconductors, AI infrastructure, and a few very large companies. When those leaders rise, the whole market can look exceptionally strong. When money comes out of those same leaders, the index can fall sharply even if the broader economic story has not changed overnight. That is why today’s pullback looks more like a high-speed position adjustment than a clean rejection of the Korean equity story.</p>
+
+  <h2 style="font-size:24px; color:#111; margin-top:28px;">Main Drivers: AI Optimism Meets Profit-Taking</h2>
+  <h3 style="font-size:20px; color:#333; margin-top:18px;">AI and Semiconductors Still Matter</h3>
+  <p>The global backdrop remained supportive for AI-related assets. Newis reported gains in U.S. technology shares and highlighted strength in Nvidia, Micron, TSMC, and other AI infrastructure names. It also noted that the MSCI Korea ETF and KOSPI overnight futures had advanced before the local market opened.3) That explains why investors were initially willing to chase the market higher.</p>
+  <p>Still, a rally built around a narrow group of stocks can become vulnerable. If buyers keep paying higher prices because of a single theme, the market can rise quickly; but if the same group starts to face profit-taking, the index can lose altitude just as quickly. Today’s session was a textbook example of that risk. AI remains the central investment theme, but the market is beginning to ask whether the next leg higher needs clearer earnings evidence, new orders, or a broader rotation into other sectors.</p>
+
+  <h3 style="font-size:20px; color:#333; margin-top:18px;">The Jensen Huang Visit Theme Became More Selective</h3>
+  <p>Expectations around Nvidia CEO Jensen Huang’s Korea visit had recently lifted a wide group of Korean stocks, including LG, Naver, and Doosan-related names. Seoul Shinmun reported that several of those stocks weakened on June 2 as investors took profits after their sharp run-up.4) This does not mean the theme has vanished. It means investors are starting to separate real business links from simple event-driven excitement.</p>
+  <p>That distinction matters. A photo opportunity or meeting headline can move prices for a day or two, but sustainable gains usually require a clearer link to orders, production, earnings, or long-term strategic partnerships. The market’s behavior today suggests that investors are no longer buying every AI-adjacent story equally.</p>
+
+  <h2 style="font-size:24px; color:#111; margin-top:28px;">Sector and Stock Takeaways</h2>
+  <p>Semiconductors stayed at the center of the market. Samsung Electronics helped cushion the index, while SK hynix faced selling pressure.1) Because both companies carry enormous weight in Korean equities, future KOSPI direction will depend not only on memory-chip demand and AI server investment, but also on foreign flows, derivatives positioning, and leveraged ETF demand.</p>
+  <p>Auto, electronic components, and some recently popular AI-linked groups showed more stress. Hyundai Motor and Samsung Electro-Mechanics were among the names mentioned as weaker, while parts of the LG, Naver, and Doosan trade cooled after their prior rally.1)4) The KOSDAQ was even softer, with growth and smaller-cap names failing to benefit meaningfully from the large-cap rally. The gap between a strong mega-cap narrative and a weak broader growth market is one of the clearest risks to monitor.</p>
+
+  <h2 style="font-size:24px; color:#111; margin-top:28px;">What to Watch Next</h2>
+  <p>The first issue is the June 3 holiday. KRX said Korean securities, derivatives, and general commodities markets will be closed for local election day.5) That creates an overnight-plus-one-day gap in which Korean investors cannot react through the cash market. U.S. technology shares, oil prices, and the won-dollar exchange rate may therefore set the tone for the next Korean trading day.</p>
+  <p>The second issue is whether foreign selling proves temporary. If foreign investors were simply taking profits after an unusually fast rally, the market may stabilize once the selling cools. If the selling continues, the KOSPI may struggle near the 9,000 threshold even if the AI story remains popular. The third issue is rotation. A healthier market would show money moving into earnings-backed industrials, shipbuilding, defense, financials, or domestic demand names, instead of relying only on AI and semiconductor leadership.</p>
+
+  <div style="background:#fff7ed; border:1px solid #f0c48a; padding:16px 18px; margin:24px 0;">
+    <strong>Bottom Line</strong>
+    <p style="margin:8px 0 0;">June 2 was not a collapse in Korea’s AI story. It was a reminder that a market racing toward a round-number milestone can become highly sensitive to foreign selling, leverage, and holiday risk. The 9,000 level remains in sight, but the route toward it now looks more volatile.</p>
+  </div>
+
+  <p style="font-size:14px; color:#666;">This article is not investment advice. It is an explanatory market commentary designed to help readers understand the day’s trading flow.</p>
+
+  <h2 style="font-size:22px; color:#111; margin-top:28px;">Sources</h2>
+  <ol style="padding-left:22px;">
+    <li>Seoul Shinmun, “[Seoul Data Lab] KOSPI falls back to 8,600.74 after early record high,” June 2, 2026.</li>
+    <li>Maeil Business Market quote information shown in search results: KOSPI 8,600.74, KOSDAQ 1,014.69, KOSPI 200 1,370.21, checked June 2, 2026.</li>
+    <li>Newsis, “[Today’s Market] U.S. indices hit fresh highs; KOSPI 9,000 in focus,” June 2, 2026.</li>
+    <li>Seoul Shinmun, “Jensen Huang has not arrived yet, but retail investors complain after theme stocks retreat,” June 2, 2026.</li>
+    <li>Chosunbiz, “KRX closes Korea markets on June 3 election day and July 17 Constitution Day,” May 20, 2026.</li>
+  </ol>
+</article>

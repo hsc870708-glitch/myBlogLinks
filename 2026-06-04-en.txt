@@ -1,0 +1,56 @@
+<article style="font-family: Arial, sans-serif; line-height:1.72; color:#222; max-width:860px; margin:0 auto;">
+  <h1 style="font-size:28px; color:#111; margin:0 0 18px;">South Korea Stock Market Close, June 4, 2026: KOSPI Cools as Middle East Risk and FX Pressure Return</h1>
+  <p style="font-size:16px; margin:0 0 14px;">South Korea’s equity market traded normally on June 4, 2026. However, at the time this report was prepared immediately after the 3:30 p.m. KST close, a fully verifiable official closing table was not yet available through accessible sources. For that reason, this article avoids inventing final index levels and instead explains the market using confirmed prior-session closes and verified intraday information from June 4.</p>
+  <p style="font-size:16px; margin:0 0 18px;">The latest confirmed closing reference was June 2, when the KOSPI finished at 8,801.49, a fresh record area, while the KOSDAQ fell 2.29% to 1,026.03.1) Against that backdrop, June 4 was less about a collapse of the Korean market and more about a stress test after a very fast rally in large-cap technology and semiconductor names.</p>
+
+  <div style="background:#f4f7fb; border-left:5px solid #2d5be3; padding:16px 18px; margin:22px 0;">
+    <h2 style="font-size:22px; margin:0 0 10px;">Quick Market Summary</h2>
+    <ul style="padding-left:20px; margin:0;">
+      <li>The KOSPI came under 1-2% early pressure as investors digested geopolitical risk, a weaker won, and profit-taking in recent winners.2)</li>
+      <li>The won opened weaker at 1,530.0 per dollar, a level that can make foreign investors more cautious toward Korean assets.2)</li>
+      <li>Foreign investors were reported as net sellers in the KOSPI market for a 19th consecutive session.2)</li>
+      <li>The KOSDAQ moved differently, rising more than 2% intraday as some money rotated toward smaller growth names.2)</li>
+    </ul>
+  </div>
+
+  <h2 style="font-size:23px; margin-top:28px;">Why Did the KOSPI Lose Momentum?</h2>
+  <p>The simplest way to read today’s market is this: the KOSPI had climbed very far, very fast, and investors suddenly had several reasons to lock in profits. On June 2, the benchmark had already broken above 8,800, while Samsung Electronics closed at 360,500 won.1) That kind of momentum can be powerful, but it also leaves the market sensitive to any external shock.</p>
+  <p>On June 4, Yonhap reported that the KOSPI was down 160.91 points at 8,640.58 around 9:20 a.m. after opening at 8,623.82.2) The immediate pressure came from renewed Middle East tensions, a pullback in U.S. equities, Broadcom’s after-hours decline, and the burden of the won-dollar exchange rate moving back into the 1,530 range.2) For international readers, this combination matters because Korea is heavily linked to global technology demand, energy import costs, and foreign capital flows.</p>
+
+  <h2 style="font-size:23px; margin-top:28px;">The KOSDAQ Told a Different Story</h2>
+  <p>While the KOSPI was hit by profit-taking in heavyweight technology stocks, the KOSDAQ gained ground intraday. Yonhap reported the KOSDAQ at 1,049.45 around 9:20 a.m., up 23.42 points from the previous session.2) This suggests that money was not simply leaving Korean equities altogether. Instead, investors appeared to rotate from large-cap leaders into selected secondary growth areas.</p>
+  <p>This matters because Korean rallies often broaden or narrow through sector rotation. When Samsung Electronics and SK hynix pause, investors may look toward battery materials, biotech, semiconductor equipment, or other growth themes. The question for the next session is whether this is a healthy rotation or just a short-term defensive move while large-cap investors wait for fresh signals.</p>
+
+  <h2 style="font-size:23px; margin-top:28px;">Key Issues Moving the Market</h2>
+  <h3 style="font-size:19px; margin-top:18px;">Middle East risk and oil prices</h3>
+  <p>Yonhap reported that renewed Middle East tension weighed on U.S. equities and that WTI crude futures rose 2.4% to $96.02 per barrel.2) Higher oil prices can be especially uncomfortable for Korea because the country imports much of its energy. When oil rises, investors worry about inflation, corporate margins, and the trade balance at the same time.</p>
+  <h3 style="font-size:19px; margin-top:18px;">The won-dollar exchange rate</h3>
+  <p>The won opened at 1,530.0 per dollar, up 13.6 won from the previous day.2) A weaker won does not automatically mean Korean stocks must fall, but it can reduce foreign investors’ dollar-based returns. That is why the reported 19-session foreign selling streak in the KOSPI market was an important psychological burden.2)</p>
+  <h3 style="font-size:19px; margin-top:18px;">AI semiconductor expectations face a reality check</h3>
+  <p>Korea Investment & Securities raised its upper KOSPI target for the second half to 11,000, citing the semiconductor supercycle as support for the index.3) Still, today’s price action showed that AI enthusiasm is entering a more selective phase. The market is no longer rewarding every AI-linked headline equally; it wants evidence that earnings and partnerships can justify the rally.</p>
+
+  <h2 style="font-size:23px; margin-top:28px;">Sectors and Stocks to Watch</h2>
+  <p>Samsung Electronics and SK hynix both weakened in early trading after recent sharp gains.2) This does not necessarily mean the semiconductor story has ended. It means investors are more willing to take profits when macro pressure, foreign selling, and global AI-stock volatility appear at the same time.</p>
+  <p>Another focus was the “Jensen Huang visit” theme. YTN reported that Nvidia CEO Jensen Huang was expected to visit Korea during the week and that meetings with SK, Hyundai Motor, LG Group, and Naver were being arranged.4) Expectations around AI infrastructure, robotics, and sovereign AI had helped related names earlier in the week, but Yonhap reported that LG Electronics, Hyundai Motor, and NAVER were weak on June 4 as investors took profits.2)</p>
+  <p>By sector, information technology, IT services, and telecom were among the weaker KOSPI groups intraday, while precision medical, securities, and chemicals showed relative strength.2) In the KOSDAQ market, names such as EcoPro BM, EcoPro, Alteogen, Jusung Engineering, and Kolon TissueGene were reported higher.2)</p>
+
+  <h2 style="font-size:23px; margin-top:28px;">Next Trading-Day Checklist</h2>
+  <ul style="padding-left:20px;">
+    <li><strong>FX:</strong> Watch whether the won stays around or above 1,530 per dollar, or quickly stabilizes.2)</li>
+    <li><strong>Foreign flow:</strong> A break in the 19-session KOSPI selling streak would be an important sentiment signal.2)</li>
+    <li><strong>AI event risk:</strong> Headlines from Jensen Huang’s Korea visit need to turn into specific cooperation details.4)</li>
+    <li><strong>KOSDAQ breadth:</strong> Investors should check whether KOSDAQ strength spreads across sectors or remains limited to a few themes.2)</li>
+  </ul>
+
+  <h2 style="font-size:23px; margin-top:28px;">Bottom Line</h2>
+  <p>June 4 looked like a cooling phase after an intense rally, not a simple rejection of the Korean equity story. The long-term debate around semiconductors and AI remains alive, but the market is now asking tougher questions about valuation, currency risk, geopolitical stress, and the durability of foreign inflows. For beginners, the key lesson is that even strong markets need pauses, especially when the index has already priced in a lot of good news.</p>
+  <p style="background:#fff7e6; border-left:5px solid #f0a000; padding:14px 16px;">This article is not investment advice. It is an explanatory market commentary based on information verifiable immediately after the June 4, 2026 session. Final official closing data should be checked again through KRX or major financial data providers once fully published.</p>
+
+  <h2 style="font-size:23px; margin-top:28px;">Sources</h2>
+  <ol style="padding-left:20px;">
+    <li>KBS WORLD, “KOSPI Breaks 8,800 to Close at Fresh High”, 2026-06-02.</li>
+    <li>Yonhap News Agency, “코스피, 중동 긴장 재고조 속 하락…숨고르기 장세(종합)”, 2026-06-04.</li>
+    <li>Yonhap News Agency, “한투증권, 하반기 코스피 목표치 상단 9,250→11,000 상향”, 2026-06-04.</li>
+    <li>YTN, “젠슨 황, 이번 주 방한...'제2의 깐부회동' 기대감”, 2026-06-01.</li>
+  </ol>
+</article>

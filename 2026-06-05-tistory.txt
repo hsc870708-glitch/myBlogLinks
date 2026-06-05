@@ -1,0 +1,45 @@
+<article style="font-family:Arial,'Noto Sans KR',sans-serif;line-height:1.78;color:#222;max-width:860px;margin:0 auto;">
+<h1 style="font-size:28px;color:#111;margin:0 0 16px;">AI 반도체 급락과 한국 증시, 코스피 8,170선 마감: 오늘 조정이 던진 한 줄 경고</h1>
+<p style="font-size:16px;margin:0 0 14px;">오늘 한국 증시는 최근 랠리의 열기를 한 번에 식히는 장이었습니다. 2026년 6월 5일 오후 3시 30분 정규장 마감 기준 코스피는 8,170.52로 마감해 전 거래일 대비 5.43% 하락했습니다. 코스닥도 1,003.34로 4.42% 밀렸고, 장중에는 1,000선을 밑도는 992.80까지 내려갔습니다. 1) 2)</p>
+<p style="font-size:16px;margin:0 0 18px;">오늘의 핵심 키워드는 ‘AI 반도체 급락’, ‘한국 증시 차익실현’, ‘코스피 8,000선 방어’입니다. 최근 시장은 엔비디아 CEO 젠슨 황 방한 기대와 삼성전자, SK하이닉스 등 AI 메모리 대표주의 강세를 앞세워 빠르게 올랐습니다. 하지만 기대가 과하게 가격에 반영된 상태에서는 미국 반도체주 조정 하나만으로도 시장 전체가 크게 흔들릴 수 있습니다. 3) 5)</p>
+<div style="background:#eef6f2;border-left:5px solid #27865a;padding:16px 18px;margin:22px 0;">
+<h2 style="font-size:22px;margin:0 0 10px;color:#1e6242;">오늘 장을 한 줄로 보면</h2>
+<p style="margin:0;font-size:16px;">한국 증시는 AI 반도체 기대를 버린 것이 아니라, 너무 빨리 오른 기대를 다시 가격표에 맞춰 보는 조정 구간에 들어섰습니다.</p>
+</div>
+<h2 style="font-size:23px;color:#111;margin:26px 0 10px;">1. 코스피와 코스닥, 어디까지 밀렸나</h2>
+<p style="font-size:16px;margin:0 0 14px;">코스피는 장중 8,038.10까지 내려가며 8,000선과 매우 가까운 위치까지 밀렸습니다. 종가는 8,170.52였지만, 하루 낙폭이 5%를 넘었다는 점에서 투자자 체감은 훨씬 더 컸습니다. 전날 종가 8,639.41과 비교하면 하루 만에 468포인트 이상을 반납한 셈입니다. 1)</p>
+<p style="font-size:16px;margin:0 0 14px;">코스닥은 더 아슬아슬했습니다. 장중 저점은 992.80이었고, 종가는 1,003.34였습니다. 숫자로만 보면 1,000선을 지킨 것처럼 보이지만, 실제 장중 흐름에서는 중소형 성장주와 기술주의 불안감이 뚜렷했습니다. 코스닥 1,000선은 단순한 숫자가 아니라 개인 투자자 심리에 큰 영향을 주는 기준선입니다. 2)</p>
+<h2 style="font-size:23px;color:#111;margin:26px 0 10px;">2. 왜 하필 오늘 크게 빠졌을까</h2>
+<p style="font-size:16px;margin:0 0 14px;">첫 번째 이유는 미국 반도체주의 급락입니다. AP는 브로드컴이 투자자 기대에 못 미치는 전망으로 12.6% 하락했고, 마이크론도 7.7% 떨어졌다고 보도했습니다. 미국 반도체주가 흔들리면 한국 반도체주도 바로 영향을 받습니다. 한국 증시의 핵심 대형주가 글로벌 AI 메모리 공급망과 연결돼 있기 때문입니다. 5)</p>
+<p style="font-size:16px;margin:0 0 14px;">두 번째 이유는 최근 상승의 속도입니다. 코스피는 6월 초 8,800선까지 오르며 강한 상승 흐름을 보였습니다. Korea JoongAng Daily는 6월 2일 코스피가 반도체 관련 ETF 단기 거래 확대로 극심한 변동성을 보였다고 설명했습니다. 즉 이미 시장 내부에는 과열과 빠른 매매가 섞여 있었고, 오늘 미국발 반도체 악재가 그 변동성을 밖으로 끌어낸 것입니다. 6)</p>
+<p style="font-size:16px;margin:0 0 14px;">세 번째 이유는 이벤트 기대의 재료 소화입니다. AJU PRESS는 젠슨 황 엔비디아 CEO의 서울 방문과 국내 기업 협력 기대가 있었지만, 반도체 관련주가 매도 압력을 받았다고 전했습니다. 이 말은 기대가 사라졌다는 뜻이 아닙니다. 이미 오른 만큼 시장은 이제 더 구체적인 성과를 요구하기 시작했다는 뜻입니다. 4)</p>
+<h2 style="font-size:23px;color:#111;margin:26px 0 10px;">3. 장 초반 사이드카가 말해준 것</h2>
+<p style="font-size:16px;margin:0 0 14px;">오늘 장 초반에는 매도 사이드카가 발동됐습니다. AJU PRESS에 따르면 코스피200 선물 급락으로 오전 9시 8분 25초 매도 사이드카가 발동됐습니다. 사이드카는 시장이 너무 빠르게 흔들릴 때 프로그램 매매를 잠시 멈추는 장치입니다. 초보자 입장에서는 “시장이 순간적으로 너무 강한 매도 쪽으로 기울었다”는 신호로 이해하면 됩니다. 3)</p>
+<p style="font-size:16px;margin:0 0 14px;">사이드카 자체가 시장의 방향을 바꾸지는 않습니다. 다만 그만큼 장 초반 투자심리가 급격히 나빠졌다는 점을 보여줍니다. 오늘처럼 최근 주도주가 한꺼번에 흔들리는 날에는 선물과 현물, ETF, 프로그램 매매가 서로 영향을 주며 낙폭을 키울 수 있습니다.</p>
+<h2 style="font-size:23px;color:#111;margin:26px 0 10px;">4. 대표 종목은 무엇을 보여줬나</h2>
+<p style="font-size:16px;margin:0 0 14px;">하락의 중심은 삼성전자와 SK하이닉스였습니다. MarketScreener는 SK하이닉스가 장중 9.6%까지, 삼성전자가 7.5%까지 밀렸다고 전했습니다. 두 종목은 코스피에서 비중이 크기 때문에 이들이 흔들리면 지수도 크게 밀립니다. 7)</p>
+<p style="font-size:16px;margin:0 0 14px;">특히 SK하이닉스는 고대역폭메모리, 삼성전자는 메모리와 AI 반도체 회복 기대를 대표하는 종목입니다. 그래서 이 두 종목의 하락은 단순히 개별 기업 문제가 아니라, 시장이 AI 반도체 기대를 잠시 낮춰 보는 과정으로 읽힙니다. 투자자 입장에서는 주가가 빠졌다는 사실보다, 하락 이후 매수세가 얼마나 빨리 돌아오는지를 더 중요하게 봐야 합니다.</p>
+<h2 style="font-size:23px;color:#111;margin:26px 0 10px;">5. 다음 거래일 체크포인트</h2>
+<ul style="padding-left:20px;font-size:16px;margin:0 0 14px;">
+<li>코스피 8,000선: 오늘 장중 저점이 8,038.10이었기 때문에 다음 거래일의 핵심 지지선입니다. 1)</li>
+<li>코스닥 1,000선: 종가로 간신히 지켰지만, 다시 이탈하면 성장주 투자심리가 더 약해질 수 있습니다. 2)</li>
+<li>삼성전자와 SK하이닉스: 두 종목이 안정돼야 코스피 반등도 설득력을 얻습니다. 7)</li>
+<li>미국 반도체주 후속 반응: 브로드컴과 마이크론 충격을 미국 시장이 어떻게 소화하는지가 중요합니다. 5)</li>
+<li>젠슨 황 방한 이후 구체적 협력 내용: 단순 기대가 아니라 실적과 수주로 연결될 수 있는지가 관건입니다. 4)</li>
+</ul>
+<div style="background:#fff7e6;border:1px solid #f0c36d;padding:16px 18px;margin:24px 0;">
+<strong style="color:#8a5a00;">오늘 장의 의미</strong>
+<p style="margin:8px 0 0;font-size:16px;">오늘 조정은 AI 반도체 장세의 종료 선언이라기보다, 시장이 과열된 속도를 조절한 날에 가깝습니다. 앞으로는 “AI가 좋다”는 큰 이야기만으로는 부족합니다. 어느 기업이 실제 수주를 받고, 어느 기업의 이익이 늘어나는지까지 확인해야 주가가 다시 힘을 받을 수 있습니다.</p>
+</div>
+<h2 style="font-size:23px;color:#111;margin:26px 0 10px;">출처</h2>
+<ol style="padding-left:20px;font-size:15px;">
+<li>Investing.com, KOSPI Historical Data, 2026년 6월 5일 가격·등락률·장중 범위 확인.</li>
+<li>Investing.com, KOSDAQ Historical Data, 2026년 6월 5일 가격·등락률·장중 범위 확인.</li>
+<li>AJU PRESS, “KOSPI opens sharply lower after Wall Street chip sell-off, prompting sidecar halt,” 2026년 6월 5일.</li>
+<li>AJU PRESS, “KOSPI slides on semiconductor-led broad sell-off ahead of Nvidia chief's visit to Seoul,” 2026년 6월 5일.</li>
+<li>AP News, “Asian shares drop, with South Korea's Kospi down more than 5%,” 2026년 6월 5일.</li>
+<li>Korea JoongAng Daily, “Extreme volatility shakes Kospi as chipmaker ETFs spark short-term trading flood,” 2026년 6월 2일.</li>
+<li>MarketScreener UK, “South Korea Leads Asian Tech Stock Declines After Broadcom's Guidance Disappoints,” 2026년 6월 5일.</li>
+</ol>
+<p style="font-size:14px;color:#666;border-top:1px solid #ddd;padding-top:14px;margin-top:22px;">이 글은 투자 권유가 아니라 오늘 장중 흐름을 이해하기 쉽게 정리한 해설형 리포트입니다. 투자 판단은 본인의 목표, 기간, 위험 감내 수준을 기준으로 신중하게 결정해야 합니다.</p>
+</article>

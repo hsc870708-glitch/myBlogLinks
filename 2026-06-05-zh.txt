@@ -1,0 +1,46 @@
+<article style="font-family:Arial,'Noto Sans SC','Microsoft YaHei',sans-serif;line-height:1.75;color:#222;max-width:860px;margin:0 auto;">
+<h1 style="font-size:28px;color:#111;margin:0 0 16px;">韩国股市收盘急跌：KOSPI跌至8,170点，AI半导体获利回吐成为主线</h1>
+<p style="font-size:16px;margin:0 0 14px;">2026年6月5日，韩国股市正常交易，但收盘气氛明显转向避险。按韩国时间下午3点30分收盘数据，KOSPI收于8,170.52点，较前一交易日下跌5.43%，盘中一度跌至8,038.10点。KOSDAQ收于1,003.34点，下跌4.42%，盘中跌破1,000点关口后勉强收回。1) 2)</p>
+<p style="font-size:16px;margin:0 0 18px;">今天的下跌，并不代表韩国AI和半导体长期逻辑突然消失，而是市场在重新计算此前过热的预期。过去几个交易日，韩国股市受到人工智能、存储芯片、物理AI、机器人以及英伟达CEO黄仁勋访韩预期推动，涨势非常集中。一旦美国半导体板块出现明显回调，韩国市场中涨幅最大的AI相关大盘股自然最先承压。3) 5)</p>
+<div style="background:#f4f7fb;border-left:5px solid #2f6fbd;padding:16px 18px;margin:22px 0;">
+<h2 style="font-size:22px;margin:0 0 10px;color:#153f72;">收盘重点速览</h2>
+<ul style="margin:0;padding-left:20px;">
+<li>KOSPI收于8,170.52点，下跌5.43%，盘中低点为8,038.10点。1)</li>
+<li>KOSDAQ收于1,003.34点，下跌4.42%，盘中一度跌至992.80点。2)</li>
+<li>主要压力来自美国芯片股下跌、韩国AI龙头获利回吐，以及开盘初段触发卖出侧sidecar机制。3) 5)</li>
+<li>市场情绪从“追逐AI故事”转向“确认上涨是否已经过度反映”。</li>
+</ul>
+</div>
+<h2 style="font-size:23px;color:#111;margin:26px 0 10px;">指数走势：不是普通回调，而是拥挤交易的降温</h2>
+<p style="font-size:16px;margin:0 0 14px;">KOSPI从6月4日的8,639.41点降至6月5日的8,170.52点，单日回吐超过468点。这个跌幅之所以重要，是因为此前韩国股市在短时间内快速冲高，6月1日和6月2日曾接近8,800点上方区域。推动上涨的核心并不是市场全面改善，而是少数大型半导体、平台、电子和机器人相关股票集中上行。1) 6)</p>
+<p style="font-size:16px;margin:0 0 14px;">对中国投资者来说，理解韩国股市需要特别注意一点：韩国指数对半导体产业链的敏感度非常高。三星电子和SK海力士不仅是韩国本土龙头，也是全球存储芯片和高带宽存储器供应链中的关键公司。因此，当美国市场重新评估AI芯片需求、估值或盈利预期时，韩国市场往往会出现放大反应。</p>
+<p style="font-size:16px;margin:0 0 14px;">KOSDAQ的走势也值得注意。该指数盘中跌至992.80点，说明抛压并不只集中在超大型公司。中小型成长股、半导体设备材料股以及高波动科技股也同步受到影响。对散户占比较高的市场来说，1,000点关口不仅是技术位置，也是心理位置。2)</p>
+<h2 style="font-size:23px;color:#111;margin:26px 0 10px;">今天韩国股市为什么下跌？</h2>
+<h3 style="font-size:19px;color:#333;margin:18px 0 8px;">1. 美国半导体股下跌直接传导到韩国</h3>
+<p style="font-size:16px;margin:0 0 14px;">最直接的触发因素来自美国半导体板块。AP报道称，博通因业绩展望不及投资者预期下跌12.6%，美光科技也下跌7.7%。这一变化打击了亚洲市场的AI相关股票情绪，韩国市场中的SK海力士和三星电子也在盘中明显承压。5)</p>
+<p style="font-size:16px;margin:0 0 14px;">这背后的逻辑并不复杂。AI服务器、加速计算、高带宽存储器等主题虽然长期仍有需求，但资本市场会先看估值和预期。当价格已经提前反映大量好消息时，一条美国芯片公司的指引不达预期，就足以让投资者先锁定利润。</p>
+<h3 style="font-size:19px;color:#333;margin:18px 0 8px;">2. 黄仁勋访韩预期仍在，但市场进入“兑现前后”的敏感阶段</h3>
+<p style="font-size:16px;margin:0 0 14px;">AJU PRESS报道称，尽管市场仍关注英伟达CEO黄仁勋访问首尔以及与韩国科技企业合作的可能性，韩国半导体相关股票当天仍承受较强抛压。4)</p>
+<p style="font-size:16px;margin:0 0 14px;">这说明利好预期本身并不一定足以继续推高股价。很多时候，股价会在事件发生前提前上涨；等到事件临近，投资者反而会问：合作是否足够具体？订单何时转化为收入？哪些公司真正受益？今天韩国市场就是从“想象空间”切换到“兑现检验”的过程。</p>
+<h2 style="font-size:23px;color:#111;margin:26px 0 10px;">行业与代表个股：半导体和AI大盘股是压力中心</h2>
+<p style="font-size:16px;margin:0 0 14px;">今日抛压最集中的领域是半导体和AI相关大市值股票。MarketScreener报道称，SK海力士盘中跌幅一度达到9.6%，三星电子一度下跌7.5%。由于这两家公司在KOSPI中的权重非常高，它们的下跌会直接拖累整个指数。7)</p>
+<p style="font-size:16px;margin:0 0 14px;">不过，这并不意味着韩国所有行业都出现同样问题。此前上涨最强的是AI产业链，因此今天回调也集中在这一条主线上。相对而言，如果油价走低、地缘政治压力缓和，部分非科技行业可能获得一定防御支撑。AJU PRESS也提到，较低油价和中东风险缓和有助于缓冲科技板块以外市场的压力。4)</p>
+<h2 style="font-size:23px;color:#111;margin:26px 0 10px;">下一交易日需要关注什么？</h2>
+<p style="font-size:16px;margin:0 0 14px;">第一，看KOSPI能否守住8,000点附近。今天盘中低点已经接近这一位置，如果下一个交易日继续跌破并收在其下方，短线资金可能进一步降低仓位。第二，看KOSDAQ能否稳定在1,000点上方。若中小型成长股继续走弱，韩国市场的风险偏好会明显下降。</p>
+<p style="font-size:16px;margin:0 0 14px;">第三，看三星电子和SK海力士是否能止跌。韩国股市要恢复稳定，指数权重股必须先停止下行。第四，看美国就业数据、美债收益率、美元兑韩元汇率，以及英伟达访韩后是否出现具体合作内容。若只有概念，没有订单或业绩路径，市场可能继续用更严格的标准审视AI主题。</p>
+<div style="background:#fff7e6;border:1px solid #f0c36d;padding:16px 18px;margin:24px 0;">
+<strong style="color:#8a5a00;">结论</strong>
+<p style="margin:8px 0 0;font-size:16px;">6月5日的韩国股市，是一次对AI半导体上涨行情的压力测试。长期产业逻辑并未被否定，但短期市场已经开始从“相信故事”转向“验证业绩”。投资者接下来要看的不是概念是否热门，而是谁能把热门概念变成真实订单、利润和现金流。</p>
+</div>
+<h2 style="font-size:23px;color:#111;margin:26px 0 10px;">来源</h2>
+<ol style="padding-left:20px;font-size:15px;">
+<li>Investing.com, KOSPI Historical Data, 2026年6月5日收盘点位、涨跌幅和盘中区间。</li>
+<li>Investing.com, KOSDAQ Historical Data, 2026年6月5日收盘点位、涨跌幅和盘中区间。</li>
+<li>AJU PRESS, “KOSPI opens sharply lower after Wall Street chip sell-off, prompting sidecar halt,” 2026年6月5日。</li>
+<li>AJU PRESS, “KOSPI slides on semiconductor-led broad sell-off ahead of Nvidia chief's visit to Seoul,” 2026年6月5日。</li>
+<li>AP News, “Asian shares drop, with South Korea's Kospi down more than 5%,” 2026年6月5日。</li>
+<li>Korea JoongAng Daily, “Extreme volatility shakes Kospi as chipmaker ETFs spark short-term trading flood,” 2026年6月2日。</li>
+<li>MarketScreener UK, “South Korea Leads Asian Tech Stock Declines After Broadcom's Guidance Disappoints,” 2026年6月5日。</li>
+</ol>
+<p style="font-size:14px;color:#666;border-top:1px solid #ddd;padding-top:14px;margin-top:22px;">本文并非投资建议，而是对当日韩国股市走势的解释型整理。投资决策应结合个人目标、投资期限和风险承受能力谨慎判断。</p>
+</article>

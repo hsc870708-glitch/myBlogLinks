@@ -1,0 +1,47 @@
+<article style="font-family:Arial,'Noto Sans',sans-serif;line-height:1.75;color:#222;max-width:860px;margin:0 auto;">
+<h1 style="font-size:28px;color:#111;margin:0 0 16px;">KOSPI Slumps to 8,170 as AI Chip Profit-Taking Hits the Korean Stock Market</h1>
+<p style="font-size:16px;margin:0 0 14px;">South Korea’s stock market traded normally on Friday, June 5, 2026, but the closing tone was sharply risk-off. At the 3:30 p.m. Korea market close, the KOSPI finished at 8,170.52, down 5.43% from the previous session, after falling as low as 8,038.10 intraday. The KOSDAQ closed at 1,003.34, down 4.42%, after briefly dropping below the psychologically important 1,000 level. 1) 2)</p>
+<p style="font-size:16px;margin:0 0 18px;">The day was less about a collapse in Korea’s long-term AI story and more about a fast reset in expectations. Korean equities had rallied aggressively on artificial intelligence, semiconductors, physical AI, and expectations around Nvidia CEO Jensen Huang’s visit to Seoul. When U.S. chip stocks sold off overnight, investors quickly reduced exposure to the very Korean names that had led the recent surge. 3) 5)</p>
+<div style="background:#f4f7fb;border-left:5px solid #2f6fbd;padding:16px 18px;margin:22px 0;">
+<h2 style="font-size:22px;margin:0 0 10px;color:#153f72;">Market Close at a Glance</h2>
+<ul style="margin:0;padding-left:20px;">
+<li>KOSPI: 8,170.52, down 5.43%, with an intraday low of 8,038.10. 1)</li>
+<li>KOSDAQ: 1,003.34, down 4.42%, after testing the 1,000-point threshold. 2)</li>
+<li>Main pressure points: U.S. semiconductor weakness, profit-taking in Korean AI leaders, and an early sell-side sidecar. 3) 5)</li>
+<li>Investor psychology: not a rejection of AI growth, but a reassessment of how much good news had already been priced in.</li>
+</ul>
+</div>
+<h2 style="font-size:23px;color:#111;margin:26px 0 10px;">Index Flow: A Sharp Pullback After a Crowded Rally</h2>
+<p style="font-size:16px;margin:0 0 14px;">The KOSPI dropped from 8,639.41 on June 4 to 8,170.52 on June 5, giving back more than 468 points in one session. The move matters because the index had recently climbed to the 8,800 area, supported by expectations that Korean chipmakers, electronics firms, robotics companies, and platform names could benefit from the next stage of AI infrastructure investment. 1) 6)</p>
+<p style="font-size:16px;margin:0 0 14px;">For international readers, the Korean market has become unusually sensitive to the AI supply chain. Samsung Electronics and SK Hynix are not just large local companies; they are central to global memory and high-bandwidth-memory demand. When sentiment turns against AI semiconductors in the United States, the reaction in Korea can be magnified because those names carry heavy index weight and attract fast-moving global money.</p>
+<p style="font-size:16px;margin:0 0 14px;">The KOSDAQ’s decline was also important. The junior market touched 992.80 intraday before closing just above 1,000. That tells us risk aversion was not limited to the largest chipmakers. Smaller growth stocks, semiconductor equipment names, and high-beta technology shares also faced pressure as investors moved away from crowded momentum trades. 2)</p>
+<h2 style="font-size:23px;color:#111;margin:26px 0 10px;">Why Did the Korean Market Fall Today?</h2>
+<h3 style="font-size:19px;color:#333;margin:18px 0 8px;">1. U.S. chip weakness spilled directly into Seoul</h3>
+<p style="font-size:16px;margin:0 0 14px;">The most visible trigger came from the U.S. semiconductor space. AP reported that Broadcom fell 12.6% after issuing guidance that disappointed investors, while Micron dropped 7.7%. That was enough to cool the broader AI trade across Asia. In Korea, AP noted that SK Hynix and Samsung Electronics were both hit hard during the session. 5)</p>
+<p style="font-size:16px;margin:0 0 14px;">This connection is easy to understand: Korea is one of the world’s key memory-chip markets. When investors question the pace or profitability of AI chip demand in the U.S., they immediately look again at Korean suppliers. The issue today was not that AI demand disappeared. It was that valuations and expectations had run so far that even a modest disappointment overseas could trigger heavy selling at home.</p>
+<h3 style="font-size:19px;color:#333;margin:18px 0 8px;">2. The market started to digest the Nvidia visit theme</h3>
+<p style="font-size:16px;margin:0 0 14px;">AJU PRESS reported that Korean semiconductor-related shares remained under selling pressure despite expectations surrounding Nvidia CEO Jensen Huang’s Seoul visit and possible cooperation with local technology firms. 4)</p>
+<p style="font-size:16px;margin:0 0 14px;">That distinction is important. The visit itself was not necessarily negative for the market. The problem was timing. Korean shares had already rallied strongly before the event, meaning investors had priced in a large amount of optimism. When a market rises on anticipation, it often becomes vulnerable just before or during the event unless concrete, earnings-relevant details are confirmed.</p>
+<h2 style="font-size:23px;color:#111;margin:26px 0 10px;">Sector and Stock Read: Chips Led the Decline</h2>
+<p style="font-size:16px;margin:0 0 14px;">The pressure was concentrated in semiconductors and AI-linked large caps. MarketScreener reported that SK Hynix fell as much as 9.6% intraday and Samsung Electronics lost as much as 7.5%. Because those two companies account for a large share of the KOSPI, their weakness had a strong mechanical impact on the index. 7)</p>
+<p style="font-size:16px;margin:0 0 14px;">Still, today’s session should not be read as a uniform rejection of Korean equities. It was a rotation away from the most crowded leadership group. Some non-technology areas may find support if lower oil prices and easing Middle East risk reduce inflation pressure. AJU PRESS noted that softer oil and reduced geopolitical pressure could cushion parts of the market outside technology. 4)</p>
+<h2 style="font-size:23px;color:#111;margin:26px 0 10px;">Investor Sentiment and Next Trading-Day Checklist</h2>
+<p style="font-size:16px;margin:0 0 14px;">The first level to watch is the KOSPI 8,000 area. Today’s low came close enough to that level to make it the obvious short-term support zone. If the index stabilizes above it, investors may view today as a painful but normal correction after a rapid rally. If it breaks decisively below 8,000, forced selling and de-risking could continue.</p>
+<p style="font-size:16px;margin:0 0 14px;">The second level is the KOSDAQ 1,000 line. A close below that level would likely make retail investors more cautious toward small and mid-cap growth names. The third checkpoint is the performance of Samsung Electronics and SK Hynix after the U.S. market digests the Broadcom and Micron news. If those two Korean heavyweights find support, the broader market can calm down more quickly.</p>
+<p style="font-size:16px;margin:0 0 14px;">Finally, investors should watch U.S. jobs data, Treasury yields, the won-dollar exchange rate, and any concrete details from Nvidia-related meetings in Korea. AI remains the main narrative, but today showed that when a market depends heavily on one story, volatility can expand very quickly.</p>
+<div style="background:#fff7e6;border:1px solid #f0c36d;padding:16px 18px;margin:24px 0;">
+<strong style="color:#8a5a00;">Bottom Line</strong>
+<p style="margin:8px 0 0;font-size:16px;">June 5 was a stress test for Korea’s AI-led rally. The long-term semiconductor story may still be alive, but the market is now asking a more disciplined question: which expectations are already priced in, and which companies can turn the AI theme into visible earnings?</p>
+</div>
+<h2 style="font-size:23px;color:#111;margin:26px 0 10px;">Sources</h2>
+<ol style="padding-left:20px;font-size:15px;">
+<li>Investing.com, KOSPI Historical Data, June 5, 2026 closing level, change, and intraday range.</li>
+<li>Investing.com, KOSDAQ Historical Data, June 5, 2026 closing level, change, and intraday range.</li>
+<li>AJU PRESS, “KOSPI opens sharply lower after Wall Street chip sell-off, prompting sidecar halt,” June 5, 2026.</li>
+<li>AJU PRESS, “KOSPI slides on semiconductor-led broad sell-off ahead of Nvidia chief's visit to Seoul,” June 5, 2026.</li>
+<li>AP News, “Asian shares drop, with South Korea's Kospi down more than 5%,” June 5, 2026.</li>
+<li>Korea JoongAng Daily, “Extreme volatility shakes Kospi as chipmaker ETFs spark short-term trading flood,” June 2, 2026.</li>
+<li>MarketScreener UK, “South Korea Leads Asian Tech Stock Declines After Broadcom's Guidance Disappoints,” June 5, 2026.</li>
+</ol>
+<p style="font-size:14px;color:#666;border-top:1px solid #ddd;padding-top:14px;margin-top:22px;">This article is an explanatory market report, not investment advice. It is intended to help readers understand today’s market movement, and investment decisions should be made according to personal objectives, time horizon, and risk tolerance.</p>
+</article>

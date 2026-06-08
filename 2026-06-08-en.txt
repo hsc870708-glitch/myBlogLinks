@@ -1,0 +1,56 @@
+<article style="font-family: Arial, sans-serif; line-height:1.72; color:#222; max-width:860px; margin:0 auto;">
+  <h1 style="font-size:28px; color:#111; margin:0 0 18px;">KOSPI Closes at 7,778 After Circuit Breaker: How Korea’s Stock Market Absorbed the Semiconductor Shock</h1>
+  <p style="font-size:16px; margin:0 0 14px;">South Korea’s stock market ended June 8, 2026, with a sharp risk-off move. The KOSPI closed at 7,778.55, down 4.68%, after falling as low as 7,442.73 during the session. The KOSDAQ closed at 934.15, down 6.81%, showing that pressure was even heavier in growth-oriented and smaller-cap shares.1) 2)</p>
+  <p style="font-size:16px; margin:0 0 18px;">The key point of the day was not just the size of the decline. It was the way a U.S. semiconductor sell-off, higher-rate concerns, and a weaker Korean won hit the strongest part of Korea’s recent rally: AI and memory-chip leaders. Early in the session, the KOSPI fell more than 8%, triggering a circuit breaker, while the KOSDAQ market also saw a sell-side sidecar.3)</p>
+
+  <div style="background:#f4f7fb; border-left:5px solid #3b6ea8; padding:16px 18px; margin:22px 0;">
+    <strong style="display:block; margin-bottom:8px;">Market Close at a Glance</strong>
+    <ul style="margin:0; padding-left:20px;">
+      <li>KOSPI: 7,778.55, -4.68%, with an intraday range of 7,442.73 to 8,048.09.1)</li>
+      <li>KOSDAQ: 934.15, -6.81%, with an intraday range of 924.53 to 959.61.2)</li>
+      <li>A KOSPI circuit breaker and a KOSDAQ sell-side sidecar were triggered early in the session.3)</li>
+      <li>The pressure came from U.S. chip weakness, stronger U.S. employment data, interest-rate concerns, and foreign-exchange stress.3) 5) 7)</li>
+    </ul>
+  </div>
+
+  <h2 style="font-size:22px; margin-top:28px; color:#1f2937;">Index Trend: Panic at the Open, Partial Recovery by the Close</h2>
+  <p>The KOSPI opened at 8,048.09, already below the previous close of 8,160.59, then quickly broke down in early trading. The intraday low of 7,442.73 shows how aggressively investors sold after the opening shock. Still, the final close at 7,778.55 was meaningfully above the low, which means the market did not remain in full panic mode all day. The problem was that buyers were not strong enough to turn the rebound into a recovery above the 8,000 level.1)</p>
+  <p>The KOSDAQ was weaker. It opened at 959.61, fell as low as 924.53, and finished at 934.15. The larger percentage loss in the KOSDAQ matters because it tells us that the sell-off was not limited to mega-cap chip stocks. It spread into risk-sensitive areas such as biotech, batteries, robotics, and smaller growth companies.2)</p>
+
+  <h2 style="font-size:22px; margin-top:28px; color:#1f2937;">Why Semiconductors Drove the Whole Market Lower</h2>
+  <p>The day’s pressure started with U.S. technology and semiconductor weakness. Korean reports noted that the Dow, S&amp;P 500, and Nasdaq all fell, while stronger-than-expected U.S. employment data revived concerns about higher market interest rates. Kiwoom Securities analyst Han Ji-young was quoted as saying the U.S. chip plunge was less about a collapse in AI demand and more about fatigue after a crowded rally, with the employment surprise providing the trigger for a valuation reset.3)</p>
+  <p>For international readers, this matters because Korean equities have become highly sensitive to the AI hardware cycle. Samsung Electronics and SK hynix have been the main engines of the recent KOSPI rally, and expectations around HBM memory, data centers, and AI infrastructure had pulled capital into Korean large-cap technology shares. When the Philadelphia Semiconductor Index reportedly dropped 10.3%, investors immediately reassessed the most crowded parts of the Korean market.5)</p>
+
+  <h2 style="font-size:22px; margin-top:28px; color:#1f2937;">Sectors and Stocks: Chips Fell, but AI Themes Started to Split</h2>
+  <p>Samsung Electronics and SK hynix were hit hard at the open. Newsway reported that Samsung Electronics fell as low as 292,500 won intraday, while SK hynix dropped to 1,855,000 won before recovering part of the loss.4) These two names are not ordinary constituents. They are index anchors, so weakness in both immediately makes the broader KOSPI look heavier.</p>
+  <p>However, the market did not sell every AI-related name in the same way. Newsway also reported that Naver rose more than 12% ahead of a special live event involving Nvidia CEO Jensen Huang and Naver founder Lee Hae-jin, as investors focused on possible cooperation in AI infrastructure, cloud, and robotics.4) That distinction is important. The market was not rejecting AI as a theme altogether; it was beginning to separate expensive chip exposure from companies with fresh partnership narratives.</p>
+  <p>LG Group shares were on the weaker side. LG Electronics, LG Corp., LG Chem, and LG Innotek reportedly fell in the 5% to 11% range as U.S. chip weakness and broader risk aversion weighed on sentiment.4) In other words, the June 8 market was less a simple “AI is over” day and more a day when investors started asking harder questions about valuation, earnings visibility, and positioning.</p>
+
+  <h2 style="font-size:22px; margin-top:28px; color:#1f2937;">Investor Psychology: Foreign Selling and the Won Added Pressure</h2>
+  <p>The sell-off did not come out of nowhere. On the previous trading day, June 5, foreign investors sold 3.5216 trillion won in KOSPI shares and 182 billion won in KOSDAQ shares, while retail investors bought 4.2212 trillion won in KOSPI shares.6) June 8 added a new U.S. technology shock on top of an already fragile flow backdrop. For beginners, the key question after a sharp fall is not simply whether prices look cheaper. It is whether the investors who sold will return quickly enough to support a durable rebound.</p>
+  <p>The foreign-exchange market also mattered. The dollar-won rate closed the daytime session at 1,539.1 won on June 5, and later market briefings discussed levels around the 1,559 won area.6) 7) A weaker won can make foreign investors more cautious because equity losses may be amplified by currency losses. It also reminds domestic investors of inflation, import costs, and interest-rate pressure. That is why today’s decline should be read as a combined equity, rates, and currency stress event rather than a pure stock-market correction.</p>
+
+  <h2 style="font-size:22px; margin-top:28px; color:#1f2937;">What to Watch Next</h2>
+  <ul style="padding-left:20px;">
+    <li><strong>Whether the KOSPI can defend the 7,700 area:</strong> The index recovered from the low but failed to reclaim 8,000.</li>
+    <li><strong>Samsung Electronics and SK hynix:</strong> A convincing stabilization in these two names is needed for a broader index rebound.</li>
+    <li><strong>The dollar-won exchange rate:</strong> If the won remains weak near the 1,550 area, foreign-flow recovery may take longer.</li>
+    <li><strong>AI theme differentiation:</strong> Naver-style partnership hopes and chip valuation pressure may continue to trade differently.</li>
+    <li><strong>U.S. rates and the Philadelphia Semiconductor Index:</strong> These will likely shape the opening tone for Korea’s next trading day.</li>
+  </ul>
+
+  <h2 style="font-size:22px; margin-top:28px; color:#1f2937;">Bottom Line</h2>
+  <p>It is too early to call June 8 the end of Korea’s bull market. A more careful reading is that a fast-rising AI and semiconductor-led market was forced to digest several hard variables at once: U.S. rates, chip profit-taking, foreign selling, and currency pressure. The early circuit breaker showed fear, while the rebound from the low showed that bargain hunters were still present. The next session will be important not because of whether the index bounces for one day, but because of whether the bounce is supported by leadership stocks and healthier flows.</p>
+  <p style="background:#fff7ed; border-left:5px solid #f97316; padding:14px 16px;">This article is not investment advice. It is an explanatory market close report designed to help readers understand the day’s trading flow and investor psychology.</p>
+
+  <h2 style="font-size:22px; margin-top:28px; color:#1f2937;">Sources</h2>
+  <ol style="padding-left:20px;">
+    <li>Investing.com, “KOSPI Historical Data,” June 8, 2026 index close, open, high, low, and percentage change.</li>
+    <li>Investing.com, “KOSDAQ Historical Data,” June 8, 2026 index close, open, high, low, and percentage change.</li>
+    <li>Newsis, “‘Black Monday’ hits KOSPI, circuit breaker and sell-side sidecar triggered,” June 8, 2026.</li>
+    <li>Newsway Securities section, June 8, 2026 summaries on Samsung Electronics, SK hynix, Naver, and LG Group shares.</li>
+    <li>Newsway, “AI rally hits the brakes as semiconductor stocks plunge in New York,” June 6, 2026.</li>
+    <li>Newsway, “KOSPI drops 5.5% to close at 8,160.59 on U.S. tech weakness,” June 5, 2026.</li>
+    <li>Maeil Business Newspaper stock-market briefing, June 8, 2026 comments on dollar-won, U.S. employment, and semiconductor pressure.</li>
+  </ol>
+</article>

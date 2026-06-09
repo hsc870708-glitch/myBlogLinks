@@ -1,0 +1,62 @@
+<article style="font-family: Arial, sans-serif; line-height: 1.75; color: #222; max-width: 860px; margin: 0 auto;">
+  <h1 style="font-size: 28px; color: #111; margin-bottom: 14px;">Korea Stock Market Close: KOSPI Reclaims 8,100 as Semiconductors Lead a Sharp Rebound</h1>
+
+  <p style="font-size: 16px; margin-bottom: 14px;">South Korea’s stock market staged a powerful rebound on June 9, 2026, one day after a severe selloff shook both major indices. The KOSPI closed at 8,102.50, up 8.26%, while the KOSDAQ finished at 980.16, up 7.55%. The move should not be read simply as a calm bullish session. It was better understood as a forceful recovery after panic selling, helped by bargain hunting, a rebound in global semiconductor sentiment, and some easing in the won’s recent pressure.1) 2) 3)</p>
+
+  <div style="background:#f3f7ff; border-left: 4px solid #2f6feb; padding: 16px; margin: 18px 0;">
+    <strong>Quick Market Summary</strong>
+    <ul style="margin: 10px 0 0 20px; padding: 0;">
+      <li>KOSPI: 8,102.50, up 616.79 points, or 8.26%</li>
+      <li>KOSDAQ: 980.16, up 68.77 points, or 7.55%</li>
+      <li>Main themes: rebound after the previous day’s plunge, semiconductor recovery, buy-side sidecar triggers, and less intense currency stress</li>
+      <li>Key caution: the rebound was impressive, but volatility remained very high, so market stability still needs confirmation.</li>
+    </ul>
+  </div>
+
+  <h2 style="font-size: 22px; margin-top: 28px; color:#17324d;">Index Action: A Strong Bounce After a Heavy Shock</h2>
+  <p>The KOSPI opened at 7,697.76, rose as high as 8,119.09 during the session, and closed at 8,102.50. The KOSDAQ opened at 937.69, touched an intraday high of 981.24, and ended at 980.16. In both markets, the close stood well above the open, which suggests that the early rebound was not just a brief gap-up move. Buyers continued to support the market through the day.1) 2)</p>
+  <p>The scale of the rebound looked dramatic because the previous session had been so violent. On June 8, the KOSPI fell 8.29% to 7,484.41, and the KOSDAQ dropped 9.08% to 911.39. For international readers, the important point is that Korea moved from a sharp risk-off session to a sharp relief rally in just one trading day. That kind of swing says as much about market stress as it does about renewed optimism.3)</p>
+
+  <h2 style="font-size: 22px; margin-top: 28px; color:#17324d;">What Drove the Korean Market Today?</h2>
+  <h3 style="font-size: 18px; margin-top: 18px; color:#333;">1. Semiconductor sentiment improved quickly</h3>
+  <p>Semiconductors were the center of the recovery. Early in the session, local reports noted that Samsung Electronics and SK hynix had recovered the symbolic levels often described in Korea as “300,000-won Samsung” and “2-million-won Hynix.” These phrases matter because Samsung Electronics and SK hynix are not just large companies; they are market sentiment anchors for the Korean equity market.4) 5)</p>
+  <p>The rebound followed a difficult previous session driven by U.S. tech weakness, concerns over rates, and geopolitical risk. On June 9, however, the overnight recovery in U.S. semiconductor shares and a calmer currency backdrop helped investors revisit beaten-down AI and memory-related names. In the KOSDAQ market, semiconductor equipment and materials names such as HPSP, Leeno Industrial, Wonik IPS, Simmtech, and Jusung Engineering were highlighted as strong early movers. This suggests that investors were not only buying the index but also looking back into the AI semiconductor supply chain.4)</p>
+
+  <h3 style="font-size: 18px; margin-top: 18px; color:#333;">2. Buy-side sidecars showed how fast sentiment reversed</h3>
+  <p>The Korea Exchange triggered buy-side sidecars in both the KOSPI and KOSDAQ markets during the morning. A sidecar temporarily pauses certain program trading orders when the market moves too quickly. After the previous day’s selloff, the buy-side sidecars showed that the market had reversed direction with unusual speed. This was not a quiet normalization. It was a rapid technical rebound in a market still digesting the prior shock.4) 6)</p>
+  <p>For beginners, this distinction is important. A sharp rebound can feel reassuring, but a market that can trigger trading safeguards in both directions within a short period is still unstable. The day’s positive close reduced immediate panic, but it did not erase the need to monitor volatility.</p>
+
+  <h3 style="font-size: 18px; margin-top: 18px; color:#333;">3. Currency pressure eased, but foreign flows remained a risk</h3>
+  <p>The Korean won also played a role. The dollar-won exchange rate had closed the June 8 Seoul daytime session at 1,535.0 won, but later overnight trading reportedly ended at 1,526.5 won. The won remained weak by historical standards, yet the easing from the most stressful levels helped calm fears of forced foreign selling and currency-driven outflows.3) 7)</p>
+  <p>Still, foreign investor behavior remained a key concern. Intraday reports pointed to continued foreign selling, while the VKOSPI, a volatility measure for the Korean market, reached 87.50 during the session. That kind of volatility reading shows that risk appetite had not fully normalized even as prices rebounded.6)</p>
+
+  <h2 style="font-size: 22px; margin-top: 28px; color:#17324d;">Sector and Stock Takeaways</h2>
+  <p>The clearest leadership came from semiconductors. Samsung Electronics and SK hynix helped restore confidence in the KOSPI, while KOSDAQ-listed semiconductor equipment names contributed to the smaller-cap rebound. This was not a broad, low-volatility rally led evenly by all sectors. It was a relief rally centered on the same growth and AI-related stocks that had been under pressure the day before.4) 5)</p>
+  <p>That makes the next session especially important. If semiconductor leaders hold their rebound and the won remains calmer, investors may start to treat June 9 as a successful defense of the market. If those supports fade, however, the rally may be remembered as a fast technical bounce after excessive selling rather than the start of a stable recovery.</p>
+
+  <h2 style="font-size: 22px; margin-top: 28px; color:#17324d;">What to Watch Next</h2>
+  <ul style="margin-left: 20px; padding: 0;">
+    <li><strong>KOSPI at the 8,100 level:</strong> The index closed above 8,100, but investors need to see whether it can hold that area in the next session.1)</li>
+    <li><strong>Samsung Electronics and SK hynix:</strong> Continued strength in Korea’s semiconductor leaders would make the rebound more credible.4) 5)</li>
+    <li><strong>Dollar-won exchange rate:</strong> A renewed jump in the exchange rate could revive foreign selling concerns.7)</li>
+    <li><strong>Volatility indicators:</strong> A falling VKOSPI would be a healthier sign than another large one-day swing.6)</li>
+  </ul>
+
+  <div style="background:#fff7e6; border-left: 4px solid #f59f00; padding: 16px; margin: 24px 0;">
+    <strong>Closing View</strong>
+    <p style="margin: 10px 0 0;">June 9 was a strong relief rally for Korean equities, but it was also a reminder that the market remains highly sensitive. The KOSPI and KOSDAQ both recovered sharply, led by semiconductors and supported by a less tense currency backdrop. The next test is whether the rebound can shift from a fast reaction to a more stable recovery.</p>
+  </div>
+
+  <p style="font-size: 14px; color:#555;">This article is not investment advice. It is an explanatory market close report designed to help readers understand the June 9, 2026 trading session in South Korea.</p>
+
+  <h2 style="font-size: 22px; margin-top: 28px; color:#17324d;">Sources</h2>
+  <ol style="margin-left: 20px; padding: 0; font-size: 14px; color:#444;">
+    <li>Investing.com, “KOSPI Historical Data (KS11),” daily index data for June 9, 2026, https://www.investing.com/indices/kospi-historical-data</li>
+    <li>Investing.com, “KOSDAQ Historical Data (KQ11),” daily index data for June 9, 2026, https://www.investing.com/indices/kosdaq-historical-data</li>
+    <li>Newsis, “KOSPI 7484.41, KOSDAQ 911.39, USD/KRW 1535.0 close,” June 8, 2026, https://www.newsis.com/view/NISX20260608_0003660758</li>
+    <li>Asia Business Daily CORE, “KOSPI and KOSDAQ buy-side sidecars triggered; semiconductor equipment stocks strong,” June 9, 2026, https://core.asiae.co.kr/article/2026060909384363570</li>
+    <li>The Korea Economic Daily, “KOSPI opens over 4% stronger after buy-side sidecar; Samsung recovers 300,000-won level,” June 9, 2026, https://www.hankyung.com/article/2026060949446</li>
+    <li>Financial News, “Stocks rebound 3-4% after Black Monday; fear index at unusually high level,” June 9, 2026, https://www.fnnews.com/ampNews/202606090952054230</li>
+    <li>YTN, “Dollar-won closes at 1,526.5 won on National Pension FX hedge,” June 9, 2026, https://www.ytn.co.kr/_ln/0104_202606090529066295</li>
+  </ol>
+</article>

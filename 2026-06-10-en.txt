@@ -1,0 +1,64 @@
+<article style="font-family: Arial, 'Noto Sans', sans-serif; line-height:1.75; color:#222; max-width:860px; margin:0 auto;">
+  <h1 style="font-size:28px; color:#111; margin:0 0 18px;">KOSPI Drops 6%: Why Korean Stocks Sold Off Again After a Sharp Rebound</h1>
+  <p style="font-size:16px; margin:0 0 14px;">Korean equities ended June 10, 2026 under renewed pressure. The KOSPI closed at 7,611.09, down 6.00% from the previous session, while the KOSDAQ finished at 952.09, down 1.62%. The move came just one day after a powerful rebound, showing that investors were still treating the market as a high-volatility recovery trade rather than a stable uptrend.1)2)</p>
+  <p style="font-size:16px; margin:0 0 18px;">For overseas readers, the key point is that Korea’s market weakness was not only a local story. Korean large-cap technology shares were hit by renewed concerns around U.S. AI and semiconductor stocks, Middle East geopolitical risk, and caution ahead of the U.S. May CPI release. Those factors matter because Korea’s benchmark index is heavily influenced by semiconductor exporters and global risk appetite.3)</p>
+
+  <div style="background:#f4f7fb; border-left:5px solid #2f5f9f; padding:16px 18px; margin:22px 0;">
+    <strong style="display:block; font-size:18px; margin-bottom:8px;">Market Close at a Glance</strong>
+    <ul style="margin:0; padding-left:20px;">
+      <li>KOSPI: 7,611.09, down 6.00%, giving back a large part of the previous day’s 8.18% rally.1)</li>
+      <li>KOSDAQ: 952.09, down 1.62%, with a smaller decline but still wide intraday swings.2)</li>
+      <li>Main drivers: U.S. tech weakness, AI-related uncertainty, Middle East risk, CPI caution, and profit-taking after the rebound.3)</li>
+      <li>Key stocks: Samsung Electronics and SK Hynix weakened again, adding pressure to the broader index.5)6)</li>
+    </ul>
+  </div>
+
+  <h2 style="font-size:23px; color:#17324d; margin:28px 0 12px;">Index Review: A Rebound That Could Not Hold</h2>
+  <p>The KOSPI opened at 7,899.77, climbed as high as 7,996.68, fell to 7,564.16, and closed at 7,611.09. This matters because the index had recovered to 8,096.93 on June 9 after a severe selloff. In simple terms, the market tried to stabilize, but sellers quickly returned once global risk signals turned unfavorable.1)</p>
+  <p>The KOSDAQ showed a more mixed pattern. It opened at 958.58, reached 983.25 during the session, touched a low of 932.27, and closed at 952.09. The smaller decline compared with the KOSPI suggests that some small and mid-cap names attracted selective buying, but the broader mood remained cautious after the sharp selloff on June 8 and the strong rebound on June 9.2)</p>
+
+  <h2 style="font-size:23px; color:#17324d; margin:28px 0 12px;">Why Did Korean Stocks Fall Again?</h2>
+  <h3 style="font-size:19px; color:#2d4a63; margin:20px 0 8px;">1. U.S. AI and semiconductor worries returned</h3>
+  <p>The first pressure point was the U.S. technology sector. Yonhap News reported that the S&amp;P 500 and Nasdaq closed lower, while the Philadelphia Semiconductor Index also finished weaker after a volatile session. According to market commentary cited in the report, uncertainty around AI data-center development triggered selling in semiconductor names.3)</p>
+  <p>That is important for Korea because Samsung Electronics and SK Hynix are not just large companies; they are central to how global investors read the Korean market. When investors begin questioning the pace of AI infrastructure spending, Korean memory-chip leaders tend to react quickly.</p>
+
+  <h3 style="font-size:19px; color:#2d4a63; margin:20px 0 8px;">2. Geopolitical risk hurt risk appetite</h3>
+  <p>Middle East tensions also weighed on sentiment. For equity investors, geopolitical risk often works through oil prices, inflation expectations, and interest-rate assumptions. If energy prices rise, inflation pressure can return. If inflation pressure returns, expectations for easier monetary policy can weaken. That chain is especially uncomfortable for growth and technology shares.3)</p>
+
+  <h3 style="font-size:19px; color:#2d4a63; margin:20px 0 8px;">3. Profit-taking followed an unusually sharp rebound</h3>
+  <p>The third factor was technical and psychological. On June 9, the KOSPI surged 8.18% and the KOSDAQ rose 6.19%. After such a fast rebound, short-term investors often sell into strength to reduce losses or lock in gains. June 10 looked less like a market reacting to one single shock and more like a market retesting prices after an emergency bounce.1)2)3)</p>
+
+  <h2 style="font-size:23px; color:#17324d; margin:28px 0 12px;">Sectors and Major Stocks: Semiconductors Led the Weakness</h2>
+  <p>Early session data showed notable weakness in insurance, IT services, and electrical/electronics, while real estate, metals, and textiles/clothing were relatively firmer. Although this was morning data, it captured the character of the day: investors sold the large growth and technology areas first, while pockets of defensive or theme-driven demand held up better.4)</p>
+  <p>Samsung Electronics was under pressure. Investing.com showed Samsung Electronics around 296,000 won on June 10, compared with a previous close of 322,000 won, with an intraday range of 296,000 to 314,500 won. That move shows how quickly confidence in the prior rebound faded for Korea’s most important large-cap technology stock.5)</p>
+  <p>SK Hynix was hit harder. Historical data showed SK Hynix closing at 1,999,000 won on June 10, down 9.75% on the day. Since the stock had jumped 15.91% on June 9, the next day’s decline can be read as aggressive profit-taking in one of the market’s most important AI memory beneficiaries.6)</p>
+  <p>Hanwha Aerospace, a major defense name, was comparatively resilient. It closed at 1,010,000 won, down only 0.59%, and traded as high as 1,065,000 won intraday. That relative strength fits the familiar pattern in which defense stocks can attract attention when geopolitical risks rise, even if the overall market is weak.7)</p>
+
+  <h2 style="font-size:23px; color:#17324d; margin:28px 0 12px;">Investor Sentiment: The Market Is Still Testing Direction</h2>
+  <p>The best word for the Korean market today is volatility. Recent trading has moved from panic selling to sharp rebounds and back to steep declines in a very short period. In such an environment, good news can be used as an opportunity to sell, while bad news can trigger faster stop-loss selling. That is why investors should look beyond the headline index decline and watch whether foreign selling, the won-dollar exchange rate, and semiconductor weakness begin to calm.</p>
+  <p>For new investors, the lesson is simple: a big fall does not automatically mean a clean buying opportunity. The question is whether the reason behind the fall is easing. AI and semiconductors remain central themes for Korea, but expectations had become very high. When expectations are high, the market reacts sharply to any sign that the story may need to be re-priced.</p>
+
+  <h2 style="font-size:23px; color:#17324d; margin:28px 0 12px;">Next Trading Day Watchlist</h2>
+  <ul style="padding-left:20px;">
+    <li>U.S. May CPI: Investing.com’s economic calendar listed U.S. CPI and core CPI events. A hotter-than-expected reading could revive rate concerns.8)</li>
+    <li>Samsung Electronics and SK Hynix: The KOSPI needs these two names to stop falling before market confidence can improve.5)6)</li>
+    <li>Won-dollar exchange rate and foreign flows: A firm dollar or continued foreign selling would keep pressure on Korean equities.3)</li>
+    <li>Rotation into defense, metals, or other resilient sectors: Investors should check whether relative strength is real leadership or only short-term shelter.4)7)</li>
+  </ul>
+
+  <h2 style="font-size:23px; color:#17324d; margin:28px 0 12px;">Bottom Line</h2>
+  <p>June 10 was best understood as a retest after a powerful rebound. The 6% drop in the KOSPI was large, but it reflected several forces at once: profit-taking after the previous day’s jump, renewed U.S. tech weakness, Middle East risk, and caution before U.S. inflation data. The next session will be less about whether the index already fell enough and more about whether semiconductors, foreign flows, and currency pressure can stabilize.</p>
+  <p style="background:#fff7e6; border-left:5px solid #d9822b; padding:14px 16px;">This article is not investment advice. It is an explanatory market-close report intended to help readers understand the day’s market movement in plain language.</p>
+
+  <h2 style="font-size:23px; color:#17324d; margin:28px 0 12px;">Sources</h2>
+  <ol style="padding-left:22px;">
+    <li>Investing.com, “KOSPI Historical Data,” June 10, 2026 data, https://kr.investing.com/indices/kospi-historical-data</li>
+    <li>Investing.com, “KOSDAQ Historical Data,” June 10, 2026 data, https://kr.investing.com/indices/kosdaq-historical-data</li>
+    <li>Yonhap News Agency, “[Market View] KOSPI retakes 8,000 amid extreme volatility,” published June 10, 2026, https://www.yna.co.kr/view/AKR20260610022000008</li>
+    <li>Yonhap News Agency, “KOSPI falls back below 8,000 in early trade,” published June 10, 2026, https://www.yna.co.kr/amp/view/AKR20260610038551008</li>
+    <li>Investing.com, “Samsung Electronics Co Ltd stock price | 005930,” checked June 10, 2026, https://kr.investing.com/equities/samsung-electronics-co-ltd</li>
+    <li>Investing.com, “SK Hynix Inc (000660) Historical Data,” June 10, 2026 data, https://kr.investing.com/equities/sk-hynix-inc-historical-data</li>
+    <li>Investing.com, “Hanwha Aerospace (012450) Historical Data,” June 10, 2026 data, https://kr.investing.com/equities/samsung-techwin-historical-data</li>
+    <li>Investing.com, “Economic Calendar,” U.S. May CPI schedule, checked June 10, 2026, https://kr.investing.com/</li>
+  </ol>
+</article>

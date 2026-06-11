@@ -1,0 +1,37 @@
+<article style="font-family: Arial, sans-serif; line-height:1.75; color:#222; max-width:860px; margin:0 auto;">
+<h1 style="font-size:28px; color:#111; margin-bottom:16px;">Korea Market Close: KOSPI Recovers From a Sharp Open, KOSDAQ Rallies on Chip Equipment Strength</h1>
+<p style="font-size:16px;">The Korean stock market on June 11, 2026 was not a calm rebound. It was a market that opened under heavy pressure, tested investors’ nerves, and then recovered as buyers returned to selected semiconductor and equipment names. According to Investing.com, the KOSPI was shown at 7,762.90, up 32.08 points from the previous session, after opening at 7,509.62 and moving between 7,394.46 and 7,800.62 during the day. Because market data providers can differ slightly by update time, the figures should be read with the cited source and timestamp context in mind.1)</p>
+<div style="background:#f3f6fb; border-left:5px solid #2f6fdd; padding:14px 16px; margin:20px 0;">
+<strong>Quick takeaway:</strong> Korea’s market started with fear from Middle East risk and U.S. tech weakness, but export momentum and selective buying in semiconductor supply-chain stocks helped stabilize sentiment by the end of the session.
+</div>
+<h2 style="font-size:22px; margin-top:28px;">1. Index Snapshot: Recovery, But Not Without Stress</h2>
+<p>The KOSPI’s intraday path tells the story better than the closing number alone. The index opened sharply lower at 7,509.62 and fell as low as 7,394.46 before buyers stepped in. Its high of 7,800.62 shows that the market was able to recover a large portion of the early shock, but the wide range also confirms that investors were still trading around risk rather than simply chasing a clean rally.1)</p>
+<p>The KOSDAQ looked stronger. Investing.com showed the KOSDAQ at 993.95, up 42.32 points, with a day range of 921.08 to 994.18. That means smaller growth and technology-linked shares drew more aggressive dip-buying than the broader large-cap market.2)</p>
+<h2 style="font-size:22px; margin-top:28px;">2. Why Did the Market Move?</h2>
+<h3 style="font-size:18px;">Middle East Risk Hit the Opening Mood</h3>
+<p>The main negative driver was geopolitical risk. Yonhap News reported that renewed U.S. strikes on Iran lifted oil prices and U.S. Treasury yields, while all three major U.S. equity indexes closed lower. The Philadelphia Semiconductor Index also dropped 3.57%, which mattered directly for Korea because semiconductors have been the core engine of the 2026 KOSPI rally.3)</p>
+<h3 style="font-size:18px;">Exports Provided a Cushion</h3>
+<p>On the positive side, Korea’s early-June export data gave investors a reason not to abandon the AI and semiconductor story. Korea Customs Service data reported by Korean media showed exports from June 1 to 10 at $28.6 billion, up 85.9% year on year. Semiconductor exports reached $11.1 billion, crossing the $10 billion mark for the first time in a 1-to-10-day period.4)</p>
+<h2 style="font-size:22px; margin-top:28px;">3. Sector and Stock Highlights</h2>
+<p>According to Asia Economy’s intraday market coverage, SK hynix, SK Square and Samsung C&T were among large-cap names showing gains in the afternoon, while Samsung Electronics remained slightly weak. Hanwha Aerospace, Doosan Enerbility, Kia and Shinhan Financial Group were among the names under pressure. This split suggests that investors were not buying the entire market evenly. They were focusing on companies where earnings momentum or sector narratives looked more convincing.5)</p>
+<p>The KOSDAQ’s relative strength was easier to understand through semiconductor equipment and materials names. Simtech, Wonik IPS, Jusung Engineering and EO Technics were highlighted as strong movers. In plain language, the market seemed to say: large chipmakers still face global valuation and U.S. tech pressure, but the Korean semiconductor supply chain may continue to benefit from capex, exports and AI-related demand.5)</p>
+<h2 style="font-size:22px; margin-top:28px;">4. Market Psychology: Fear Met Earnings Hope</h2>
+<p>The day can be summarized as a tug-of-war between fear and earnings confidence. Oil, the Korean won, U.S. rates and war headlines pushed investors toward caution. But the export data and the rebound in supply-chain stocks reminded the market that Korea’s underlying earnings story has not disappeared. That is why the session did not turn into a one-way selloff, even after a frightening open.</p>
+<h2 style="font-size:22px; margin-top:28px;">5. What to Watch Next</h2>
+<ul style="padding-left:22px;">
+<li>Whether the U.S.-Iran conflict continues to push oil and FX volatility higher.</li>
+<li>Whether U.S. semiconductor stocks stabilize after the Philadelphia Semiconductor Index decline.</li>
+<li>Whether the KOSPI can retest the 7,800 area and whether KOSDAQ can challenge 1,000.</li>
+<li>Whether strong export data translates into broader earnings revisions for Korean chip and equipment companies.</li>
+</ul>
+<p style="margin-top:20px;">In short, Korea’s June 11 session was a recovery with tension still inside it. The rebound was encouraging, but the next session will need confirmation from oil, FX, U.S. chip stocks and foreign investor flows before the market can treat today’s move as more than a volatility-driven bounce.</p>
+<p style="font-size:14px; color:#555; border-top:1px solid #ddd; padding-top:14px;">This article is an explanatory market recap, not an investment recommendation.</p>
+<h2 style="font-size:20px; margin-top:24px;">Sources</h2>
+<ol style="padding-left:22px;">
+<li>Investing.com, KOSPI (KS11) index page, checked June 11, 2026.</li>
+<li>Investing.com, KOSDAQ (KQ11) index page, checked June 11, 2026.</li>
+<li>Yonhap News Agency, “[Market View] Investor sentiment remains uneasy amid heightened Middle East tensions,” June 11, 2026.</li>
+<li>Korea Economic TV/Daum, report on Korea’s June 1-10 exports and semiconductor shipments, June 11, 2026.</li>
+<li>Asia Economy, “KOSPI volatility rises; KOSDAQ turns higher,” June 11, 2026.</li>
+</ol>
+</article>

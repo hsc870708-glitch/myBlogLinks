@@ -1,0 +1,59 @@
+<article style="font-family: Arial, Helvetica, sans-serif; line-height:1.72; color:#222; max-width:860px; margin:0 auto;">
+  <h1 style="font-size:28px; color:#111; margin:0 0 18px;">Korean Stock Market Close: KOSPI Reclaims the 8,100 Zone as Chips and Middle East Relief Drive a Sharp Rebound</h1>
+  <p style="font-size:16px; margin:0 0 14px;">South Korea’s equity market closed sharply higher on June 12, 2026, with investors moving back into risk assets after a volatile week. The KOSPI finished at 8,163.40, up 5.14% from the previous session, after trading between 8,079.77 and 8,434.40 during the day.1) The KOSDAQ also extended its rebound, closing at 1,044.02, up 4.72%.2)</p>
+  <p style="font-size:16px; margin:0 0 18px;">The market’s recovery was built around three connected themes: easing geopolitical anxiety after signs of progress in U.S.-Iran talks, a strong rebound in U.S. semiconductor shares, and fresh evidence that Korea’s export engine is being powered by the chip cycle. For global readers, the key point is that Korea’s market reaction was not only a local technical bounce. It reflected a broader relief trade in technology, energy-sensitive economies, and AI-related supply chains.3)4)</p>
+
+  <div style="background:#f3f7ff; border-left:5px solid #2f65d9; padding:16px 18px; margin:22px 0;">
+    <strong style="display:block; margin-bottom:8px;">Closing Snapshot</strong>
+    <ul style="margin:0; padding-left:20px;">
+      <li>KOSPI: 8,163.40, up 5.14%. The index briefly reached 8,434.40 intraday before giving back part of the gain.1)</li>
+      <li>KOSDAQ: 1,044.02, up 4.72%, holding above the psychologically important 1,000 level.2)</li>
+      <li>Main drivers: U.S.-Iran peace-deal hopes, lower oil-risk anxiety, a rebound in U.S. chip stocks, and strong early-June Korean export data.3)4)</li>
+      <li>Key stocks and themes: Samsung Electronics, SK Hynix, Hanmi Semiconductor, HPSP, Wonik IPS, and SK Square were among the notable names in the chip-led rebound.5)</li>
+    </ul>
+  </div>
+
+  <h2 style="font-size:22px; color:#17324d; margin-top:28px;">Index Action: A Strong Rebound, but Still a Volatile Tape</h2>
+  <p>The KOSPI opened at 8,263.85, dipped to 8,079.77, and then climbed as high as 8,434.40 before closing at 8,163.40.1) That pattern matters because it shows both strength and instability. Buyers returned aggressively, but the market was not calm. Korea’s benchmark index has become increasingly sensitive to global technology sentiment because major chipmakers carry heavy index weight. When U.S. semiconductor shares rally, Korea can respond quickly; when they fall, the pressure can also be amplified.</p>
+  <p>The KOSDAQ followed a similar risk-on pattern. It opened at 1,027.05, touched 1,049.70, and closed at 1,044.02.2) This suggests that buying interest spread beyond large-cap exporters into smaller growth names. Still, the KOSDAQ’s sharp rise should be read with some caution. Fast rebounds in high-beta growth stocks often invite profit-taking, especially after several sessions of dramatic swings.</p>
+
+  <h2 style="font-size:22px; color:#17324d; margin-top:28px;">Why Did Korean Stocks Rise Today?</h2>
+  <h3 style="font-size:18px; color:#333; margin-top:18px;">1. Geopolitical Relief Helped Restore Risk Appetite</h3>
+  <p>Yonhap reported before the Korean market opened that U.S. President Donald Trump had signaled progress toward a deal with Iran and had referred to canceling planned military strikes. The same report noted that Wall Street had closed higher, with the Dow, S&amp;P 500, and Nasdaq all rising, while the Philadelphia Semiconductor Index jumped 7.91%.3) For Korea, this matters in two ways. First, lower Middle East tension can reduce concerns about oil-price shocks. Second, a rebound in U.S. technology shares tends to support Korean semiconductor exporters and equipment makers.</p>
+  <h3 style="font-size:18px; color:#333; margin-top:18px;">2. Export Data Gave the Chip Rally a Fundamental Anchor</h3>
+  <p>According to provisional Korea Customs Service data summarized by the KDI Economic Information Center, exports from June 1 to 10 reached $28.6 billion, up 85.9% from a year earlier. Semiconductor exports surged 205.8%, and chips accounted for 38.7% of total exports during the period.4) That data helped investors treat the rally as more than a sentiment-driven rebound. It reinforced the idea that AI-related chip demand is showing up in Korea’s real trade numbers.</p>
+
+  <h2 style="font-size:22px; color:#17324d; margin-top:28px;">Sector and Stock Highlights: Chips Led, but Selectivity Remained</h2>
+  <p>Investing.com’s market-mover data showed Samsung Electronics up 9.20% and SK Hynix up 5.09%. Hanmi Semiconductor rose 23.71%, while HPSP and Wonik IPS were listed among the strongest gainers. SK Square also advanced 12.13%.5) This was a clear semiconductor-centered move: large-cap memory names anchored the market, while equipment and materials names added momentum in the KOSDAQ and related segments.</p>
+  <p>However, the rally was not universal. The same market-mover data showed some names, including Jusung Engineering and Samsung Electro-Mechanics, moving lower, while other individual stocks saw sharp declines.5) That tells us the market was selective. Investors were not simply buying every Korean stock. They were rewarding stocks directly tied to the strongest narratives: AI chips, memory demand, and global tech relief.</p>
+
+  <h2 style="font-size:22px; color:#17324d; margin-top:28px;">Flows and Sentiment: A Relief Rally Driven by Institutional and Foreign Buying</h2>
+  <p>ChosunBiz reported during the session that both foreign investors and institutions were net buyers of more than 1 trillion won each in the main KOSPI market, while retail investors were net sellers. In the KOSDAQ market, institutions were the stronger buyer group at that point.6) These figures were intraday numbers, so final exchange data may differ. Still, the direction is useful: larger investors appeared willing to re-enter Korean equities after geopolitical and technology worries eased.</p>
+  <p>For beginner investors, the message is simple. A strong index gain can feel like confirmation that risk has disappeared, but today’s move was also a reaction to recent fear. When markets rebound this quickly, the next session often tests whether the rally has real follow-through or whether short-term traders take profits.</p>
+
+  <h2 style="font-size:22px; color:#17324d; margin-top:28px;">What to Watch Next</h2>
+  <ul style="padding-left:20px;">
+    <li>Whether U.S.-Iran deal expectations become formal progress, rather than only headline-driven optimism.</li>
+    <li>Whether the U.S. semiconductor rebound continues, especially in AI and memory-related names.</li>
+    <li>How much profit-taking appears in Samsung Electronics, SK Hynix, Hanmi Semiconductor, HPSP, and Wonik IPS after sharp gains.</li>
+    <li>Whether KOSPI can hold the 8,000 area and whether KOSDAQ can maintain trading strength above 1,000.</li>
+    <li>Whether Korea’s strong early-June export data continues into the full monthly trade report, especially for semiconductors.</li>
+  </ul>
+
+  <div style="background:#fff8e6; border-left:5px solid #e0a100; padding:16px 18px; margin:24px 0;">
+    <strong>Bottom Line</strong>
+    <p style="margin:8px 0 0;">Today’s Korean stock market rebound was driven by a powerful combination: geopolitical relief, a global semiconductor rally, and solid chip export evidence. The move was encouraging, but not risk-free. After such a large advance, the next trading day will be important for checking whether buyers continue to support the market or whether short-term profit-taking dominates.</p>
+  </div>
+
+  <p style="font-size:14px; color:#555;">This article is not investment advice. It is an explanatory market-close report intended to help readers understand the day’s market movement in plain language.</p>
+
+  <h2 style="font-size:20px; color:#111; margin-top:28px;">Sources</h2>
+  <ol style="padding-left:20px; font-size:14px; color:#444;">
+    <li>Investing.com, “KOSPI Historical Data,” June 12, 2026 closing, opening, high, low, and volume table.</li>
+    <li>Investing.com, “KOSDAQ Historical Data,” June 12, 2026 closing, opening, high, low, and volume table.</li>
+    <li>Yonhap News Agency, “[Market View] Trump signals Iran deal… will KOSPI attempt to reclaim 8,000?” June 12, 2026.</li>
+    <li>KDI Economic Information Center, Korea Customs Service, “Exports and Imports from June 1 to June 10, 2026 [Provisional],” June 11, 2026.</li>
+    <li>Investing.com, KOSPI market movers and major stock performance data, checked June 12, 2026.</li>
+    <li>ChosunBiz, “Foreigners and institutions buy more than 1 trillion won each… KOSPI recovers the 8,360 level,” June 12, 2026.</li>
+  </ol>
+</article>

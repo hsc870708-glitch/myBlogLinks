@@ -1,0 +1,55 @@
+<article style="font-family: Arial, Helvetica, sans-serif; line-height:1.72; color:#222; max-width:860px; margin:0 auto; padding:20px;">
+  <h1 style="font-size:30px; color:#111; margin-bottom:14px;">KOSPI Surges on US-Iran Peace Hopes: South Korea Stock Market Close for June 15, 2026</h1>
+  <p style="font-size:16px; margin:0 0 14px;">South Korea’s stock market was open for regular trading on Monday, June 15, 2026. The Korea Exchange’s regular weekday session is listed as running from 9:00 a.m. to 3:20 p.m. local time, and June 15 was not treated as a market holiday.1)</p>
+  <p style="font-size:16px; margin:0 0 14px;">The day’s market story was simple but powerful: geopolitical risk eased, oil-price anxiety cooled, and investors moved back into Korea’s large-cap growth and cyclical stocks. The KOSPI staged a sharp rally, while the KOSDAQ finished only slightly higher, showing that the strongest demand was concentrated in index-heavy blue chips rather than across the entire market.</p>
+
+  <div style="background:#f3f7ff; border-left:5px solid #2f6fed; padding:16px 18px; margin:22px 0;">
+    <h2 style="font-size:22px; margin:0 0 10px; color:#123b7a;">Market Close at a Glance</h2>
+    <ul style="margin:0; padding-left:20px;">
+      <li>The KOSPI was recorded at 8,573.63, extending its rally from the previous close of 8,123.62 and marking a gain in the mid-5% range.2)</li>
+      <li>The KOSDAQ closed at 1,030.38, up just 0.13% on the day after giving back much of its intraday strength.3)</li>
+      <li>Samsung Electronics, SK Hynix, Hyundai Motor, LG Energy Solution, HD Hyundai Heavy Industries, Doosan Enerbility and KB Financial Group were among the major names highlighted in the rally.4)</li>
+      <li>The main macro catalyst was hope that the US-Iran conflict was moving toward an end, including expectations for a reopening of the Strait of Hormuz.5)</li>
+    </ul>
+  </div>
+
+  <h2 style="font-size:24px; margin-top:28px; color:#111;">Why Did the Korean Stock Market Rally Today?</h2>
+  <p>The KOSPI’s move was not just a routine rebound. It reflected a sudden improvement in risk appetite after investors began to price in a lower probability of a prolonged Middle East shock. When geopolitical pressure fades, the first reaction in equity markets is often relief: oil prices can fall, inflation fears may soften, and global investors become more willing to buy cyclical and technology shares again.</p>
+  <p>That is exactly what happened in Seoul. The KOSPI, already one of the most closely watched AI-linked equity markets in Asia, reacted strongly because its largest stocks are deeply tied to semiconductors, memory chips, batteries, autos, shipbuilding and financials. These are sectors that tend to respond quickly when investors feel more comfortable taking risk.</p>
+
+  <h2 style="font-size:24px; margin-top:28px; color:#111;">KOSPI vs. KOSDAQ: Same Market, Different Message</h2>
+  <p>The KOSPI was recorded at 8,573.63, compared with the previous close of 8,123.62.2) That is a powerful one-day move and suggests that institutional and global investors were willing to return to Korea’s biggest names. The rally was broad enough to include technology and cyclicals, but it was still led by the companies with the greatest index weight and the clearest earnings narratives.</p>
+  <p>The KOSDAQ told a more cautious story. It closed at 1,030.38, up only 0.13%, even though it traded as high as 1,054.32 during the session.3) This matters because a strong index day does not always mean that every part of the market is healthy. For beginners, the key point is that Korea had a risk-on session, but not a fully synchronized one. Large-cap confidence improved more quickly than appetite for smaller growth stocks.</p>
+
+  <h2 style="font-size:24px; margin-top:28px; color:#111;">The Main Catalyst: US-Iran Peace Hopes and Lower Oil Anxiety</h2>
+  <p>Yonhap reported that expectations for a US-Iran agreement, including the potential reopening of the Strait of Hormuz, supported global risk appetite and helped Korean equities start the day with a positive bias.5) The Strait of Hormuz is one of the world’s most important oil-shipping routes. When tension around that route rises, markets worry about energy supply, inflation and higher interest-rate pressure. When tension eases, investors often treat it as a direct positive for equities.</p>
+  <p>This is why the move was so emotional. The Korean market had recently been volatile because AI and semiconductor expectations had already pushed valuations higher. In that kind of market, investors are sensitive to bad news, but they can also re-enter quickly when a major risk appears to fade. Today’s rally was therefore best understood as a relief rally with a clear macro trigger.</p>
+
+  <h2 style="font-size:24px; margin-top:28px; color:#111;">Semiconductors and Exports: Why the Rally Had Fundamental Support</h2>
+  <p>The day was not driven by geopolitics alone. Korea Investment & Securities argued that once Middle East risk eased, investors could refocus on fundamentals and corporate earnings, with semiconductors and chemicals standing out as sectors to watch.6) This helped frame the rally as more than a short-term emotional bounce.</p>
+  <p>Export data added another layer of support. South Korea’s May exports rose 53.2% year over year to $87.75 billion, a monthly record, while semiconductor exports jumped 169.4% and led the overall increase, according to government data summarized by the KDI Economic Information Center.7) For the stock market, that matters because the AI server cycle, memory pricing and high-bandwidth memory demand are not abstract themes. They are directly connected to sales, margins and earnings expectations for Korea’s biggest chip companies.</p>
+
+  <h2 style="font-size:24px; margin-top:28px; color:#111;">Key Stocks and Sector Rotation</h2>
+  <p>Trading Economics highlighted gains in Samsung Electronics, SK Hynix, Hyundai Motor, LG Energy Solution, HD Hyundai Heavy Industries, Doosan Enerbility and KB Financial Group.4) The mix is telling. Samsung Electronics and SK Hynix represented the AI and memory-chip story. Hyundai Motor and shipbuilding names reflected a return to cyclicals. KB Financial Group showed that investors were also willing to buy large value names during the index rebound.</p>
+  <p>The relative weakness of the KOSDAQ, however, means investors should avoid reading the day as a blanket endorsement of all risk assets. Money moved first toward liquid, earnings-linked, globally visible large caps. Smaller growth stocks may need stronger follow-through in trading volume and earnings news before they can confirm a broader market rotation.</p>
+
+  <h2 style="font-size:24px; margin-top:28px; color:#111;">What to Watch in the Next Trading Session</h2>
+  <p>The first checkpoint is whether the US-Iran agreement becomes more concrete and whether energy prices remain stable. If the peace headlines turn into durable policy and shipping-route clarity, today’s rally could receive additional support. If details become uncertain, oil, currencies and foreign flows could bring volatility back quickly.</p>
+  <p>The second checkpoint is whether semiconductor leaders can justify further gains through earnings expectations. Strong export data is helpful, but after a sharp rally, investors may take profits if the next news flow does not keep pace. The third checkpoint is KOSDAQ participation. A healthy market usually shows improving breadth. If only the largest KOSPI stocks keep rising while smaller stocks stall, the rally may remain powerful but narrow.</p>
+  <p>In short, June 15 was a strong relief rally for Korean equities, led by geopolitics, AI-linked semiconductors and large-cap buying. The next test is confirmation: stable oil, steady foreign demand, sustained semiconductor volume and better breadth beyond the KOSPI’s biggest names.</p>
+
+  <div style="background:#fff7e6; border:1px solid #f1c36d; padding:14px 16px; margin:26px 0;">
+    <p style="margin:0; font-weight:bold;">This article is not investment advice. It is an explanatory market-close report designed to help readers understand the trading flow on June 15, 2026. Investment decisions should be made carefully according to each investor’s goals, time horizon and risk tolerance.</p>
+  </div>
+
+  <h2 style="font-size:22px; margin-top:28px; color:#111;">Sources</h2>
+  <ol style="padding-left:22px;">
+    <li>TradingHours.com, Korea Stock Exchange Market Hours & Holidays 2026, KRX trading hours and 2026 market calendar.</li>
+    <li>Trading Economics, South Korea Stock Market - Quote - Chart - Historical Data - News, KOSPI data and news stream for June 15, 2026.</li>
+    <li>Investing.com Korea, KOSDAQ Historical Data, KOSDAQ close, open, high, low and volume for June 15, 2026.</li>
+    <li>Trading Economics, South Korean Shares Extend Rally on US-Iran Deal, June 15, 2026, large-cap movers and market summary.</li>
+    <li>Yonhap News Agency, “[Market View] US-Iran war end… Will KOSPI run toward 9,000 again?”, published June 15, 2026.</li>
+    <li>Yonhap News Agency, “Korea Investment & Securities: With Middle East risk easing, focus on fundamentals; hold semiconductor stocks,” published June 15, 2026.</li>
+    <li>KDI Economic Information Center, “May 2026 Export and Import Trends,” Ministry of Trade, Industry and Energy release, June 1, 2026.</li>
+  </ol>
+</article>

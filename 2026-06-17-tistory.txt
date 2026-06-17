@@ -1,0 +1,77 @@
+<article style="font-family: Arial, 'Noto Sans KR', sans-serif; line-height: 1.78; color: #222; max-width: 860px; margin: 0 auto;">
+  <h1 style="font-size: 28px; color: #101820; margin: 0 0 18px;">코스피 8857선 반등, 한국 증시 마감 해설: FOMC 앞두고도 무너지지 않은 이유</h1>
+
+  <div style="background: #eef5ff; border: 1px solid #cfe0ff; padding: 16px 18px; margin: 0 0 22px;">
+    <p style="margin: 0; font-size: 16px;"><strong>한 줄 후킹:</strong> 아침에는 불안했고, 마감은 강했습니다. 오늘 한국 증시는 “상승”보다 “어떤 종목이 지수를 되살렸는가”를 보는 것이 더 중요했습니다.</p>
+  </div>
+
+  <p style="font-size: 16px; margin: 0 0 14px;">2026년 6월 17일 국내 주식시장은 장 초반만 보면 조심스러운 하루였습니다. 미국 기술주 부담, FOMC 결과 발표 전 경계감, 외국인 매도까지 겹치며 코스피는 장중 8,605.66까지 내려갔습니다. 하지만 마감 무렵 분위기는 달라졌습니다. 코스피는 8,857.86으로 1.50% 상승했고, 코스닥도 1,030.70으로 1.18% 올랐습니다. 1) 2)</p>
+  <p style="font-size: 16px; margin: 0 0 18px;">오늘 장을 단순히 “상승장”이라고만 말하면 절반만 보는 것입니다. 코스피에서는 하락 종목이 상승 종목보다 많았고, 외국인은 8,412억 원 순매도했습니다. 그럼에도 지수가 오른 이유는 일부 대형주, 특히 반도체와 지주회사 성격의 종목들이 지수를 강하게 받쳤기 때문입니다. 5)</p>
+
+  <h2 style="font-size: 22px; color: #1f2d3d; margin-top: 28px;">1. 오늘 마감 숫자부터 정리해 보겠습니다</h2>
+  <table style="width: 100%; border-collapse: collapse; margin: 14px 0 22px; font-size: 15px;">
+    <tbody>
+      <tr>
+        <td style="border: 1px solid #ddd; padding: 10px; background: #f7f7f7;"><strong>코스피</strong></td>
+        <td style="border: 1px solid #ddd; padding: 10px;">8,857.86, +1.50%, 장중 8,605.66~8,872.18 1)</td>
+      </tr>
+      <tr>
+        <td style="border: 1px solid #ddd; padding: 10px; background: #f7f7f7;"><strong>코스닥</strong></td>
+        <td style="border: 1px solid #ddd; padding: 10px;">1,030.70, +1.18%, 장중 1,008.57~1,039.55 2)</td>
+      </tr>
+      <tr>
+        <td style="border: 1px solid #ddd; padding: 10px; background: #f7f7f7;"><strong>코스피 수급</strong></td>
+        <td style="border: 1px solid #ddd; padding: 10px;">개인 +6,254억 원, 기관 +2,158억 원, 외국인 -8,412억 원 5)</td>
+      </tr>
+      <tr>
+        <td style="border: 1px solid #ddd; padding: 10px; background: #f7f7f7;"><strong>코스닥 수급</strong></td>
+        <td style="border: 1px solid #ddd; padding: 10px;">개인 -185억 원, 외국인 +319억 원, 기관 -135억 원 6)</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="font-size: 16px;">숫자에서 눈에 띄는 부분은 두 가지입니다. 첫째, 지수는 강했지만 코스피 내부는 넓게 오르지 않았습니다. 상승 종목은 338개였고 하락 종목은 544개였습니다. 둘째, 외국인이 팔았는데도 개인과 기관 매수가 지수를 방어했습니다. 이런 조합은 “시장 전체의 자신감 회복”이라기보다 “대표주 중심의 방어와 반등”으로 보는 편이 더 정확합니다. 5)</p>
+
+  <h2 style="font-size: 22px; color: #1f2d3d; margin-top: 28px;">2. FOMC 앞둔 눈치보기, 왜 중요했을까요?</h2>
+  <p style="font-size: 16px;">오늘 투자자들이 가장 신경 쓴 해외 이벤트는 미국 FOMC였습니다. 연준은 6월 16일부터 17일까지 회의를 진행하고, 17일 정책 결정과 기자회견을 예정했습니다. 국내 장 마감 이후에 핵심 결과가 확인되는 일정이었기 때문에, 한국 증시는 결과를 본 뒤 움직인 것이 아니라 결과를 기다리며 포지션을 조절한 장이었습니다. 7)</p>
+  <p style="font-size: 16px;">금리가 동결되는지만 중요한 것이 아닙니다. 시장은 “앞으로 금리 인하가 가능한가”를 더 민감하게 봅니다. 금리 인하 기대가 약해지면 성장주와 기술주는 부담을 받을 수 있습니다. 반대로 연준이 덜 매파적으로 보이면 반도체, AI, 성장주에 다시 매수세가 들어올 수 있습니다. 그래서 오늘 오전의 약세는 단순한 공포라기보다, 큰 이벤트 앞에서 먼저 몸을 낮춘 움직임에 가까웠습니다.</p>
+
+  <h2 style="font-size: 22px; color: #1f2d3d; margin-top: 28px;">3. 유가 안정은 한국 증시에 왜 도움이 됐나</h2>
+  <p style="font-size: 16px;">AP는 미국과 이란의 임시 합의 세부 내용을 시장이 지켜보는 가운데, 국제유가가 배럴당 80달러 아래에서 거래됐다고 전했습니다. 브렌트유는 앞서 크게 내린 뒤 78달러대에서 움직였습니다. 4)</p>
+  <p style="font-size: 16px;">한국 증시에서 유가 안정은 생각보다 중요합니다. 한국은 에너지 수입 의존도가 높기 때문에 유가가 오르면 기업 비용과 물가 부담이 커집니다. 물가 부담은 다시 금리 부담으로 이어질 수 있고, 금리 부담은 성장주와 기술주 밸류에이션을 누를 수 있습니다. 반대로 유가가 안정되면 시장은 숨을 돌릴 여지가 생깁니다. 오늘도 이 부분이 장중 불안을 완화하는 역할을 했습니다. 다만 중동 리스크가 완전히 해소된 것은 아니기 때문에, 다음 뉴스 흐름은 계속 확인해야 합니다.</p>
+
+  <h2 style="font-size: 22px; color: #1f2d3d; margin-top: 28px;">4. 오늘의 주도주는 어디였을까요?</h2>
+  <p style="font-size: 16px;">코스피 시가총액 상위에서는 삼성전자가 34만5천 원으로 0.58% 올랐고, SK하이닉스가 249만6천 원으로 4.79% 상승했습니다. SK스퀘어도 6.00% 올랐습니다. 5)</p>
+  <p style="font-size: 16px;">이 흐름은 매우 중요합니다. 코스피가 크게 오를 때는 대개 삼성전자, SK하이닉스 같은 초대형주가 방향을 잡아주는 경우가 많습니다. 오늘도 비슷했습니다. 특히 SK하이닉스의 강세는 AI와 반도체 투자 기대가 여전히 시장의 중심에 있다는 뜻으로 해석할 수 있습니다. 다만 반도체가 강해서 지수가 오른 날에는, 반도체가 쉬어가면 지수도 같이 흔들릴 수 있다는 점도 함께 봐야 합니다.</p>
+  <p style="font-size: 16px;">코스닥에서는 분위기가 조금 달랐습니다. 상승 종목이 887개, 하락 종목이 754개로 코스피보다 시장 폭은 나았습니다. 시총 상위 중 알테오젠은 5.82% 올랐고, 에코프로비엠과 에코프로는 소폭 하락했습니다. 오늘 코스닥은 2차전지보다 바이오와 일부 성장주 쪽에 관심이 더 붙었던 장으로 볼 수 있습니다. 6)</p>
+
+  <h2 style="font-size: 22px; color: #1f2d3d; margin-top: 28px;">5. 초보 투자자는 오늘 장을 이렇게 보면 됩니다</h2>
+  <div style="background: #fff8e6; border-left: 5px solid #f5a623; padding: 16px 18px; margin: 18px 0;">
+    <p style="margin: 0;">오늘은 지수가 올랐지만, 시장 전체가 고르게 강했던 날은 아니었습니다. 따라서 “코스피가 올랐다”보다 “어떤 종목이 올렸고, 그 힘이 다음 장에도 이어질 수 있는가”를 보는 것이 더 중요합니다.</p>
+  </div>
+  <p style="font-size: 16px;">외국인이 코스피를 팔았다는 점은 부담입니다. 하지만 개인과 기관이 받아냈고, 반도체 대형주가 강하게 움직였습니다. 여기서 다음 장의 관전 포인트가 나옵니다. 외국인이 다시 사는지, 반도체 강세가 이어지는지, 상승 종목 수가 더 늘어나는지를 확인해야 합니다. 이 세 가지가 동시에 좋아지면 오늘 반등은 더 건강해질 수 있습니다.</p>
+
+  <h2 style="font-size: 22px; color: #1f2d3d; margin-top: 28px;">6. 다음 거래일 체크포인트</h2>
+  <ul style="font-size: 16px; padding-left: 20px;">
+    <li>FOMC 결과와 연준 기자회견에서 향후 금리 인하 기대가 유지되는지 확인해야 합니다. 7)</li>
+    <li>미국 반도체와 기술주가 회복하는지 봐야 합니다. 국내 반도체 대형주에 바로 영향을 줄 수 있습니다.</li>
+    <li>코스피 외국인 순매도가 멈추는지 확인해야 합니다. 오늘 외국인은 8,412억 원 순매도였습니다. 5)</li>
+    <li>유가가 80달러 아래에서 안정되는지, 중동 관련 합의가 실제로 이어지는지 봐야 합니다. 4)</li>
+    <li>코스피 상승 종목 수가 늘어나는지 확인해야 합니다. 지수보다 시장 폭이 더 중요한 하루가 될 수 있습니다. 5)</li>
+  </ul>
+
+  <p style="font-size: 16px;">정리하면, 6월 17일 한국 증시는 불안하게 출발했지만 반도체 대형주와 유가 안정, 개인·기관 매수에 힘입어 상승 마감했습니다. 하지만 외국인 매도와 코스피 내부 종목 확산 부족은 여전히 남은 숙제입니다. 다음 거래일에는 FOMC 이후 글로벌 기술주 반응과 외국인 수급, 그리고 상승 종목 확산 여부를 함께 보시는 것이 좋겠습니다.</p>
+
+  <p style="font-size: 14px; color: #666; margin-top: 24px;">이 글은 투자 권유가 아니라 오늘 장중 흐름을 이해하기 쉽게 정리한 해설형 리포트입니다. 모든 투자 판단과 책임은 투자자 본인에게 있습니다.</p>
+
+  <h2 style="font-size: 20px; color: #1f2d3d; margin-top: 30px;">출처</h2>
+  <ol style="font-size: 14px; color: #444; padding-left: 20px;">
+    <li>Investing.com, “코스피지수 과거 데이터”, 2026년 6월 17일 일간 지수 데이터 확인.</li>
+    <li>Investing.com, “코스닥 과거 데이터”, 2026년 6월 17일 일간 지수 데이터 확인.</li>
+    <li>한국경제, “[마켓라이브] 코스피 0.96% 하락 중…FOMC 경계감 속 조선·철강 순환매 [오전 10시 시황]”, 2026년 6월 17일.</li>
+    <li>AP News, “Asian shares are mixed and oil stays below $80 as world awaits details on US-Iran deal”, 2026년 6월 17일.</li>
+    <li>한국경제 한경코리아마켓, “코스피 시장지표”, 2026년 6월 17일 확인.</li>
+    <li>한국경제 한경코리아마켓, “코스닥 시장지표”, 2026년 6월 17일 확인.</li>
+    <li>Federal Reserve Board, “Calendar: June 2026”, FOMC Meeting and Press Conference schedule.</li>
+  </ol>
+</article>

@@ -1,0 +1,65 @@
+<article style="font-family: Arial, sans-serif; line-height: 1.75; color: #222; max-width: 860px; margin: 0 auto;">
+  <h1 style="font-size: 28px; color: #111; margin: 0 0 18px;">KOSPI Rebounds to 8,857: Korea’s June 17 Close Shows Relief, FOMC Caution, and Chip-Led Selectivity</h1>
+
+  <p style="font-size: 16px; margin: 0 0 14px;">South Korea’s stock market finished higher on June 17, 2026, after a nervous start. The KOSPI closed at 8,857.86, up 1.50% from the previous session, while the KOSDAQ ended at 1,030.70, up 1.18%. The headline numbers look strong, but the more useful reading is that investors were willing to buy the dip while still waiting for the next major global signal from the U.S. Federal Reserve. 1) 2)</p>
+  <p style="font-size: 16px; margin: 0 0 18px;">The session began with pressure from weaker U.S. technology sentiment and caution ahead of the June FOMC decision. Later in the day, relief over lower oil prices, easing Middle East risk, and strength in major Korean semiconductor and holding-company names helped the market turn higher. For global readers, the key point is that Korea’s equity market remains highly sensitive to large technology stocks, especially Samsung Electronics and SK Hynix, but the day’s rebound was not a broad, risk-on rally across every corner of the market. 3) 4)</p>
+
+  <div style="background: #f3f7ff; border-left: 5px solid #3867d6; padding: 16px 18px; margin: 22px 0;">
+    <strong style="display: block; font-size: 17px; margin-bottom: 8px;">Market Close at a Glance</strong>
+    <ul style="margin: 0; padding-left: 20px;">
+      <li>KOSPI: 8,857.86, up 1.50%. The index moved between 8,605.66 and 8,872.18 during the day. 1)</li>
+      <li>KOSDAQ: 1,030.70, up 1.18%. The growth-heavy market recovered from an intraday low of 1,008.57. 2)</li>
+      <li>KOSPI flows: retail investors bought a net 625.4 billion won and institutions bought 215.8 billion won, while foreign investors sold a net 841.2 billion won. 5)</li>
+      <li>Key stocks: Samsung Electronics rose modestly, SK Hynix advanced sharply, SK Square also gained, and Alteogen led among major KOSDAQ names. 5) 6)</li>
+    </ul>
+  </div>
+
+  <h2 style="font-size: 22px; color: #1f2d3d; margin-top: 30px;">Why Did the Korean Market Recover After a Weak Open?</h2>
+  <p style="font-size: 16px;">The KOSPI did not begin the day with confidence. It opened lower and fell to 8,605.66 at one point, reflecting caution before the U.S. rate decision and overnight weakness in technology-related sentiment. Yet the index recovered steadily and closed near its intraday high. A close near the upper end of the day’s range often tells us that investors were not simply waiting on the sidelines; enough buyers stepped in to absorb early selling pressure. 1)</p>
+  <p style="font-size: 16px;">The KOSDAQ followed a similar pattern. It opened at 1,019.88, slipped to 1,008.57, then rebounded to finish above 1,030. For international investors, this matters because the KOSDAQ tends to be more sensitive to growth-stock conditions, biotech sentiment, small-cap liquidity, and interest-rate expectations. The positive close suggests that risk appetite was not completely broken, even though the market was still cautious. 2)</p>
+
+  <h2 style="font-size: 22px; color: #1f2d3d; margin-top: 30px;">The Main Drivers Behind June 17 Trading</h2>
+  <h3 style="font-size: 18px; color: #34495e; margin-top: 18px;">FOMC Caution Kept Investors From Chasing Too Aggressively</h3>
+  <p style="font-size: 16px;">The Federal Reserve’s June calendar showed the FOMC meeting scheduled for June 16-17, with the policy decision and press conference set for June 17 in U.S. time. For Korean investors, the key announcements would come after the local market close. This timing created a familiar pattern: investors reduced risk early, watched U.S. technology signals carefully, and avoided making an overly confident macro call before the Fed’s message was known. 7)</p>
+  <p style="font-size: 16px;">Even if the Fed holds rates steady, the market cares about the tone. If the Fed sounds less willing to cut rates later, high-valuation growth stocks can come under pressure. If the Fed sounds more flexible, beaten-down technology and semiconductor names may regain support. That is why today’s Korean market should be read as a rebound inside an unresolved macro event, not as a clean confirmation that all worries have disappeared.</p>
+
+  <h3 style="font-size: 18px; color: #34495e; margin-top: 18px;">Lower Oil Prices Helped Ease the Worst-Case Scenario</h3>
+  <p style="font-size: 16px;">AP reported that Asian markets were watching details of an interim U.S.-Iran agreement while oil traded below $80 a barrel. Brent crude was around the high-$78 range after a sharp earlier decline. This was helpful for Korea because the country is heavily dependent on imported energy. Lower oil prices can reduce pressure on inflation expectations, corporate costs, and interest-rate anxiety. 4)</p>
+  <p style="font-size: 16px;">Still, this should be interpreted carefully. A lower oil price does not mean geopolitical risk has vanished. It only means that the market saw the probability of the worst energy-supply shock falling for now. That relief gave buyers a reason to return, but it did not remove the need to monitor further developments around the agreement and shipping routes.</p>
+
+  <h2 style="font-size: 22px; color: #1f2d3d; margin-top: 30px;">Sectors and Stocks: A Strong Index, But Not a Broad Rally</h2>
+  <p style="font-size: 16px;">The KOSPI’s internal picture was more mixed than the index gain suggests. According to Korea Economic Daily’s market data, 338 KOSPI stocks rose, 544 fell, and 33 were unchanged. That means the index rose even though more stocks declined than advanced. This is the kind of market where a few large-cap names can carry the benchmark while many individual portfolios feel less impressive. 5)</p>
+  <p style="font-size: 16px;">Among large caps, Samsung Electronics closed at 345,000 won, up 0.58%, while SK Hynix jumped 4.79% to 2,496,000 won. SK Square gained 6.00%. This is an important signal because Korea’s equity market has a heavy semiconductor and AI-hardware component. When investors return to SK Hynix and related names, the KOSPI can move quickly even without a broad improvement in every sector. 5)</p>
+  <p style="font-size: 16px;">The KOSDAQ was somewhat healthier in breadth. The market data showed 887 rising stocks and 754 falling stocks. In the KOSDAQ top group, Alteogen rose 5.82%, while Ecopro BM and Ecopro were slightly lower. This suggests that biotech and selected growth names attracted more attention than battery-related shares on the day. 6)</p>
+
+  <h2 style="font-size: 22px; color: #1f2d3d; margin-top: 30px;">What the Market Psychology Says</h2>
+  <p style="font-size: 16px;">The best way to describe today’s session is “relief with conditions attached.” Buyers appeared when prices fell, and the market closed strongly. That is constructive. However, foreign investors were net sellers in the KOSPI market, and the number of declining KOSPI stocks exceeded advancers. So the session does not yet look like a fully broad-based rally. It looks more like a rebound led by selected large-cap names and supported by easing external risks.</p>
+  <p style="font-size: 16px;">For beginners, the practical lesson is simple: do not look only at the index. A rising KOSPI can hide a narrow market. It is more important to ask which stocks actually attracted money, whether those flows came from domestic or foreign investors, and whether the reason for the move can survive the next global catalyst. Today, the answer points to semiconductor strength, oil relief, and cautious positioning before the Fed.</p>
+
+  <h2 style="font-size: 22px; color: #1f2d3d; margin-top: 30px;">What to Watch in the Next Session</h2>
+  <ul style="font-size: 16px; padding-left: 20px;">
+    <li>First, watch the FOMC statement and press conference for clues on whether rate-cut expectations remain alive. 7)</li>
+    <li>Second, follow U.S. technology and semiconductor shares because they can feed directly into Korean chip sentiment.</li>
+    <li>Third, check whether foreign selling in the KOSPI was just short-term profit-taking or the beginning of a broader reduction in exposure. 5)</li>
+    <li>Fourth, monitor whether oil stays below $80 and whether the U.S.-Iran agreement produces additional confirmation. 4)</li>
+    <li>Fifth, watch market breadth. If more stocks begin to rise alongside the index, the rebound becomes healthier. 5)</li>
+  </ul>
+
+  <div style="background: #fff8e6; border-left: 5px solid #f5a623; padding: 16px 18px; margin: 24px 0;">
+    <strong>Bottom Line</strong>
+    <p style="margin: 8px 0 0;">Korea’s June 17 close was positive, but selective. The KOSPI and KOSDAQ both finished higher, supported by chip leadership, lower oil pressure, and dip-buying. Yet foreign selling and uneven market breadth mean the next session should be judged by follow-through, not by today’s index gain alone.</p>
+  </div>
+
+  <p style="font-size: 14px; color: #666;">This article is an explanatory market review, not investment advice. It is intended to help readers understand the day’s market movement more clearly.</p>
+
+  <h2 style="font-size: 20px; color: #1f2d3d; margin-top: 30px;">Sources</h2>
+  <ol style="font-size: 14px; color: #444; padding-left: 20px;">
+    <li>Investing.com, “KOSPI Historical Data,” daily index data checked for June 17, 2026.</li>
+    <li>Investing.com, “KOSDAQ Historical Data,” daily index data checked for June 17, 2026.</li>
+    <li>Korea Economic Daily, “[Market Live] KOSPI down 0.96% amid FOMC caution and rotation into shipbuilding and steel,” June 17, 2026.</li>
+    <li>AP News, “Asian shares are mixed and oil stays below $80 as world awaits details on US-Iran deal,” June 17, 2026.</li>
+    <li>Korea Economic Daily Korea Market, “KOSPI Market Indicators,” checked June 17, 2026.</li>
+    <li>Korea Economic Daily Korea Market, “KOSDAQ Market Indicators,” checked June 17, 2026.</li>
+    <li>Federal Reserve Board, “Calendar: June 2026,” FOMC meeting and press conference schedule.</li>
+  </ol>
+</article>

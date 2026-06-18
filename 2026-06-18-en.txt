@@ -1,0 +1,44 @@
+<article style="font-family: Arial, sans-serif; line-height:1.75; color:#222; max-width:860px; margin:0 auto;">
+  <h1 style="font-size:30px; color:#111; margin:0 0 18px;">KOSPI Breaks 9,000 for the First Time: Why Korea’s Rally Felt Strong but Uneven</h1>
+  <p style="font-size:16px; margin:0 0 14px;">On June 18, 2026, the South Korean stock market traded normally and delivered a milestone session: the KOSPI moved above the 9,000 level for the first time. Yet the day should not be read as a broad market rally. Late-session quote boards showed the KOSPI around 9,083.53, while the KOSDAQ was near 1,002.81 and in negative territory. In plain language, the headline index was strong, but many individual stocks did not share the same strength. 1)</p>
+  <div style="background:#f3f7ff; border-left:5px solid #2f6fed; padding:16px 18px; margin:22px 0;">
+    <strong>Market Close Snapshot</strong>
+    <ul style="margin:10px 0 0 20px; padding:0;">
+      <li>The KOSPI crossed 9,000 intraday for the first time in Korea’s market history. 2)</li>
+      <li>Large semiconductor names, especially Samsung Electronics and SK hynix, were the main drivers. 4)</li>
+      <li>The KOSDAQ weakened, showing that risk appetite was not broad-based. 1)</li>
+      <li>Foreign investors were net sellers during the session, while local retail and institutional buyers absorbed supply. 3)</li>
+    </ul>
+  </div>
+  <h2 style="font-size:24px; color:#1f3f75; margin-top:28px;">Index Movement: A Historic KOSPI, a Softer KOSDAQ</h2>
+  <p>The KOSPI opened at 8,884.92, up 20.68 points from the previous close, while the KOSDAQ opened slightly lower at 1,029.81. This split already hinted at the day’s main story: big-cap stocks were attracting capital, but smaller growth names were not moving with the same confidence. 3)</p>
+  <p>By early afternoon, the KOSPI had broken through 9,000. EBN reported that at 1:29 p.m. the index stood at 9,021.71, up 157.47 points, and had touched 9,026.52 intraday. 3) That made the session historically important. But the KOSDAQ’s weakness showed that the rally was concentrated rather than broad. For international readers, this is a key point: Korea’s benchmark can rise sharply when a few mega-cap exporters and semiconductor stocks move, even if the average listed company is under pressure.</p>
+  <h2 style="font-size:24px; color:#1f3f75; margin-top:28px;">What Moved the Market Today?</h2>
+  <h3 style="font-size:20px; color:#333; margin-top:18px;">1. Semiconductors carried the index</h3>
+  <p>The most direct reason behind the KOSPI’s strength was the semiconductor sector. Reports during the session pointed to SK hynix rising more than 5%, Samsung Electronics gaining more than 2%, and SK Square also advancing. 4) Because these companies hold very large weights in the KOSPI, their movement can lift the headline index even when many other stocks fall. That is why today’s market felt powerful on the surface but selective underneath.</p>
+  <h3 style="font-size:20px; color:#333; margin-top:18px;">2. The Federal Reserve remained a background risk</h3>
+  <p>The U.S. Federal Reserve kept rates unchanged at its June FOMC meeting, but investors were still alert to the possibility of rate hikes later in the year. A Yonhap market preview noted that the hawkish tone from the Fed and the KOSPI’s attempt to reach 9,000 were the day’s key variables. 5) In the actual session, semiconductor strength and easing geopolitical concerns outweighed that pressure. Still, U.S. rates and the won-dollar exchange rate remain important risks for the next trading day.</p>
+  <h3 style="font-size:20px; color:#333; margin-top:18px;">3. Market breadth was weak</h3>
+  <p>The most important caution sign was breadth. EBN reported that only 100 KOSPI stocks were rising, while 799 were falling and 17 were unchanged during the session. 3) This means that even though the KOSPI was up strongly, most stocks were not participating. For retail investors, this explains why the news headline could sound exciting while individual portfolios might still feel weak.</p>
+  <h2 style="font-size:24px; color:#1f3f75; margin-top:28px;">Sector and Stock Highlights</h2>
+  <p>The strongest areas were large-cap semiconductors, selected growth stocks, and parts of the financial and index-heavy segments. The weaker areas were the KOSDAQ and many small- and mid-cap stocks. This pattern suggests that investors were not buying the whole market. They were buying the clearest leaders.</p>
+  <p>SK hynix remained the most visible leader, supported by expectations around AI memory and high-bandwidth memory demand. Samsung Electronics also played an important psychological role: when Samsung turns higher, many investors read it as a sign that large-cap risk appetite is still alive. 4) But because the KOSDAQ lagged, the session was less comfortable for investors holding smaller growth names.</p>
+  <h2 style="font-size:24px; color:#1f3f75; margin-top:28px;">What to Watch Next</h2>
+  <ul style="margin-left:20px; padding:0;">
+    <li><strong>Can the KOSPI hold above 9,000?</strong> A breakout matters, but staying above the level matters more.</li>
+    <li><strong>Foreign investor flows:</strong> Continued foreign selling would weaken confidence in the rally’s durability. 3)</li>
+    <li><strong>KOSDAQ stabilization:</strong> If the KOSDAQ keeps falling, the market will feel weaker than the KOSPI headline suggests. 1)</li>
+    <li><strong>U.S. rates and the won:</strong> Fed policy expectations may still influence currency moves and foreign flows. 5)</li>
+    <li><strong>Sector rotation:</strong> Watch whether buying expands beyond semiconductors into autos, biotech, batteries, consumer names, and industrials.</li>
+  </ul>
+  <p style="margin-top:20px;">In summary, June 18 was a historic day for Korean equities because the KOSPI crossed 9,000 for the first time. But it was also a selective market. The semiconductor leaders were strong, while the KOSDAQ and many individual stocks were weak. The next question is not only whether the KOSPI can rise further, but whether more stocks can join the move.</p>
+  <p style="font-size:14px; color:#666; border-top:1px solid #ddd; padding-top:14px;">This article is not investment advice. It is an explanatory market report designed to help readers understand today’s market movement and the information available around the close.</p>
+  <h2 style="font-size:22px; color:#111; margin-top:28px;">Sources</h2>
+  <ol style="margin-left:20px; padding:0;">
+    <li>EBN, “KOSPI 9000 돌파했는데…외국인은 팔고, 오른 종목은 100개뿐,” June 18, 2026, market quote board.</li>
+    <li>Yonhap News Agency, “코스피, 사상 첫 9000 돌파…韓자본시장 역사 새로 썼다(종합),” June 18, 2026.</li>
+    <li>EBN, “코스피 9000 돌파했는데…외국인은 팔고, 오른 종목은 100개뿐,” June 18, 2026.</li>
+    <li>News1 / Financial News, “코스피 사상 첫 9000선 돌파…반도체 힘으로 새역사 썼다 [장중시황],” June 18, 2026.</li>
+    <li>Yonhap News Agency, “[마켓뷰] '매파적' FOMC…'9천피'까지 135p 남겨둔 코스피 향배는,” June 18, 2026.</li>
+  </ol>
+</article>

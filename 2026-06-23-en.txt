@@ -1,0 +1,50 @@
+<article style="font-family: Arial, sans-serif; line-height:1.72; color:#222; max-width:860px; margin:0 auto;">
+  <h1 style="font-size:30px; color:#111; margin:0 0 16px;">Korea Market Close: Semiconductor Profit-Taking and Circuit Breakers Define a Black Tuesday</h1>
+  <p style="font-size:16px; margin:0 0 14px;">South Korea’s stock market ended June 23, 2026 with one of its sharpest reversals of the year. The KOSPI closed at 8,375.31, down 739.24 points or 8.11%, while the KOSDAQ finished at 902.56, down 65.84 points or 6.80%. According to Hankyung’s market index pages, the KOSPI touched an intraday low of 8,362.24, and only 68 stocks rose while 837 declined on the main board. 1)</p>
+  <p style="font-size:16px; margin:0 0 18px;">This was not just a routine pullback after a strong rally. The day looked more like a sudden repricing of South Korea’s crowded AI and semiconductor trade. The KOSDAQ showed the same stress: 143 names advanced, 1,554 fell, and one stock hit the lower limit. 2) In plain language, investors did not simply rotate from one sector to another. They reduced risk across a wide part of the market.</p>
+  <div style="background:#f4f6f8; border-left:5px solid #2f5f9f; padding:16px 18px; margin:22px 0;">
+    <strong style="display:block; font-size:18px; margin-bottom:8px;">Closing Snapshot</strong>
+    <ul style="margin:0; padding-left:20px;">
+      <li>KOSPI: 8,375.31, down 8.11%, led lower by heavy selling from foreign and institutional investors. 1)</li>
+      <li>KOSDAQ: 902.56, down 6.80%, with growth stocks and high-valuation names under broad pressure. 2)</li>
+      <li>Samsung Electronics and SK hynix both fell sharply, exposing the downside of a market heavily led by a few chip stocks. 1)</li>
+      <li>Trading curbs, including a KOSPI circuit breaker and sell-side sidecars, highlighted the intensity of market stress. 1)</li>
+    </ul>
+  </div>
+  <h2 style="font-size:23px; color:#111; margin:28px 0 10px;">Why Did Korean Stocks Fall So Sharply?</h2>
+  <p>The first reason was speed. On June 22, the KOSPI closed at 9,114.55, a record closing high above the 9,100 level. 5) When a market climbs that far and that fast, even a moderate negative catalyst can become a reason for investors to lock in gains. On June 23, several catalysts arrived at once: weakness in U.S. megacap technology shares, worries about the cost of AI infrastructure investment, rate concerns, and profit-taking in South Korea’s largest semiconductor stocks.</p>
+  <p>Investor flow made the decline harder to absorb. Hankyung’s KOSPI page showed retail investors buying a net 7.1775 trillion won, while foreign investors sold 4.6775 trillion won and institutions sold 2.5 trillion won. 1) For readers less familiar with the Korean market, that matters because the KOSPI is highly sensitive to its largest companies. When foreign and institutional selling concentrates in index heavyweights, retail buying alone often struggles to stabilize the headline index.</p>
+  <h2 style="font-size:23px; color:#111; margin:28px 0 10px;">The Global Trigger: U.S. Tech Weakness and Rate Anxiety</h2>
+  <p>Yonhap reported that U.S. big technology shares were weak overnight and that the Nasdaq Composite fell 1.33%. It also cited doubts about the huge infrastructure spending of hyperscalers and expectations for additional Federal Reserve rate hikes as factors weighing on sentiment. 3) Those issues directly affect Korean equities because the country’s equity rally has been heavily linked to AI servers, memory chips, and global technology capital expenditure.</p>
+  <p>The psychological chain is straightforward. If global investors begin to question whether AI infrastructure spending can generate enough returns, they first mark down the most crowded beneficiaries. In Korea, that means Samsung Electronics, SK hynix, semiconductor equipment makers, and related technology shares. The market did not need a collapse in earnings expectations to sell off. It only needed investors to ask whether expectations had already gone too far.</p>
+  <h2 style="font-size:23px; color:#111; margin:28px 0 10px;">Semiconductor Leaders Became the Center of the Selloff</h2>
+  <p>Samsung Electronics and SK hynix were the most important stocks to watch. Hankyung’s market data showed Samsung Electronics at 322,500 won, down 8.77%, and SK hynix at 2,577,000 won, down 11.72%. 1) This came right after SK hynix had overtaken Samsung Electronics as the largest KOSPI company by common-share market capitalization, a symbolic shift that attracted heavy market attention.</p>
+  <p>MBC reported that the leadership change sparked a debate over whether the market was showing signs of overheating. The same report also noted expert caution against a simple comparison with the dot-com bubble, because the current semiconductor cycle still has a real earnings foundation. 5) That distinction is important. The issue today was not that the chip story disappeared. It was that prices had reflected so much optimism that investors became less willing to tolerate valuation and positioning risk.</p>
+  <h2 style="font-size:23px; color:#111; margin:28px 0 10px;">What Circuit Breakers and Sidecars Tell Us About Sentiment</h2>
+  <p>Hankyung’s market page listed several same-day news items on trading curbs, including a KOSPI circuit breaker, the resumption of trading after the halt, and sell-side sidecars in both the KOSPI and KOSDAQ markets. 1) These mechanisms are designed to slow extreme market moves. A circuit breaker temporarily halts trading, while a sidecar suspends certain program sell orders for a short period when futures and spot markets move sharply.</p>
+  <p>For investors, these rules are not automatically a sign that fundamentals have collapsed. But they do show that selling pressure became disorderly enough to require a pause. That is why market psychology can worsen even after the mechanism itself has worked as intended. Once investors see trading curbs, many shift from asking “Is this stock cheap?” to asking “How much more forced selling is left?”</p>
+  <h2 style="font-size:23px; color:#111; margin:28px 0 10px;">Sector and Stock Highlights</h2>
+  <p>The damage was broad, but growth-heavy sectors were hit especially hard. On the KOSDAQ, Hankyung’s data showed declines in key market-cap names: Alteogen fell 3.71%, EcoPro BM dropped 7.80%, EcoPro declined 7.07%, Rainbow Robotics lost 11.17%, and Jusung Engineering fell 3.69%. 2) This tells us the selloff was not limited to memory chips. Battery materials, robotics, biotech, and semiconductor equipment all suffered as investors cut exposure to long-duration growth themes.</p>
+  <p>MoneyToday reported that by 1:36 p.m., the KOSPI was already down 5.51% and the KOSDAQ was down 5.38%, with sell-side sidecars triggered in both markets. The same report said Samsung Electronics and SK hynix were down 6.36% and 8.43% at that point, and that each company’s market capitalization had dropped below 2,000 trillion won. 4) The fact that losses deepened into the close suggests the market moved from dip-buying mode into risk-reduction mode.</p>
+  <h2 style="font-size:23px; color:#111; margin:28px 0 10px;">What to Watch in the Next Session</h2>
+  <ul style="padding-left:20px; margin:0 0 16px;">
+    <li><strong>Stability in Samsung Electronics and SK hynix:</strong> The broader KOSPI will struggle to recover unless the two chip leaders stop falling.</li>
+    <li><strong>Foreign investor flow:</strong> Continued foreign selling would keep pressure on index heavyweights and limit rebound quality.</li>
+    <li><strong>U.S. technology shares:</strong> Nasdaq and AI-linked megacap moves may quickly feed back into Korean semiconductor sentiment.</li>
+    <li><strong>Won and rate expectations:</strong> Currency weakness and renewed U.S. rate-hike concerns would be particularly negative for growth-stock valuations.</li>
+    <li><strong>KOSDAQ market breadth:</strong> A real sentiment recovery requires fewer declining stocks, not just a bounce in the index level.</li>
+  </ul>
+  <div style="background:#fff6e5; border:1px solid #f1d39b; padding:16px 18px; margin:24px 0;">
+    <strong>Bottom Line</strong>
+    <p style="margin:8px 0 0;">June 23 did not prove that South Korea’s semiconductor cycle is over. It did show how vulnerable a crowded leadership market can become when expectations are stretched. The next rebound, if it comes, should be judged by its quality: whether foreign selling eases, whether chip leaders stabilize, and whether the KOSDAQ’s market breadth improves. Without those signals, volatility may remain the main story.</p>
+  </div>
+  <p style="font-size:14px; color:#666;">This article is not investment advice. It is an explanatory market-close report designed to help readers understand the June 23, 2026 Korean stock market session.</p>
+  <h2 style="font-size:22px; margin-top:28px;">Sources</h2>
+  <ol style="padding-left:20px;">
+    <li>Hankyung, KOSPI index page, June 23, 2026 market data, investor flow, top market-cap stocks, and related news list. https://markets.hankyung.com/indices/kospi</li>
+    <li>Hankyung, KOSDAQ index page, June 23, 2026 market data, investor flow, and top market-cap stocks. https://markets.hankyung.com/indices/kosdaq</li>
+    <li>Yonhap News Agency, “KOSPI falls below 9,000 on semiconductor weakness; KOSDAQ losses widen,” June 23, 2026. https://www.yna.co.kr/amp/view/AKR20260623037251008</li>
+    <li>MoneyToday, “Samsung Electronics and SK hynix shaken; market caps fall below 2,000 trillion won,” June 23, 2026. https://www.mt.co.kr/amp/stock/2026/06/23/2026062313554026612</li>
+    <li>MBC Newsdesk, “Samsung Electronics turns lower after losing top market-cap position: is this a KOSPI peak signal?” June 22, 2026. https://imnews.imbc.com/replay/2026/nwdesk/article/6832027_37004.html</li>
+  </ol>
+</article>

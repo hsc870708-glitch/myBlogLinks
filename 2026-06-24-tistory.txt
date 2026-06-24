@@ -1,0 +1,63 @@
+<article style="font-family: Arial, 'Noto Sans KR', sans-serif; max-width:860px; margin:0 auto; padding:20px; color:#222; line-height:1.78;">
+  <h1 style="font-size:30px; color:#111; margin-bottom:14px;">전일 폭락 후 제한적 반등, 한국 증시·반도체가 남긴 신호: 코스피가 올라도 안심하기 이른 이유</h1>
+
+  <p style="font-size:16px;">2026년 6월 24일 한국 증시는 정상적으로 거래됐습니다. 한국거래소 관련 거래시간·휴장 자료에서 이날은 별도 휴장일로 확인되지 않았고, 정규 거래일 흐름으로 시장이 진행됐습니다.1) 오늘 장은 숫자만 보면 “반등”이지만, 내용을 들여다보면 “안도와 경계가 동시에 나온 하루”에 더 가깝습니다.</p>
+  <p style="font-size:16px;">전날 코스피가 9.99% 급락하고 코스닥이 7.94% 하락한 충격이 너무 컸기 때문입니다.6) 하루 뒤 일부 되돌림이 나오는 것은 자연스러운 일입니다. 문제는 그 반등이 얼마나 넓게 퍼졌는지, 그리고 장 초반의 강한 매수세가 끝까지 이어졌는지입니다.</p>
+
+  <div style="background:#eef6f1; border-left:5px solid #2d8a55; padding:16px 18px; margin:22px 0;">
+    <strong style="font-size:18px; color:#17623a;">오늘의 핵심 한 줄</strong>
+    <p style="margin:8px 0 0;">코스피는 전일 폭락 뒤 반등했지만, 반도체 대형주 의존도와 외국인 수급 부담이 그대로 남아 있어 다음 거래일 확인이 더 중요해졌습니다.</p>
+  </div>
+
+  <h2 style="font-size:24px; margin-top:28px;">1. 코스피 반등, 왜 시원하게만 볼 수 없을까요?</h2>
+  <p>공개적으로 확인 가능한 지연·추적 시세 기준으로 코스피는 6월 24일 8,232.62포인트, 전일 대비 0.35% 상승한 것으로 집계됐습니다.2) 상승 마감이라는 점만 보면 전날의 충격을 일부 수습한 것처럼 보입니다. 하지만 오늘 장을 단순히 “반등 성공”으로만 보는 것은 조금 빠릅니다.</p>
+  <p>장 초반 코스피는 8,356.79로 출발해 한때 8,542.22까지 올랐습니다. 전날 급락 후 8,500선을 회복하는 듯한 흐름이 나왔다는 점은 분명 긍정적이었습니다.3) 그런데 시간이 지나면서 상승폭은 줄었습니다. 이것은 반등을 이용해 매물을 내놓는 투자자도 많았고, 새로 들어오는 매수세가 아직 압도적이지 않았다는 뜻입니다.</p>
+  <p>즉 오늘의 코스피는 “추세가 완전히 돌아섰다”기보다 “전날 너무 많이 빠져서 기술적 반등이 나왔다”는 해석이 더 자연스럽습니다. 특히 전일 하락폭이 워낙 컸기 때문에, 하루 소폭 반등만으로 투자심리가 정상화됐다고 보기는 어렵습니다.</p>
+
+  <h2 style="font-size:24px; margin-top:28px;">2. 반도체가 다시 시장을 붙잡았습니다</h2>
+  <p>오늘 가장 중요한 종목군은 역시 반도체였습니다. 삼성전자와 SK하이닉스는 전날 12% 안팎의 큰 하락을 겪은 뒤 오늘 오전 강하게 반등했습니다. BusinessKorea는 오전 9시 50분 기준 삼성전자가 7%대, SK하이닉스가 4%대 상승했다고 보도했습니다.3) Investing.com도 삼성전자와 SK하이닉스 반등이 코스피 장중 강세를 이끈 주요 요인이라고 설명했습니다.4)</p>
+  <p>여기서 한국 증시의 특징이 드러납니다. 코스피는 반도체 대형주 비중이 매우 큽니다. 그래서 삼성전자와 SK하이닉스가 동시에 움직이면, 시장 전체 분위기도 함께 바뀝니다. 상승장에서는 이 구조가 강력한 추진력이 됩니다. 하지만 하락장에서는 특정 업종 쏠림이 지수 전체의 위험으로 바뀔 수 있습니다.</p>
+  <p>오늘 반도체 반등은 분명 시장을 방어했습니다. 그러나 미국 반도체주와 AI 관련 기술주 조정 우려가 남아 있다는 점은 부담입니다. 연합뉴스는 미국 반도체지수 급락과 국내 증시의 추가 조정 가능성을 함께 짚었습니다.5) 결국 한국 반도체주의 방향은 국내 뉴스만으로 결정되지 않고, 미국 기술주와 글로벌 AI 투자심리까지 함께 반영됩니다.</p>
+
+  <h2 style="font-size:24px; margin-top:28px;">3. 코스닥 900선, 작은 숫자 같지만 심리선입니다</h2>
+  <p>코스닥은 전날 891.52까지 내려가며 900선 아래로 밀렸습니다.6) 성장주와 중소형주 투자심리가 크게 위축됐다는 의미였습니다. 오늘은 장중 900선 회복을 시도했습니다. MarketWatch의 지연 시세는 오후 1시 47분 기준 코스닥을 901.92로 표시했고, 장중 범위는 886.17에서 922.12였습니다.8)</p>
+  <p>코스닥 900선은 단순한 숫자 이상의 의미가 있습니다. 투자자들이 위험을 다시 조금씩 받아들이는지, 아니면 여전히 방어적으로 움직이는지를 보여주는 심리선입니다. 코스닥이 900선을 안정적으로 지키면 성장주 반등 기대가 생길 수 있지만, 다시 아래로 밀리면 “아직 시장이 불안하다”는 해석이 강해질 수 있습니다.</p>
+  <p>다만 이 글 작성 시점의 공개 검색에서는 코스닥 15시 30분 확정 종가가 안정적으로 확인되지 않았습니다. 그래서 확정되지 않은 숫자를 마감 수치처럼 쓰기보다는, 장중 확인 가능한 범위에서 900선 회복 시도와 변동성 확대를 중심으로 보는 것이 더 정확합니다.8)</p>
+
+  <h2 style="font-size:24px; margin-top:28px;">4. MSCI 불발과 외국인 수급, 왜 계속 봐야 할까요?</h2>
+  <p>MSCI 선진국지수 관찰대상 편입 불발도 시장의 배경 변수였습니다. KED Global은 한국이 외환시장 접근성 등 문제로 MSCI 선진국시장 관찰대상에 포함되지 못했다고 보도했습니다.7) 이 소식 하나가 오늘 장을 좌우했다고 보기는 어렵지만, 외국인 투자자의 장기 시각에는 영향을 줄 수 있습니다.</p>
+  <p>MSCI 분류는 글로벌 펀드 자금의 기준점이 됩니다. 한국이 선진국시장으로 올라갈 가능성이 커지면 중장기 외국인 자금 유입 기대가 생깁니다. 반대로 편입 기대가 미뤄지면 외국인 투자자들이 한국 시장을 조금 더 신중하게 볼 수 있습니다.</p>
+  <p>수급도 중요합니다. 전일 급락장에서 외국인과 기관은 각각 4조원 넘게 순매도했고, 개인은 8조원 넘게 순매수하며 시장을 받아냈습니다.6) 개인 매수는 시장 하단을 받치는 힘이 될 수 있지만, 큰 흐름이 바뀌려면 외국인 매도세가 둔화되는지 확인해야 합니다.</p>
+
+  <h2 style="font-size:24px; margin-top:28px;">5. 레버리지 ETF 논란은 변동성을 키우는 재료입니다</h2>
+  <p>최근 시장에서는 삼성전자와 SK하이닉스 같은 단일 종목에 연동된 레버리지 ETF가 큰 관심을 받았습니다. 이런 상품은 기초 종목이 오르면 수익률이 더 커질 수 있지만, 반대로 하락할 때 손실도 빠르게 커집니다.</p>
+  <p>Investing.com은 전일 급락장에서 레버리지 ETF 매도가 손실 확대에 영향을 줬다고 설명했습니다.4) 초보 투자자라면 이 부분을 특히 조심해야 합니다. 레버리지 상품은 단기 방향을 정확히 맞힐 때는 매력적으로 보이지만, 변동성이 큰 장에서는 손실 속도가 생각보다 훨씬 빠를 수 있습니다.</p>
+
+  <div style="background:#fff8ec; border-left:5px solid #d68b00; padding:16px 18px; margin:24px 0;">
+    <h2 style="font-size:22px; margin:0 0 10px;">다음 거래일 체크포인트</h2>
+    <ul style="margin:0; padding-left:20px;">
+      <li>미국 반도체주와 마이크론 실적이 국내 반도체주 투자심리에 어떤 영향을 주는지</li>
+      <li>외국인 현물 매도가 줄어드는지, 선물 시장에서는 방어적 매수가 이어지는지</li>
+      <li>원/달러 환율이 1,530원대에서 안정되는지</li>
+      <li>코스닥이 900선을 확실히 지키는지</li>
+      <li>단일종목 레버리지 ETF 관련 규제 논의와 거래대금 변화가 이어지는지</li>
+    </ul>
+  </div>
+
+  <h2 style="font-size:24px; margin-top:28px;">마무리: 오늘 반등보다 중요한 것은 내일의 확인입니다</h2>
+  <p>오늘 한국 증시는 전일 폭락의 충격을 일부 되돌렸습니다. 하지만 반등폭이 장 초반보다 줄었고, 반도체 대형주 의존도가 여전히 높으며, 외국인 수급 부담도 완전히 해소되지 않았습니다. 그래서 오늘 장은 “위험이 끝났다”보다 “시장이 일단 숨을 골랐다”에 더 가깝습니다.</p>
+  <p>다음 거래일에는 코스피 숫자만 볼 것이 아니라, 반도체 대형주가 안정적으로 움직이는지, 코스닥 900선이 지켜지는지, 외국인 매도가 둔화되는지를 함께 확인해야 합니다. 시장은 하루 만에 무너질 수도 있지만, 신뢰를 회복하는 데에는 보통 며칠 이상의 확인 과정이 필요합니다.</p>
+  <p style="font-size:14px; color:#555;">이 글은 투자 권유가 아니라 2026년 6월 24일 한국 증시 흐름을 이해하기 쉽게 정리한 해설형 리포트입니다. 투자 판단은 개인의 상황과 위험 감내 수준에 맞춰 신중하게 하셔야 합니다.</p>
+
+  <h2 style="font-size:22px; margin-top:28px;">출처</h2>
+  <ol style="font-size:14px; color:#444; padding-left:20px;">
+    <li>TradingHours.com, “KRX Market Hours & Holidays 2026,” 2026년 한국거래소 거래시간·휴장일 정보. https://www.tradinghours.com/markets/krx</li>
+    <li>Trading Economics, “South Korea Stock Market - Quote - Chart - Historical Data - News,” 2026년 6월 24일 업데이트. https://tradingeconomics.com/south-korea/stock-market</li>
+    <li>BusinessKorea, “[Opening Market] KOSPI Rebounds Above 8,500 Amid Won-Dollar Rate Starting Lower at 1,534.9,” 2026년 6월 24일. https://www.businesskorea.co.kr/news/articleView.html?idxno=271885</li>
+    <li>Investing.com, “South Korea’s KOSPI recovers from 10% tech wipeout; Samsung, SK Hynix rebound,” 2026년 6월 24일. https://za.investing.com/news/stock-market-news/south-koreas-kospi-recovers-from-10-tech-wipeout-samsung-sk-hynix-rebound-4341225</li>
+    <li>연합뉴스, “[마켓뷰] 美반도체도 급락…코스피 반등할까, 추가 조정 받을까,” 2026년 6월 24일. https://www.yna.co.kr/amp/view/AKR20260624022800008</li>
+    <li>인포스탁데일리/Investing.com, “[0623마감체크] 코스피, 10% 급락하며 8200선 마감... 삼전닉스 폭락,” 2026년 6월 23일. https://kr.investing.com/news/stock-market-news/article-1992287</li>
+    <li>KED Global, “S.Korea misses MSCI developed market watchlist again on market accessibility issues,” 2026년 6월 24일. https://www.kedglobal.com/korean-stock-market/newsView/ked202606240001</li>
+    <li>MarketWatch, “KOSDAQ Index Overview - KQ11,” 2026년 6월 24일 지연 시세. https://www.marketwatch.com/investing/index/kq11?countrycode=xx</li>
+  </ol>
+</article>

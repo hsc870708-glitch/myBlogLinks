@@ -1,0 +1,67 @@
+<article style="font-family: Arial, sans-serif; line-height:1.75; color:#222; max-width:860px; margin:0 auto; padding:20px;">
+  <h1 style="font-size:30px; color:#111; margin:0 0 16px;">South Korea Stock Market Close: KOSPI Stages a Limited Rebound as Chip Volatility Remains the Main Story</h1>
+
+  <p style="font-size:16px; margin:0 0 12px;">The South Korean stock market was open for regular trading on June 24, 2026. Korea Exchange holiday references show no full-market holiday for this date, while the exchange’s regular weekday schedule applies to normal sessions.1) The key message from today’s market was not a clean recovery, but a cautious attempt to stabilize after the previous session’s shock.</p>
+  <p style="font-size:16px; margin:0 0 16px;">Based on publicly available delayed and tracking-market data, the KOSPI stood at 8,232.62 on June 24, up 0.35% from the previous session.2) The KOSDAQ attempted to regain the 900 level during the day, but its official 3:30 p.m. closing value was not consistently available in open search results at the time of writing, so this report avoids presenting an unverified final figure as fact.8)</p>
+
+  <div style="background:#f2f6ff; border-left:5px solid #3267d6; padding:16px 18px; margin:20px 0;">
+    <h2 style="font-size:22px; margin:0 0 8px; color:#173b85;">Market Summary at a Glance</h2>
+    <ul style="margin:0; padding-left:20px;">
+      <li>The KOSPI rebounded after the previous day’s near-10% plunge, but it gave back much of its early strength by later trading.2)</li>
+      <li>Samsung Electronics and SK Hynix helped lead the early rebound, yet foreign selling pressure and global semiconductor weakness remained important risks.3)4)</li>
+      <li>The KOSDAQ tried to recover the 900 mark after falling below that level in the previous session, but growth-stock sentiment still looked fragile.6)8)</li>
+      <li>The next session will likely be shaped by U.S. chip stocks, Micron’s earnings, the won-dollar exchange rate, and foreign investor flows in both cash and futures markets.</li>
+    </ul>
+  </div>
+
+  <h2 style="font-size:24px; margin-top:28px; color:#111;">KOSPI and KOSDAQ: Why Today’s Rebound Was Not a Full Reset</h2>
+  <p>To understand June 24, investors first need to look back at June 23. On that day, the KOSPI dropped 910.71 points, or 9.99%, to close at 8,203.84. The KOSDAQ also fell 76.88 points, or 7.94%, to 891.52.6) That kind of move is not just a normal decline. It changes investor psychology. It forces leveraged traders to reduce risk, makes foreign investors reassess exposure, and encourages short-term buyers to wait for evidence that selling pressure has actually cooled.</p>
+  <p>Against that backdrop, the early rebound on June 24 was understandable. The KOSPI opened at 8,356.79 and climbed as high as 8,542.22 in early trading. The KOSDAQ opened at 905.13, showing an attempt to move back above the psychologically important 900 line.3) However, the more important point is that the market did not hold its strongest levels. Public tracking data later showed the KOSPI around 8,232.62, only modestly higher on the day.2) In plain language, today was a relief bounce, not yet proof that the selling cycle is over.</p>
+
+  <h2 style="font-size:24px; margin-top:28px; color:#111;">What Drove the Market: Chips, MSCI, and Leveraged Products</h2>
+  <h3 style="font-size:20px; margin-top:18px; color:#333;">1. Semiconductor giants provided the first layer of support</h3>
+  <p>Samsung Electronics and SK Hynix were again at the center of the market. After both stocks suffered sharp declines of around 12% in the previous session, they rebounded strongly in early trading on June 24. BusinessKorea reported that Samsung Electronics was up more than 7% and SK Hynix more than 4% around 9:50 a.m. local time.3) Investing.com also reported that the KOSPI rose sharply intraday as major chipmakers recovered part of their losses.4)</p>
+  <p>For international readers, the reason this matters is simple: South Korea’s benchmark index is highly sensitive to its largest technology exporters. When Samsung Electronics and SK Hynix move together, they do not merely affect one sector. They can determine the tone of the entire KOSPI. The same concentration that helped South Korea’s market rally strongly during the AI and memory-cycle boom can also magnify downside moves when global chip sentiment turns negative.</p>
+
+  <h3 style="font-size:20px; margin-top:18px; color:#333;">2. The MSCI developed-market watchlist disappointment remained in the background</h3>
+  <p>Another factor investors were watching was MSCI’s decision to keep South Korea outside the developed-market watchlist. KED Global reported that market accessibility issues, including foreign-exchange accessibility, remained a reason for the delay.7) This did not necessarily trigger a fresh collapse on June 24, but it did add to the cautious mood after the previous day’s heavy selloff.</p>
+  <p>For global investors, MSCI classification matters because it affects how benchmark-tracking funds view a country. A developed-market upgrade can potentially attract more structural foreign demand over time. A delay does not destroy the investment case, but it can remove a near-term catalyst and make foreign investors more selective.</p>
+
+  <h3 style="font-size:20px; margin-top:18px; color:#333;">3. Single-stock leveraged ETFs added to the volatility debate</h3>
+  <p>The recent debate around leveraged exchange-traded products tied to individual Korean mega-cap stocks also remained relevant. Investing.com noted that leveraged ETF selling helped magnify the prior session’s losses.4) These products can amplify returns when the underlying stock rises, but they can also accelerate losses when the stock falls sharply. In a market already concentrated in a few semiconductor names, that structure can make intraday moves feel much more violent.</p>
+
+  <h2 style="font-size:24px; margin-top:28px; color:#111;">Sector and Stock Highlights</h2>
+  <p>The strongest attention remained on semiconductors, but other large-cap names also appeared in the rebound narrative. Trading Economics cited gains in Samsung Electronics and SK Hynix, and also mentioned HD Hyundai Heavy Industries, Hanwha Ocean, Kia, and Doosan Enerbility among names that participated in the broader recovery attempt.2) Still, the tone was not broad enough to call it a decisive market-wide risk-on session.</p>
+  <p>On the KOSDAQ side, delayed MarketWatch data showed the index at 901.92 around 1:47 p.m. KST, with an intraday range between 886.17 and 922.12.8) That range tells us more than a single number. The market did try to rebuild support around 900, but the swings were wide enough to show that smaller growth shares had not fully regained investor confidence.</p>
+
+  <h2 style="font-size:24px; margin-top:28px; color:#111;">Investor Psychology: A Relief Bounce, Not Yet a Clean Recovery</h2>
+  <p>Today’s market can be summarized this way: prices bounced because Tuesday’s fall was extremely large, but investors still demanded proof before treating the rebound as durable. A modest positive KOSPI close is constructive, but the inability to hold the strongest early gains shows that sellers were still active into the rebound.</p>
+  <p>Foreign flows remain one of the most important signals to monitor. On June 23, reports showed that foreign investors and institutions each sold more than 4 trillion won in the KOSPI market, while retail investors bought more than 8 trillion won.6) When individual investors absorb a panic selloff, the market can stabilize for a while. But for a stronger recovery, investors will want to see whether foreign selling slows and whether institutional demand returns in a more sustained way.</p>
+
+  <h2 style="font-size:24px; margin-top:28px; color:#111;">What to Watch in the Next Trading Session</h2>
+  <ul style="padding-left:20px;">
+    <li><strong>U.S. semiconductor stocks and Micron earnings:</strong> Korean memory-chip sentiment remains closely tied to global AI and memory-cycle expectations.</li>
+    <li><strong>Foreign cash and futures flows:</strong> A pause in foreign cash selling would matter more than a one-day index rebound.</li>
+    <li><strong>The won-dollar exchange rate:</strong> A steadier won near the 1,530 range would help reduce pressure on foreign investor sentiment.3)</li>
+    <li><strong>Leveraged-product volatility:</strong> Single-stock leveraged ETFs remain a potential amplifier of both rebounds and selloffs.</li>
+    <li><strong>KOSDAQ’s 900 line:</strong> Whether the KOSDAQ can hold above 900 will be an early sign of whether growth-stock appetite is recovering.</li>
+  </ul>
+
+  <div style="background:#fff7e8; border-left:5px solid #d99000; padding:16px 18px; margin:24px 0;">
+    <p style="margin:0;">In conclusion, South Korea’s stock market partially recovered from the previous day’s shock, but the quality of the rebound still needs confirmation. Semiconductor leaders helped stabilize the KOSPI, yet foreign flows, global chip sentiment, and leveraged-product volatility remain the key risks into the next session.</p>
+  </div>
+
+  <p style="font-size:14px; color:#555;">This article is an explanatory market recap for June 24, 2026. It is not investment advice or a recommendation to buy or sell any security.</p>
+
+  <h2 style="font-size:22px; margin-top:28px; color:#111;">Sources</h2>
+  <ol style="padding-left:20px; font-size:14px; color:#444;">
+    <li>TradingHours.com, “KRX Market Hours & Holidays 2026,” Korea Exchange trading hours and holiday reference. https://www.tradinghours.com/markets/krx</li>
+    <li>Trading Economics, “South Korea Stock Market - Quote - Chart - Historical Data - News,” updated June 24, 2026. https://tradingeconomics.com/south-korea/stock-market</li>
+    <li>BusinessKorea, “[Opening Market] KOSPI Rebounds Above 8,500 Amid Won-Dollar Rate Starting Lower at 1,534.9,” June 24, 2026. https://www.businesskorea.co.kr/news/articleView.html?idxno=271885</li>
+    <li>Investing.com, “South Korea’s KOSPI recovers from 10% tech wipeout; Samsung, SK Hynix rebound,” June 24, 2026. https://za.investing.com/news/stock-market-news/south-koreas-kospi-recovers-from-10-tech-wipeout-samsung-sk-hynix-rebound-4341225</li>
+    <li>Yonhap News Agency, “[Market View] U.S. semiconductors also plunge…will KOSPI rebound or correct further,” June 24, 2026. https://www.yna.co.kr/amp/view/AKR20260624022800008</li>
+    <li>Infostock Daily/Investing.com, “[0623 Closing Check] KOSPI plunges 10% and closes near 8,200,” June 23, 2026. https://kr.investing.com/news/stock-market-news/article-1992287</li>
+    <li>KED Global, “S.Korea misses MSCI developed market watchlist again on market accessibility issues,” June 24, 2026. https://www.kedglobal.com/korean-stock-market/newsView/ked202606240001</li>
+    <li>MarketWatch, “KOSDAQ Index Overview - KQ11,” delayed quote on June 24, 2026. https://www.marketwatch.com/investing/index/kq11?countrycode=xx</li>
+  </ol>
+</article>

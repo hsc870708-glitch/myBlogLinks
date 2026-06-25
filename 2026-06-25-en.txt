@@ -1,0 +1,53 @@
+<article style="font-family: Arial, sans-serif; line-height:1.72; color:#222; max-width:860px; margin:0 auto; padding:20px;">
+  <h1 style="font-size:30px; line-height:1.35; color:#111; margin:0 0 18px;">South Korea Market Close on June 25, 2026: Chip Giants Lifted the KOSPI, but KOSDAQ Weakness Told a Different Story</h1>
+  <p style="font-size:16px; margin:0 0 14px;">South Korea's stock market closed with a sharp split on June 25, 2026. The headline index looked powerful: the KOSPI finished at 9,013.69, up 6.41% from the previous session, and briefly touched 9,017.27 during the day.1) But the broader growth-stock mood was much less convincing. The KOSDAQ closed at 888.74, down 2.26%, giving back the 900 level it had recovered the day before.2)</p>
+  <p style="font-size:16px; margin:0 0 18px;">The difference came down to semiconductor concentration. Samsung Electronics and SK Hynix carried the KOSPI higher, while many smaller growth names failed to participate. SK Hynix's planned U.S. ADR listing, together with Micron's stronger-than-expected revenue and upbeat guidance, helped investors regain confidence in the AI memory story.3)4)5)6) Still, this was not a broad risk-on session. It was closer to a selective rebound led by large, globally exposed chipmakers.</p>
+  <div style="background:#f3f7ff; border-left:5px solid #2f6fed; padding:16px 18px; margin:22px 0;">
+    <strong style="display:block; font-size:18px; margin-bottom:8px;">Market Close at a Glance</strong>
+    <ul style="margin:0; padding-left:20px;">
+      <li>KOSPI: 9,013.69, up 6.41%, led by heavyweight semiconductor shares.1)</li>
+      <li>KOSDAQ: 888.74, down 2.26%, showing weak breadth outside the mega-cap chip trade.2)</li>
+      <li>Samsung Electronics: 359,000 won, up 5.43%, extending the previous session's rebound.3)</li>
+      <li>SK Hynix: 2,954,500 won, up 14.52%, supported by ADR listing expectations and AI memory optimism.4)5)</li>
+    </ul>
+  </div>
+  <h2 style="font-size:24px; margin:28px 0 12px; color:#111;">Why Did the KOSPI Rebound So Strongly?</h2>
+  <p>The KOSPI's move was dramatic because its largest semiconductor names rose together. The index climbed from the previous close of 8,471.02 to 9,013.69, while the day's low of 8,693.62 stayed well above the prior close.1) That tells us buyers were not simply chasing a late-session bounce. They were willing to rebuild exposure to Korea's most important export and AI-linked sector.</p>
+  <p>For international readers, the key point is index structure. South Korea's benchmark is heavily influenced by a small number of very large technology companies. When Samsung Electronics and SK Hynix move sharply in the same direction, the KOSPI can look much stronger than the average stock in the market. That was exactly the case today. The index said "relief rally," but the broader tape said "selective buying."</p>
+  <h2 style="font-size:24px; margin:28px 0 12px; color:#111;">Why Did the KOSDAQ Fall While the KOSPI Rose?</h2>
+  <p>The KOSDAQ told a more cautious story. It traded between 884.05 and 930.81 and closed at 888.74, down from the previous close of 909.31.2) This weakness matters because KOSDAQ is more exposed to smaller growth companies, biotech names, battery-related stocks, software firms, and mid-cap equipment suppliers. These companies are more sensitive to liquidity, investor risk appetite, and sector rotation.</p>
+  <p>Local reports have highlighted a June pattern in which money moved toward Samsung Electronics and SK Hynix while former leadership groups such as batteries and biotech weakened.8) In plain English, investors did not buy "Korea" equally today. They bought the part of Korea most clearly connected to AI memory demand and global semiconductor capital spending.</p>
+  <h2 style="font-size:24px; margin:28px 0 12px; color:#111;">The Main Catalyst: SK Hynix's U.S. ADR Plan</h2>
+  <p>The biggest stock-specific catalyst was SK Hynix's plan to list American depositary receipts in the United States. According to Yonhap, the company is targeting Nasdaq trading on July 10, with the offering potentially raising more than 45 trillion won.5) The planned proceeds are tied to major facility investments, including the Yongin semiconductor cluster, advanced packaging capacity in Cheongju, and EUV-related equipment.5)</p>
+  <p>The market reaction was not only about the prestige of a U.S. listing. Investors read the plan as a signal that SK Hynix intends to keep funding the next stage of AI memory capacity. High-bandwidth memory and advanced packaging remain central bottlenecks in the AI infrastructure cycle. If global investors gain easier access to SK Hynix shares through ADRs, the company may also attract a broader capital base.</p>
+  <h2 style="font-size:24px; margin:28px 0 12px; color:#111;">Micron Helped Restore Confidence in AI Memory Demand</h2>
+  <p>Micron's earnings news added a second layer of support. Business Insider reported that Micron beat Wall Street revenue estimates and issued upbeat guidance, reinforcing optimism around AI-related memory demand.6) That mattered because investors have recently worried that the AI trade may be too expensive and too crowded. A strong memory earnings signal helped calm those concerns, at least for one session.</p>
+  <p>This is why Samsung Electronics and SK Hynix reacted so strongly. Their share prices are not only about current earnings. They are also about whether investors believe the AI data-center buildout will keep pulling memory demand higher. Today, the answer from the market was yes, but with a condition: the buying was concentrated in the companies most directly tied to that story.</p>
+  <h2 style="font-size:24px; margin:28px 0 12px; color:#111;">Key Stocks: Samsung Electronics and SK Hynix</h2>
+  <p>Samsung Electronics closed at 359,000 won, up 5.43%.3) After a strong rebound in the previous session, another gain suggested that investors were still willing to add exposure to Korea's largest technology name. But the stock's recent volatility also means expectations are high. From here, the market will watch whether earnings momentum can justify the price move.</p>
+  <p>SK Hynix was the standout performer, closing at 2,954,500 won, up 14.52%.4) The scale of the move shows how quickly capital can return when a stock has a strong narrative, a global investor access story, and a clear link to AI infrastructure spending. Yet the same logic also creates risk. A one-day surge of this size can invite profit-taking, especially if U.S. semiconductor stocks become volatile again.</p>
+  <h2 style="font-size:24px; margin:28px 0 12px; color:#111;">Investor Sentiment: Relief, but Not Complacency</h2>
+  <p>The market was coming off an extremely volatile week, including a near-10% KOSPI drop earlier in the week. Today's move shifted sentiment from fear toward relief. Business Insider cited views that the recent pullback may be a cooldown within a larger bull run rather than a structural breakdown, while also noting that volatility could continue.6)</p>
+  <p>Retail participation remains another important feature of the Korean market. Yonhap reported that active stock trading accounts in Korea reached 108.77 million as of June 24, following this year's powerful stock-market rally.7) High participation can support liquidity, but it can also make crowded trades more unstable. When many investors focus on the same AI and semiconductor names, good news can still produce sharp swings.</p>
+  <h2 style="font-size:24px; margin:28px 0 12px; color:#111;">What to Watch Next</h2>
+  <ul style="padding-left:20px; margin:0 0 18px;">
+    <li>Follow-up disclosures and investor demand for SK Hynix's ADR offering.</li>
+    <li>Whether strength in Samsung Electronics and SK Hynix spreads to semiconductor suppliers and KOSDAQ names.</li>
+    <li>Whether KOSDAQ can reclaim the 900 level and improve market breadth.</li>
+    <li>How U.S. semiconductor shares trade after Micron's earnings and guidance.</li>
+    <li>Whether short-term profit-taking appears after the sharp rebound in chip leaders.</li>
+  </ul>
+  <p style="background:#fff8e6; border-left:5px solid #f0a500; padding:14px 16px;">Bottom line: South Korea's June 25 close looked strong at the index level, but the strength was not evenly distributed. The KOSPI was powered by semiconductor heavyweights, while KOSDAQ weakness showed that smaller growth stocks still face pressure. The next session will be important for judging whether this was the start of broader recovery or another phase of mega-cap chip concentration.</p>
+  <p style="font-size:14px; color:#666; margin-top:20px;">This article is not investment advice. It is an explanatory market-close report designed to help readers understand the June 25, 2026 movement in South Korean equities.</p>
+  <h2 style="font-size:22px; margin:28px 0 12px; color:#111;">Sources</h2>
+  <ol style="padding-left:22px;">
+    <li>Investing.com, KOSPI historical data, June 25, 2026 closing figures.</li>
+    <li>Investing.com, KOSDAQ KQ11 index page, June 25, 2026 close shown at 15:29 KST.</li>
+    <li>Investing.com, Samsung Electronics Co Ltd (005930) historical price data, June 25, 2026.</li>
+    <li>Investing.com, SK Hynix Inc (000660) historical price data, June 25, 2026.</li>
+    <li>Yonhap News Agency, "SK Hynix seeks Nasdaq listing next month via ADR issuance of up to 45 trillion won," June 25, 2026.</li>
+    <li>Business Insider, "South Korea's Kospi jumps as SK Hynix stock surges on blockbuster Nasdaq listing plan," June 25, 2026.</li>
+    <li>Yonhap News Agency, "Stock trading accounts increase by 10 million this year amid bull market," June 25, 2026.</li>
+    <li>Daum News, "A harsh June for the 800-level KOSDAQ, while semiconductors rose," June 24, 2026.</li>
+  </ol>
+</article>

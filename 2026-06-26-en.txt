@@ -1,0 +1,57 @@
+<article style="font-family: Arial, sans-serif; line-height:1.75; color:#222; max-width:860px; margin:0 auto; padding:20px;">
+  <h1 style="font-size:28px; color:#111; margin-bottom:14px;">KOSPI Selloff and Circuit Breaker: Korea Market Close for June 26, 2026</h1>
+  <p style="font-size:16px; margin-bottom:14px;">South Korea’s stock market was open for normal trading on Friday, June 26, 2026, but the session felt anything but normal. The KOSPI closed at 8,296.79, down 7.09% from the previous day, while the KOSDAQ ended at 845.74, down 4.74%. The move came right after a strong rebound in the main index on Thursday, so today’s decline was less about one single piece of bad news and more about investors rapidly taking profit from an AI and semiconductor-driven rally that had become heavily crowded.1) 2)</p>
+  <p style="font-size:16px; margin-bottom:18px;">The three key words for the Korean market close were profit-taking, semiconductor concentration, and volatility controls. Around 12:10 p.m. local time, the Korea Exchange triggered a circuit breaker for the KOSPI market after the benchmark index fell by more than 8% from the previous close. Trading in KOSPI-listed shares was halted for 20 minutes, a clear sign that selling pressure had moved beyond an ordinary pullback and into a fear-driven intraday rout.3)</p>
+
+  <div style="background:#f4f7fb; border-left:5px solid #2f6fed; padding:16px 18px; margin:20px 0;">
+    <h2 style="font-size:21px; margin:0 0 10px 0; color:#173b77;">Market Close at a Glance</h2>
+    <ul style="margin:0; padding-left:20px;">
+      <li>KOSPI: 8,296.79, down 7.09%</li>
+      <li>KOSDAQ: 845.74, down 4.74%</li>
+      <li>A KOSPI circuit breaker was triggered intraday after an 8% plunge</li>
+      <li>Electronics, manufacturing, finance, transport equipment, machinery and growth-sensitive sectors weakened broadly</li>
+      <li>The next session will depend on whether semiconductor leaders stabilize, whether foreign selling cools, and how global rate concerns affect technology stocks</li>
+    </ul>
+  </div>
+
+  <h2 style="font-size:23px; color:#111; margin-top:28px;">Index Action: A Violent Drop With Only Partial Recovery</h2>
+  <p>The KOSPI opened at 8,813.18, fell as low as 8,126.84, and closed at 8,296.79. The KOSDAQ opened at 884.43, touched an intraday low of 838.53, and finished at 845.74. Both indexes recovered somewhat from their worst levels, but the close was still defensive rather than reassuring. For international readers, the important point is that Korea’s main index is extremely sensitive to large semiconductor names, and that sensitivity becomes more visible when global investors rush to reduce risk.1) 2)</p>
+  <p>In recent sessions, the KOSPI had repeatedly moved around the psychologically important 9,000 level. That made volatility itself a market signal. When a rally is supported by leveraged products, program trading, foreign futures positioning and a narrow group of mega-cap leaders, even a modest change in sentiment can become a large index move. Today’s market was a textbook example of that mechanism.</p>
+
+  <h2 style="font-size:23px; color:#111; margin-top:28px;">Why Did Korean Stocks Fall Today?</h2>
+  <p>The immediate backdrop was a broader Asian technology selloff. Associated Press reported that Asian shares fell as traders locked in gains after recent rallies in AI-related stocks, with Japan and South Korea among the hardest-hit markets.5) Korea was especially exposed because Samsung Electronics, SK hynix and other semiconductor-linked names account for a large share of market sentiment and index performance.</p>
+  <p>This does not necessarily mean that the semiconductor business cycle deteriorated overnight. A more balanced reading is that expectations had moved too quickly into prices. The previous day’s rebound was helped by stronger confidence in memory demand and AI infrastructure spending. On Friday, however, the same theme was reinterpreted through a different lens: investors began asking whether the market had priced in too much good news too soon. Equity markets often react not only to whether the news is good or bad, but to whether prices have already absorbed that news.</p>
+
+  <h2 style="font-size:23px; color:#111; margin-top:28px;">Sector and Stock Highlights: Not Just a Semiconductor Story</h2>
+  <p>Market data from Korea Economic Daily showed broad weakness across KOSPI manufacturing, electronics, finance, transport equipment and machinery, while KOSDAQ manufacturing, electronics, general services and pharmaceuticals also traded lower. Among major names, Samsung Electronics, SK hynix, SK Square, Samsung Electronics preferred shares and Samsung Electro-Mechanics were all under pressure during the session.4)</p>
+  <p>That pattern matters because it suggests the market was not simply reacting to a single company’s earnings issue. The selloff looked more like a reduction of crowded risk exposure. When foreign and institutional investors cut risk, even companies with solid long-term fundamentals can be sold alongside weaker peers. At the same time, Korean retail investors often step in during sharp declines, creating a tug-of-war between dip-buying and institutional de-risking. Today’s intraday data pointed to that same split between individual buying and foreign or institutional selling.4)</p>
+
+  <h2 style="font-size:23px; color:#111; margin-top:28px;">Investor Psychology: Fear and Dip-Buying Appeared Together</h2>
+  <p>A circuit breaker is designed to slow the market when prices fall too quickly. It gives investors time to reassess orders and helps prevent disorderly trading. The KOSPI circuit breaker therefore showed how intense the selling became, but it also showed that market safeguards were functioning as intended.3)</p>
+  <p>For investors, the right question is not only “why did it fall so much?” but also “where did selling pressure begin to slow?” The answer to the first question is a mix of profit-taking after a sharp rebound, fatigue in the AI semiconductor trade, and weakness in global technology sentiment. The answer to the second question is less decisive. The indexes did close above their intraday lows, but a durable recovery will require calmer foreign flows, narrower futures pressure, and stabilization in Korea’s semiconductor bellwethers.</p>
+
+  <h2 style="font-size:23px; color:#111; margin-top:28px;">What to Watch in the Next Session</h2>
+  <h3 style="font-size:19px; color:#333; margin-top:18px;">1. Whether semiconductor leaders can stabilize</h3>
+  <p>Samsung Electronics, SK hynix and SK Square remain central to the KOSPI narrative. The next session will be important for seeing whether these stocks rebound after the opening, or whether investors continue to sell into strength.</p>
+  <h3 style="font-size:19px; color:#333; margin-top:18px;">2. Whether foreign and institutional selling eases</h3>
+  <p>Retail buying alone rarely stabilizes a market after a shock of this size. The key will be whether foreign and institutional selling slows and whether pressure from futures-linked trading fades.</p>
+  <h3 style="font-size:19px; color:#333; margin-top:18px;">3. U.S. inflation and rate expectations</h3>
+  <p>The U.S. May PCE price index was up 4.1% year over year, while core PCE rose 3.4%. Those figures remain well above the Federal Reserve’s inflation target, leaving growth and technology stocks exposed to rate-related valuation pressure.6)</p>
+
+  <div style="background:#fff7e8; border-left:5px solid #f2a51a; padding:16px 18px; margin:24px 0;">
+    <strong>Bottom Line</strong>
+    <p style="margin:8px 0 0 0;">The June 26 Korean market close was less a verdict on corporate earnings and more a warning about crowded positioning. The KOSPI and KOSDAQ both dropped sharply, and the circuit breaker showed how quickly sentiment can turn when the market is concentrated in a narrow AI and semiconductor theme. For the next session, the first question is not how strong the rebound can be, but whether volatility can calm down.</p>
+  </div>
+
+  <p style="font-size:14px; color:#666;">This article is not investment advice. It is an explanatory market commentary designed to help readers understand the intraday and closing movements of South Korea’s stock market on June 26, 2026.</p>
+
+  <h2 style="font-size:22px; color:#111; margin-top:30px;">Sources</h2>
+  <ol style="padding-left:20px; font-size:14px; color:#444;">
+    <li>Investing.com, “KOSPI Historical Data,” daily data for June 26, 2026.</li>
+    <li>Investing.com, “KOSDAQ Historical Data,” daily data for June 26, 2026.</li>
+    <li>Yonhap News Agency, “Bourse operator issues circuit breaker for KOSPI on sharp fall,” June 26, 2026.</li>
+    <li>Korea Economic Daily, “Market Overview / KOSPI,” intraday market data, June 26, 2026.</li>
+    <li>Associated Press, “Asian shares plunge as traders sell to lock in profits after recent rallies driven by AI,” June 26, 2026.</li>
+    <li>U.S. Bureau of Economic Analysis, “Personal Consumption Expenditures Price Index,” current release June 25, 2026.</li>
+  </ol>
+</article>

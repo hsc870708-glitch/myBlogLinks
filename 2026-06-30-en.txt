@@ -1,0 +1,45 @@
+<article style="font-family: Arial, sans-serif; line-height:1.75; color:#222; max-width:860px; margin:0 auto;">
+  <h1 style="font-size:28px; color:#111; margin:0 0 18px;">KOSPI Reclaims the 8,500 Level: Korea Market Close Explained Through Semiconductors and KOSDAQ Profit-Taking</h1>
+  <p style="font-size:16px; background:#f3f7ff; border-left:5px solid #2f6fed; padding:14px 16px; margin:0 0 22px;">South Korean equities closed June 30, 2026 with a split message. The KOSPI rebounded above 8,500 as large-cap semiconductor names regained strength, while the KOSDAQ slipped slightly after the previous session’s unusually sharp rally. For global readers, the important point is not only that the benchmark rose, but that the market is still testing whether Korea’s rally can broaden beyond the chip giants.</p>
+
+  <h2 style="font-size:22px; color:#17324d; border-bottom:2px solid #e5edf7; padding-bottom:6px;">1. Closing Snapshot</h2>
+  <p>The KOSPI finished at 8,530.13, up 135.48 points, or 1.61%, from the previous session. The index moved in a wide intraday range, with a high of 8,667.73 and a low of 8,220.80, showing that confidence improved but volatility remained high.1) The KOSDAQ closed at 918.46, down 0.23%. That modest decline followed a powerful 8.13% jump on June 29, so today’s move looked more like digestion than a broad risk-off reversal.2)</p>
+  <p>Investor flows tell a more nuanced story. According to Hankyung’s market overview, institutions bought a net 2.7062 trillion won in the KOSPI market, while foreign investors sold a net 2.6593 trillion won and individuals sold a small net amount. In the KOSDAQ market, individuals were net buyers, while foreign investors and institutions were net sellers.3) In plain language, the day was not a simple foreign-led rally. It was a large-cap, institution-supported rebound, helped by a better tone in semiconductor shares.</p>
+
+  <h2 style="font-size:22px; color:#17324d; border-bottom:2px solid #e5edf7; padding-bottom:6px;">2. Why Did the KOSPI Rise While the KOSDAQ Paused?</h2>
+  <p>The KOSPI’s recovery was closely tied to the rebound in U.S. technology and semiconductor sentiment. Maeil Business Market showed the Philadelphia Semiconductor Index rising 3.83% on June 29 to 13,709.66.4) That overnight move gave Korean chip leaders a friendlier backdrop. Samsung Electronics and SK Hynix were both highlighted among actively watched large-cap names during the Korean session, reflecting renewed attention to the sector.4)</p>
+  <p>The KOSDAQ’s slight pullback had a different meaning. The smaller-company index had already surged to 920.57 on June 29, up 8.13%, after strong moves in secondary batteries, biotech, and other growth areas.2) A small decline to the 918 level on June 30 suggests investors took some profits but did not fully abandon the rebound. For readers less familiar with Korea, this matters because the KOSDAQ often reflects retail risk appetite more directly than the KOSPI.</p>
+
+  <h2 style="font-size:22px; color:#17324d; border-bottom:2px solid #e5edf7; padding-bottom:6px;">3. Key News Behind Today’s Market</h2>
+  <h3 style="font-size:18px; color:#24527a; margin-top:18px;">Semiconductor sentiment recovered after U.S. chip strength</h3>
+  <p>Newspim reported that the KOSPI opened more than 1% higher as Samsung Electronics and SK Hynix gained on the back of the U.S. semiconductor rebound. The same article noted that the KOSDAQ started softer as profit-taking emerged in battery and biotech names after the previous day’s sharp rise.5) That early pattern largely shaped the full session: large-cap technology supported the KOSPI, while growth-heavy KOSDAQ names took a breather.</p>
+  <h3 style="font-size:18px; color:#24527a; margin-top:18px;">Policy expectations added a medium-term theme</h3>
+  <p>Yonhap Infomax highlighted market attention on President Lee Jae-myung’s regional briefings for Korea’s three large-scale national growth projects, including semiconductors, and also carried news related to SK Hynix’s large investment plans.6) These headlines do not immediately change quarterly earnings, but they can affect investor psychology. They encourage the market to look at broader supply-chain beneficiaries, including chip equipment, materials, power infrastructure, and regional industrial clusters.</p>
+
+  <h2 style="font-size:22px; color:#17324d; border-bottom:2px solid #e5edf7; padding-bottom:6px;">4. Sector and Stock Read-Through</h2>
+  <p>The most important sector signal was the return of semiconductor leadership. When Samsung Electronics and SK Hynix rise together, the KOSPI can move sharply because these companies carry very large index weights. Hankyung’s market overview also showed strength in the KOSPI 200, which reinforces the point that large-cap buying was the main driver.3)</p>
+  <p>Still, investors should be careful about calling this a one-sector market. Newspim cited brokerage views that the Korean market has recently shown rotation into areas such as chemicals, IT appliances, construction, steel, transport, securities, power equipment, and biotech, rather than a simple collapse outside semiconductors.7) That rotation is important because a healthier bull market usually needs more than one leadership group. The KOSDAQ’s small decline today may therefore be a pause after a rapid move, not necessarily a rejection of smaller-cap growth stocks.</p>
+  <p>For individual names, Samsung Electronics and SK Hynix benefited most directly from the improvement in global chip sentiment. Battery and biotech names faced profit-taking after the June 29 rally. Policy-linked themes such as HBM, semiconductor clusters, materials, equipment, and power infrastructure may remain sensitive to headlines. However, investors should separate policy expectations from confirmed orders, earnings, and company disclosures.</p>
+
+  <h2 style="font-size:22px; color:#17324d; border-bottom:2px solid #e5edf7; padding-bottom:6px;">5. What to Watch Next</h2>
+  <ul style="padding-left:20px; margin:10px 0 18px;">
+    <li>First, watch Korea’s June export data and semiconductor export numbers. Newspim noted that June exports and Samsung Electronics’ second-quarter preliminary earnings could become key catalysts for the market.7)</li>
+    <li>Second, monitor foreign selling. Today’s KOSPI gain came despite foreign net selling, so continued outflows could test the durability of the rebound.3)</li>
+    <li>Third, watch whether the KOSDAQ can hold above the 900 area. A mild pullback after a large rally is manageable, but renewed pressure in batteries and biotech could hurt retail sentiment.2)</li>
+    <li>Fourth, keep an eye on oil and foreign-exchange risk linked to the Middle East. Yonhap Infomax carried both oil-alert and Strait of Hormuz-related headlines, which means macro risk has not fully disappeared.6)</li>
+  </ul>
+
+  <div style="background:#fff8e6; border:1px solid #f0d58a; padding:15px 16px; margin:22px 0;">
+    <strong>Bottom line:</strong> June 30 was a constructive but not risk-free session for Korean equities. The KOSPI recovered with help from semiconductors and institutional buying, while the KOSDAQ cooled after a sharp rebound. The next question is whether export data, earnings guidance, and policy momentum can support broader participation. This article is not an investment recommendation; it is an explanatory market-close report designed to help readers understand today’s trading flow.</div>
+
+  <h2 style="font-size:22px; color:#17324d; border-bottom:2px solid #e5edf7; padding-bottom:6px;">Sources</h2>
+  <ol style="padding-left:20px;">
+    <li>Investing.com, KOSPI historical data, checked June 30, 2026.</li>
+    <li>Investing.com, KOSDAQ historical data, checked June 30, 2026.</li>
+    <li>Hankyung, Market Overview, delayed market data checked June 30, 2026.</li>
+    <li>Maeil Business Market, Philadelphia Semiconductor Index and Korean market screens, checked June 30, 2026.</li>
+    <li>Newspim, “[Opening Market] KOSPI rises 1% on Samsung Electronics and SK Hynix strength,” June 30, 2026.</li>
+    <li>Yonhap Infomax, major market news screen, June 30, 2026.</li>
+    <li>Newspim, “[Morning Report] Korean stocks expected to open higher on U.S. semiconductor rebound,” June 30, 2026.</li>
+  </ol>
+</article>

@@ -1,0 +1,51 @@
+<div style="font-family: Arial, sans-serif; line-height:1.75; color:#222; max-width:860px; margin:0 auto;">
+  <h1 style="font-size:28px; color:#111; margin:0 0 16px;">KOSPI Falls While KOSDAQ Rebounds: Korea Stock Market Close for July 1, 2026</h1>
+  <p style="font-size:16px; margin:0 0 14px;">Korea’s equity market opened the second half of 2026 with a split message. As of the 3:30 p.m. close on July 1, the KOSPI ended at 8,303.06, down 173.42 points or 2.05%, while the KOSDAQ finished at 929.30, up 13.12 points or 1.43%. Foreign investors sold roughly 2 trillion won worth of KOSPI shares, while retail investors and institutions bought about 1.23 trillion won and 740.73 billion won, respectively. On the KOSDAQ, the flow was reversed: foreigners were net buyers of about 223.64 billion won. 1)</p>
+  <p style="font-size:16px; margin:0 0 18px;">The key story was not simply that Korean stocks were weak. It was a day when large-cap liquidity pressure hit the KOSPI, while selected small and mid-cap themes found new demand. Strong U.S. technology stocks and Korea’s record June export data were supportive headlines, but they were not enough to offset concerns over foreign profit-taking and the restart of domestic equity rebalancing by the National Pension Service. 2)</p>
+  <div style="background:#f4f7fb; border-left:5px solid #2f6fed; padding:16px 18px; margin:20px 0;">
+    <strong style="display:block; font-size:17px; margin-bottom:8px;">Market Close at a Glance</strong>
+    <ul style="margin:0; padding-left:20px;">
+      <li>KOSPI: 8,303.06, down 2.05%</li>
+      <li>KOSDAQ: 929.30, up 1.43%</li>
+      <li>KOSPI flow: foreign selling absorbed by retail and institutions</li>
+      <li>KOSDAQ flow: foreign buying helped the junior market recover</li>
+      <li>Strong themes: construction and infrastructure, power equipment, IT/ICT, energy</li>
+    </ul>
+  </div>
+  <h2 style="font-size:22px; color:#111; margin:28px 0 10px;">Why Did the KOSPI Fall Despite Good Export News?</h2>
+  <p>The KOSPI started with a supportive global backdrop. U.S. technology shares had risen, and Korea’s export data showed exceptional momentum from semiconductors. Yet the index turned lower as the day progressed because buying power was not strong enough to absorb foreign selling and program-driven pressure. This is an important point for international readers: Korean equities can react negatively even when macro data are strong if the most crowded large-cap winners face rebalancing and profit-taking at the same time. 1)</p>
+  <p>In simple terms, investors were not questioning the entire Korean growth story. They were asking whether the strongest first-half winners had already priced in too much good news. Large semiconductor and index-heavy stocks had carried much of the rally earlier in the year. When concerns about pension-fund rebalancing, foreign selling and program trades appeared together, the KOSPI became vulnerable to a pullback.</p>
+  <h2 style="font-size:22px; color:#111; margin:28px 0 10px;">National Pension Rebalancing Became a Sentiment Trigger</h2>
+  <p>One of the day’s biggest psychological factors was the end of the grace period for the National Pension Service’s domestic equity rebalancing. Invest Chosun reported that the market’s weakness was more visibly linked to foreign and program selling pressure, while NPS-related selling served as a reason for investors to take profits. The important nuance is that the pension fund is not expected to sell everything at once. However, the market tends to react before the actual numbers are fully visible, especially when investors fear that large-cap supply could continue over time. 2)</p>
+  <p>This is why the phrase “who absorbs the selling?” matters more than the headline amount. If retail investors and domestic institutions keep buying, the pressure may remain manageable. If foreign selling, program selling and pension-related rebalancing all point in the same direction on the same day, the perceived impact on large-cap stocks can feel much larger.</p>
+  <h2 style="font-size:22px; color:#111; margin:28px 0 10px;">Exports Were Strong, But Stocks Had Already Rallied Hard</h2>
+  <p>Korea’s June export data were impressive. According to reports citing the Ministry of Trade, Industry and Energy, June exports reached $102.25 billion, up 70.9% from a year earlier, crossing the monthly $100 billion mark for the first time. Semiconductor exports reached $44.82 billion, up 199.5%, also crossing the $40 billion level for the first time. 3)</p>
+  <p>For the real economy, this is a powerful signal. It confirms that memory demand, AI infrastructure spending and semiconductor pricing remain central drivers of Korea’s export cycle. For the stock market, however, the question is more subtle. Equity prices discount the future. Because Korean semiconductor shares and related large caps had already risen sharply in the first half, investors used the strong data to reassess how much upside was still left rather than simply buying the headline.</p>
+  <h2 style="font-size:22px; color:#111; margin:28px 0 10px;">Why Did the KOSDAQ Rise?</h2>
+  <p>The KOSDAQ moved differently. July 1 marked the 30th anniversary of the market, and the Korea Exchange announced measures aimed at restoring market confidence. The roadmap included stronger delisting rules for weak companies, a proposed “KOSDAQ Select” segment for higher-quality companies, and support for innovative listings in areas such as AI, biotech, semiconductors and defense. 4)</p>
+  <p>These reforms do not immediately change company earnings. Still, they can change investor attention. After a first half dominated by KOSPI large-cap semiconductor names, the KOSDAQ needed a reason to be reconsidered. Policy support, market-structure reform and foreign buying gave investors that reason today. The rebound should still be viewed carefully, because one strong session does not prove a full trend reversal. But it did show that capital is willing to rotate when large-cap momentum cools.</p>
+  <h2 style="font-size:22px; color:#111; margin:28px 0 10px;">Sectors and Representative Stock Themes</h2>
+  <p>According to AlphaSquare’s market summary, the strongest rising themes included cement and concrete, construction and civil engineering, the undergrounding of the Gyeongbu Expressway, power equipment and copper. Sector-level strength also appeared in construction and infrastructure, travel and leisure, IT/ICT, transportation and energy. 1) This tells us that the market was not only looking at headline semiconductor exporters. It was also rotating into infrastructure, grid investment, policy-related construction and materials.</p>
+  <p>Among notable movers, construction-material and construction-related names such as Dongyang File, Dongshin Construction and HC Bogwang Industry were near the daily upper limit. In foreign net-buying rankings, names such as Samsung Electro-Mechanics, EO Technics, Wonik IPS, DB HiTek and ISC appeared near the top. 1) This is important because it shows that foreign investors were not abandoning all technology exposure. They were selling the broader KOSPI, but still looking selectively at components, equipment and semiconductor supply-chain stocks.</p>
+  <h2 style="font-size:22px; color:#111; margin:28px 0 10px;">What to Watch Next</h2>
+  <ul style="padding-left:20px; margin:0 0 20px;">
+    <li>Whether foreign selling in the KOSPI slows, especially in large semiconductor stocks.</li>
+    <li>How much pension-related rebalancing pressure actually appears in daily market flows.</li>
+    <li>Whether retail investors and domestic institutions can continue absorbing supply.</li>
+    <li>Whether the KOSDAQ rebound is supported by sustained foreign buying and higher turnover.</li>
+    <li>Whether record exports translate into earnings expectations for equipment, materials and component makers, not only the largest chipmakers.</li>
+    <li>Whether the won-dollar exchange rate and U.S. technology shares continue to support foreign risk appetite toward Korea.</li>
+  </ul>
+  <div style="background:#fff8e6; border:1px solid #f0d58a; padding:15px 18px; margin:24px 0;">
+    <strong>Closing Interpretation</strong>
+    <p style="margin:8px 0 0;">The July 1 close suggests that Korea’s second-half equity market may be less about a simple continuation of the first-half rally and more about liquidity, rotation and selectivity. The KOSPI’s decline does not mean Korea’s fundamentals suddenly weakened. It more likely reflects the process of digesting gains in crowded large caps. The KOSDAQ’s rebound is encouraging, but investors need a few more sessions to confirm whether this is a lasting shift or a short-term policy-driven rotation.</p>
+  </div>
+  <h2 style="font-size:22px; color:#111; margin:28px 0 10px;">Sources</h2>
+  <ol style="padding-left:20px;">
+    <li>AlphaSquare, “Real-time Market Summary: Indices, News, Rising Themes,” July 1, 2026, 15:30 KST, https://alphasquare.co.kr/home/market-summary</li>
+    <li>Invest Chosun, “KOSPI weak on first day of National Pension rebalancing; the key is who absorbs the selling,” July 1, 2026, https://www.investchosun.com/m/article.html?contid=2026070180093</li>
+    <li>Hankyoreh, “Korea’s June exports exceed $100 billion for the first time, fourth in the world,” July 1, 2026, https://www.hani.co.kr/arti/economy/economy_general/1266149.html</li>
+    <li>Yonhap News, “KOSDAQ marks 30th anniversary; KRX seeks renewed growth through trust recovery and segment reform,” July 1, 2026, https://www.yna.co.kr/amp/view/AKR20260701101600008</li>
+  </ol>
+  <p style="font-size:14px; color:#666; margin-top:22px;">This article is an explanatory market close report, not a recommendation to buy or sell any security.</p>
+</div>

@@ -1,0 +1,49 @@
+<div style="font-family:Arial,'Noto Sans',sans-serif; line-height:1.7; color:#222; max-width:820px; margin:0 auto;">
+  <h1 style="font-size:28px; color:#111; line-height:1.35; margin:0 0 18px;">KOSPI Slumps as Korea’s Chip Rally Reverses: July 2, 2026 Market Close Explained</h1>
+  <p style="font-size:16px; margin:0 0 14px;">South Korea’s stock market closed sharply lower on July 2, 2026, as the semiconductor-led rally that had powered much of the earlier advance suddenly turned into a source of downside pressure. The KOSPI finished at 7,692.43, down 7.36% from the previous session, while the KOSDAQ ended at 875.07, down 5.84%. Both markets saw sell-side circuit control measures, known locally as sidecars, triggered during the session.1)2)3)</p>
+  <p style="font-size:16px; margin:0 0 18px;">The move was not just a local Korean story. Overnight weakness in U.S. semiconductor stocks, sparked by renewed concerns about the pace and sustainability of AI infrastructure spending, quickly spilled into Korean heavyweights such as Samsung Electronics and SK hynix. For global readers, the key point is simple: Korea’s equity market has become highly sensitive to the global AI memory cycle, so a change in sentiment toward chips can move the entire index.4)</p>
+  <div style="background:#f3f6fb; border-left:5px solid #2f6fbd; padding:16px 18px; margin:22px 0;">
+    <h2 style="font-size:21px; margin:0 0 10px; color:#143f73;">Market Close At A Glance</h2>
+    <ul style="margin:0; padding-left:20px;">
+      <li>KOSPI closed at 7,692.43, falling 7.36% and ending well below the 8,000 level.1)</li>
+      <li>KOSDAQ closed at 875.07, losing 5.84% and giving up the 900 line.2)</li>
+      <li>Sell-side sidecars were triggered in both the KOSPI and KOSDAQ markets as volatility intensified.3)</li>
+      <li>U.S. AI and semiconductor worries were the main external catalyst behind the selloff.4)</li>
+      <li>Korea’s June CPI rose 3.2% year on year, adding another layer of rate-related caution.5)</li>
+    </ul>
+  </div>
+  <h2 style="font-size:22px; color:#111; border-bottom:2px solid #ddd; padding-bottom:8px;">Index Performance: A Broad Selloff After A Fragile Open</h2>
+  <p>The KOSPI opened at 7,933.10 and briefly reached an intraday high of 8,136.28, but the rebound attempt did not hold. The index later dropped as low as 7,616.33 before closing at 7,692.43. Coming after the previous day’s 2% decline, the move suggested that investors were not merely reacting to one headline; they were reassessing the risk of an overly concentrated market rally.1)</p>
+  <p>The KOSDAQ also came under heavy pressure. It opened at 904.53, touched a low of 873.98, and closed at 875.07. This was especially notable because the junior market had recently benefited from attention around its 30th anniversary and expectations for market-quality reforms. Today, however, policy optimism was not enough to offset risk aversion.2)</p>
+  <h2 style="font-size:22px; color:#111; border-bottom:2px solid #ddd; padding-bottom:8px;">Why Did Korean Stocks Fall Today?</h2>
+  <p>The immediate trigger came from the U.S. technology market. According to Chosun Biz, U.S. stocks weakened as concerns spread that AI infrastructure investment could slow. Reports that Meta was exploring a cloud business using surplus computing resources from its AI data centers raised questions about whether large-scale AI buildouts had moved too fast. Micron and SanDisk both fell by more than 10%, while AMD and Intel also dropped sharply.4)</p>
+  <p>That mattered for Korea because Samsung Electronics and SK hynix are not just large companies; they are central to the global memory supply chain and carry heavy weights in the KOSPI. When investors reduce exposure to memory and AI-linked semiconductors, Korea is one of the first markets to feel the shift.</p>
+  <p>For beginners, today’s decline is best understood as a sentiment reset rather than a confirmed collapse in chip fundamentals. Investors did not receive final evidence that AI demand has disappeared. Instead, they faced enough doubt to lock in profits after a very strong run. In markets, when expectations are high, even a modest question mark can create a large price move.</p>
+  <h2 style="font-size:22px; color:#111; border-bottom:2px solid #ddd; padding-bottom:8px;">Sector And Stock Highlights: Semiconductors Led The Weakness</h2>
+  <p>Samsung Electronics and SK hynix were the center of the session. SK hynix closed at 2,287,000 won, down 10.66%, while Samsung Electronics also weakened sharply and traded below the 300,000 won line during the day.1)4) Because these names represent a major share of Korea’s benchmark index, their decline made it difficult for the broader market to stabilize.</p>
+  <p>The weakness was concentrated in electrical and electronics, information technology, manufacturing, and large-cap financial or holding-company names linked to the broader risk-off mood. Some defense, shipbuilding, construction, entertainment, and securities-related stocks appeared relatively firmer during the session, but in a market like today’s, “outperforming” often means falling less rather than rising strongly.</p>
+  <p>The KOSDAQ’s sidecar was also important. It showed that selling pressure had spread beyond a few large-cap chip names into the broader growth-stock space. When both the main board and the junior board face volatility controls on the same day, investors should read it as a sign of stressed short-term liquidity and fragile confidence.3)</p>
+  <h2 style="font-size:22px; color:#111; border-bottom:2px solid #ddd; padding-bottom:8px;">Macro Context: Inflation Keeps Rate Risk In The Background</h2>
+  <p>Korea’s June inflation data added to the cautious mood. The official release showed that the consumer price index rose 0.1% from the previous month and 3.2% from a year earlier. The index excluding food and energy rose 2.5% year on year.5) Higher inflation does not automatically mean stocks must fall, but it makes the market more sensitive to the possibility that the Bank of Korea may stay cautious on policy. That tends to matter most for highly valued growth and technology shares.</p>
+  <h2 style="font-size:22px; color:#111; border-bottom:2px solid #ddd; padding-bottom:8px;">What To Watch Next</h2>
+  <h3 style="font-size:18px; color:#333; margin-top:18px;">1. Whether chip leaders stop falling</h3>
+  <p>The first test is whether Samsung Electronics and SK hynix can stop making new lows and attract stable buying. The upcoming earnings calendar also matters: Samsung Electronics is expected to release preliminary results on July 7, while SK hynix’s results are scheduled later in July.6)</p>
+  <h3 style="font-size:18px; color:#333; margin-top:18px;">2. Foreign selling and the Korean won</h3>
+  <p>Foreign investor flows are crucial for Korea because overseas funds hold large positions in the major chip names. If foreign selling continues, index rebounds may remain fragile even if individual retail investors buy dips.</p>
+  <h3 style="font-size:18px; color:#333; margin-top:18px;">3. KOSDAQ reform hopes versus actual liquidity</h3>
+  <p>The KOSDAQ still has a medium-term reform story, including efforts to improve market credibility and remove weaker listed firms. But in the near term, liquidity and confidence matter more. Investors will want to see whether policy expectations translate into real institutional and foreign buying.</p>
+  <div style="background:#fff7e6; border:1px solid #ffd58a; padding:15px 18px; margin:24px 0;">
+    <strong>Bottom Line</strong>
+    <p style="margin:8px 0 0;">Today’s Korean market close was a sharp reminder that the AI and memory-chip theme can cut both ways. The long-term demand story has not disappeared, but the market is now questioning how much optimism was already priced in. The next session is less about guessing the exact bottom and more about watching whether chip selling calms, foreign flows stabilize, and macro rate concerns stop intensifying.</p>
+  </div>
+  <p style="font-size:14px; color:#666;">This article is not an investment recommendation. It is an explanatory market report designed to help readers understand today’s trading flow.</p>
+  <h2 style="font-size:20px; color:#111; margin-top:26px;">Sources</h2>
+  <ol style="padding-left:22px;">
+    <li>Investing.com, “KOSPI Historical Data,” July 2, 2026 index data.</li>
+    <li>Investing.com, “KOSDAQ Historical Data,” July 2, 2026 index data.</li>
+    <li>Yonhap News Agency, “Sell-side sidecars triggered in KOSDAQ after KOSPI amid sharp market decline,” July 2, 2026.</li>
+    <li>Chosun Biz, “KOSPI falls below 8,000 on U.S.-led AI concerns; sell-side sidecar triggered seven minutes after open,” July 2, 2026.</li>
+    <li>Republic of Korea Policy Briefing, “June 2026 Consumer Price Trends,” July 2, 2026.</li>
+    <li>Yonhap News Agency, “KOSPI fluctuated throughout June; will July earnings season be different?”, June 27, 2026.</li>
+  </ol>
+</div>

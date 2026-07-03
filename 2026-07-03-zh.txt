@@ -1,0 +1,45 @@
+<article style="font-family:Arial, 'Noto Sans SC', sans-serif; line-height:1.75; color:#222; max-width:860px; margin:0 auto;">
+  <h1 style="font-size:28px; color:#111; margin:0 0 18px;">韩国股市7月3日收盘解读：KOSPI强劲反弹，KOSDAQ仍显疲弱</h1>
+  <p style="font-size:16px; margin:0 0 14px;">2026年7月3日的韩国股市不是一个简单的“全面上涨”行情，而是大盘权重股修复与成长股压力并存的一天。KOSPI收于8,115.91点，较前一交易日上涨467.82点，涨幅6.12%；盘中最低到7,378.10点，最高到8,135.27点，波动非常剧烈。1) 但KOSDAQ收于862.97点，下跌0.43%，说明市场资金并没有全面扩散到中小成长股。2)</p>
+  <div style="background:#f3f7fb; border-left:5px solid #2f6fab; padding:14px 16px; margin:18px 0;">
+    <strong>收盘快速摘要</strong>
+    <ul style="margin:10px 0 0 20px; padding:0;">
+      <li>KOSPI在前一日暴跌7.89%之后大幅反弹，并重新站上8,000点。1)</li>
+      <li>KOSDAQ未能同步修复，最终小幅下跌。2)</li>
+      <li>KOSPI市场中，个人和外资净卖出，机构大幅净买入。3)</li>
+      <li>三星电子和SK海力士大涨，是指数反弹的核心力量。3)</li>
+    </ul>
+  </div>
+  <h2 style="font-size:22px; color:#174a7c; margin-top:28px;">指数走势：反弹很强，但市场并不平静</h2>
+  <p>从收盘数字看，KOSPI的反弹力度相当明显。但如果看盘中走势和资金结构，就会发现市场仍处在高度敏感状态。前一日，KOSPI因AI投资过热担忧和全球半导体股下跌而重挫7.89%，三星电子和SK海力士也分别大幅下跌。4) 7月3日，低位买盘重新进场，尤其集中在指数权重较大的大型股上，推动指数快速修复。</p>
+  <p>韩国经济新闻的市场数据显示，KOSPI市场中个人净卖出2.4305万亿韩元，外资净卖出1.4110万亿韩元，而机构净买入3.8415万亿韩元。3) 这意味着今天的上涨并不是外资全面回流带来的，而是机构资金集中买入大型权重股所形成的修复行情。对于普通投资者来说，这一点很重要：指数大涨不等于市场所有板块都恢复了信心。</p>
+  <h2 style="font-size:22px; color:#174a7c; margin-top:28px;">推动市场的关键：AI担忧与降息预期同时存在</h2>
+  <p>本轮波动的核心仍然是AI和半导体。韩联社报道，Meta计划对外销售剩余计算资源的消息引发市场对大型科技公司过度投资的担忧，也让投资者重新思考半导体需求是否可能见顶。4) 同时，美国市场中美光、英伟达、博通、AMD、英特尔等半导体股票走弱，也压低了韩国科技股情绪。4)</p>
+  <p>不过，今天市场又出现了另一种支撑逻辑。Trading Economics指出，KOSPI在前一日大跌后部分修复，三星电子和SK海力士等大型半导体股反弹对指数形成支撑；同时，美国6月就业数据弱于预期，令市场对美联储未来放松政策的期待升温。5) 换句话说，投资者一方面担心AI主题过热，另一方面又看到利率压力可能缓和。这两种力量在同一天相互拉扯，形成了今天的剧烈波动。</p>
+  <h2 style="font-size:22px; color:#174a7c; margin-top:28px;">行业和代表股票：半导体修复，成长股仍承压</h2>
+  <p>今天最亮眼的是大型半导体股。三星电子收于309,500韩元，上涨8.22%；SK海力士收于2,411,000韩元，上涨10.24%。SK Square上涨3.21%，三星电子优先股上涨9.96%。3) 这些股票正是前一日拖累KOSPI下跌的主要权重股，因此今天的上涨更像是“超跌后的快速修复”。</p>
+  <p>但KOSDAQ的表现提醒投资者，市场信心还没有完全恢复。KOSDAQ早盘以875.18点开盘，最终却收在862.97点。2) 韩联社盘中报道显示，EcoPro BM、EcoPro、Alteogen、Rainbow Robotics、Jusung Engineering等二次电池、生物科技、机器人和半导体设备相关个股一度走弱，而Kolon TissueGene、HPSP等部分个股表现较强。6) 这说明资金更愿意先回到大型权重股，而不是全面追逐高波动成长板块。</p>
+  <h2 style="font-size:22px; color:#174a7c; margin-top:28px;">投资情绪：外资卖出与汇率压力仍是关键变量</h2>
+  <p>今天的反弹虽然改善了市场气氛，但外资流向仍是最大的不确定因素。Dailian报道，2026年上半年外资在KOSPI市场净卖出148.316万亿韩元，并且卖出主要集中在大型半导体股票。7) 报道还指出，韩国股市大幅上涨后的获利了结，以及韩元汇率波动带来的汇兑损失担忧，是外资流出的重要原因。7) 7月3日美元兑韩元汇率开盘为1,544.5韩元，较前一交易日下跌11.3韩元，但整体仍处在较高区间。8)</p>
+  <p>因此，今天不能简单理解为风险完全消失。更准确地说，市场认为前一天跌幅过大，机构资金选择在大型半导体股和部分权重股中买入。但如果外资继续卖出、汇率继续偏高，指数后续上涨的稳定性仍会受到考验。真正更健康的反弹，需要看到资金从少数大型股扩散到更多行业和中小成长股。</p>
+  <h2 style="font-size:22px; color:#174a7c; margin-top:28px;">下一个交易日需要观察什么</h2>
+  <ul style="margin-left:20px; padding:0;">
+    <li>第一，三星电子和SK海力士能否守住今天的大幅反弹。</li>
+    <li>第二，外资是否继续净卖出韩国股票。</li>
+    <li>第三，KOSDAQ和成长股能否跟随KOSPI修复。</li>
+    <li>第四，美元兑韩元汇率能否在1,500韩元中段附近保持稳定。</li>
+  </ul>
+  <p style="margin-top:18px;">总体来看，7月3日韩国股市的关键词是“强反弹但不均衡”。KOSPI在大型半导体股带动下明显恢复，但KOSDAQ疲弱和外资卖出说明投资者信心仍然谨慎。下一个交易日，不能只看指数是否上涨，还要看买盘是否扩散、外资是否停止流出，以及汇率是否继续给市场施压。</p>
+  <p style="font-size:14px; color:#666; border-top:1px solid #ddd; padding-top:12px;">本文并非投资建议，而是为了帮助读者理解当天市场走势的解读型报告。</p>
+  <h2 style="font-size:20px; color:#333; margin-top:24px;">资料来源</h2>
+  <ol style="margin-left:20px; padding:0;">
+    <li>Investing.com，“KOSPI Historical Data”，2026年7月3日数据。</li>
+    <li>Investing.com，“KOSDAQ Historical Data”，2026年7月3日数据。</li>
+    <li>韩国经济新闻，“KOSPI”，2026年7月3日市场数据。</li>
+    <li>韩联社，“[Market View] KOSPI below 8,000, attention on further downside vs rebound”，2026年7月3日。</li>
+    <li>Trading Economics，“South Korea Stock Market - Quote - Chart - Historical Data - News”，2026年7月3日。</li>
+    <li>韩联社，“KOSPI keeps falling on foreign selling, retreats to the 7,400 range”，2026年7月3日。</li>
+    <li>Dailian，“Foreign investors net sell 148 trillion won in first half: reasons for Sell Korea”，2026年7月3日。</li>
+    <li>Newspim，“KOSPI opens 1.20% higher at 7,739.75”，2026年7月3日。</li>
+  </ol>
+</article>

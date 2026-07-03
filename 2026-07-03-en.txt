@@ -1,0 +1,45 @@
+<article style="font-family:Arial, sans-serif; line-height:1.7; color:#222; max-width:860px; margin:0 auto;">
+  <h1 style="font-size:28px; color:#111; margin:0 0 18px;">KOSPI Rebounds Sharply While KOSDAQ Stays Weak: Korea Market Close on July 3, 2026</h1>
+  <p style="font-size:16px; margin:0 0 14px;">South Korea’s stock market on July 3, 2026 was best understood as a selective recovery rather than a broad return of confidence. The KOSPI closed at 8,115.91, up 467.82 points, or 6.12%, after swinging between 7,378.10 and 8,135.27 during the session.1) The KOSDAQ, however, closed at 862.97, down 0.43%, showing that the rebound in large-cap shares did not fully spread into growth stocks.2)</p>
+  <div style="background:#f3f7fb; border-left:5px solid #2f6fab; padding:14px 16px; margin:18px 0;">
+    <strong>Quick market summary</strong>
+    <ul style="margin:10px 0 0 20px; padding:0;">
+      <li>The KOSPI recovered the 8,000 level after the previous session’s 7.89% plunge.1)</li>
+      <li>The KOSDAQ remained under pressure and ended slightly lower.2)</li>
+      <li>Institutions were the key buyers, while individuals and foreign investors were net sellers in the KOSPI market.3)</li>
+      <li>Samsung Electronics and SK Hynix led the rebound after heavy losses a day earlier.3)</li>
+    </ul>
+  </div>
+  <h2 style="font-size:22px; color:#174a7c; margin-top:28px;">Index action: a strong rebound, but not a calm market</h2>
+  <p>The headline number looked powerful, but the day was still highly volatile. The KOSPI had fallen 7.89% on July 2 as concerns over AI-related capital spending and the global semiconductor selloff hit Korea’s two largest chip names. Samsung Electronics and SK Hynix dropped sharply in that session, dragging the broader benchmark lower.4) On July 3, dip-buying returned, especially in index-heavy large caps, and institutional investors became the most important source of support.</p>
+  <p>According to Korea Economic Daily market data, individuals sold a net 2.4305 trillion won and foreign investors sold a net 1.4110 trillion won in the KOSPI market, while institutions bought a net 3.8415 trillion won.3) That explains why the index could rise so sharply even though foreign money was still cautious. For beginner investors, the message is simple: the market did not rise because every corner of the market suddenly looked healthy. It rose because large-cap buying, especially by institutions, was strong enough to lift the benchmark.</p>
+  <h2 style="font-size:22px; color:#174a7c; margin-top:28px;">What moved the market: AI anxiety met rate-cut hopes</h2>
+  <p>The previous day’s selloff was rooted in the AI and semiconductor story. Yonhap News reported that concerns grew after reports that Meta would sell excess computing capacity externally, raising questions about overinvestment by big tech companies and the possibility that semiconductor demand might be peaking.4) U.S. chip shares were also weak, with Micron, Nvidia, Broadcom, AMD, Intel and others under pressure, which weighed on technology sentiment in Korea.4)</p>
+  <p>But July 3 brought a different interpretation. Trading Economics noted that the KOSPI recovered part of the previous day’s losses as bargain hunting lifted heavyweight semiconductor shares, including Samsung Electronics and SK Hynix. It also pointed to weaker-than-expected U.S. June jobs data, which strengthened expectations that the Federal Reserve could ease policy in the coming months.5) In plain language, investors were weighing two competing ideas: fear that the AI boom had become too crowded, and hope that softer U.S. data could make interest rates less painful for risk assets.</p>
+  <h2 style="font-size:22px; color:#174a7c; margin-top:28px;">Sector and stock highlights: semiconductors bounced, growth shares lagged</h2>
+  <p>The strongest message came from the large semiconductor names. Samsung Electronics closed at 309,500 won, up 8.22%, while SK Hynix closed at 2,411,000 won, up 10.24%. SK Square rose 3.21%, and Samsung Electronics preferred shares gained 9.96%.3) These were the same names that had been at the center of the prior day’s damage, so the rebound looked like a classic recovery from an oversold move.</p>
+  <p>The KOSDAQ told a more cautious story. It opened higher at 875.18 but ended at 862.97.2) During the session, Yonhap reported weakness in names such as EcoPro BM, EcoPro, Alteogen, Rainbow Robotics and Jusung Engineering, while some names such as Kolon TissueGene and HPSP showed strength.6) This matters because the KOSDAQ is more sensitive to growth-stock sentiment. When the KOSPI rises on a large-cap recovery but the KOSDAQ fails to join, investors should avoid reading the day as a full-market risk-on signal.</p>
+  <h2 style="font-size:22px; color:#174a7c; margin-top:28px;">Market psychology: foreign selling and the won still matter</h2>
+  <p>The rebound did not remove the larger supply concern. Dailian reported that foreign investors sold a net 148.316 trillion won of KOSPI shares in the first half of 2026, with selling concentrated in major semiconductor stocks.7) The same report cited profit-taking after Korea’s sharp rally and concern over foreign-exchange losses as important reasons for the foreign outflow.7) The won opened firmer on July 3, with the dollar-won rate starting at 1,544.5, down 11.3 won from the previous session, but the exchange rate remained in a high zone.8)</p>
+  <p>That is why the July 3 close should be read carefully. It was a welcome rebound, and it showed that investors were willing to buy the dip in Korea’s most important index names. But it was not yet proof that all risks had disappeared. The next phase will depend on whether foreign selling slows, whether the won stabilizes, and whether the chip rebound is backed by earnings confidence rather than only short-term technical buying.</p>
+  <h2 style="font-size:22px; color:#174a7c; margin-top:28px;">Next trading day: what to watch</h2>
+  <ul style="margin-left:20px; padding:0;">
+    <li>Watch whether Samsung Electronics and SK Hynix can hold their gains after the sharp rebound.</li>
+    <li>Check whether foreign investors continue selling Korean equities.</li>
+    <li>Look for signs that the KOSDAQ and growth shares are joining the recovery.</li>
+    <li>Monitor the dollar-won exchange rate, especially whether it stays stable in the mid-1,500 won range.</li>
+  </ul>
+  <p style="margin-top:18px;">In short, July 3 was a strong KOSPI rebound but not a completely clean market recovery. The large chipmakers gave the benchmark index a powerful lift, while the KOSDAQ and foreign flows reminded investors that confidence remains uneven. The next session should be judged not only by the index level, but also by the quality of buying and the breadth of participation.</p>
+  <p style="font-size:14px; color:#666; border-top:1px solid #ddd; padding-top:12px;">This article is not investment advice. It is an explanatory market commentary designed to help readers understand today’s trading flow.</p>
+  <h2 style="font-size:20px; color:#333; margin-top:24px;">Sources</h2>
+  <ol style="margin-left:20px; padding:0;">
+    <li>Investing.com, “KOSPI Historical Data,” July 3, 2026 data.</li>
+    <li>Investing.com, “KOSDAQ Historical Data,” July 3, 2026 data.</li>
+    <li>Korea Economic Daily, “KOSPI,” market data for July 3, 2026.</li>
+    <li>Yonhap News, “[Market View] KOSPI below 8,000, attention on further downside vs rebound,” July 3, 2026.</li>
+    <li>Trading Economics, “South Korea Stock Market - Quote - Chart - Historical Data - News,” July 3, 2026.</li>
+    <li>Yonhap News, “KOSPI keeps falling on foreign selling, retreats to the 7,400 range,” July 3, 2026.</li>
+    <li>Dailian, “Foreign investors net sell 148 trillion won in first half: reasons for Sell Korea,” July 3, 2026.</li>
+    <li>Newspim, “KOSPI opens 1.20% higher at 7,739.75,” July 3, 2026.</li>
+  </ol>
+</article>

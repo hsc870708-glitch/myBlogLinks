@@ -1,0 +1,51 @@
+<div style="font-family: Arial, sans-serif; line-height:1.72; color:#222; max-width:860px; margin:0 auto;">
+  <h1 style="font-size:30px; color:#111; margin:0 0 18px;">Korea Stock Market Close: Chips Earnings Hopes Meet Profit-Taking Pressure on July 6</h1>
+  <p style="font-size:16px; background:#f4f7fb; border-left:5px solid #2f6fed; padding:16px; margin:0 0 22px;">South Korea's stock market traded normally on Monday, July 6, 2026, and both major indices ended lower. The KOSPI closed at 7,951.85, down 1.69%, while the KOSDAQ finished at 846.92, down 2.47%. The session was not simply about a weak close. It was a tug of war between expectations for Samsung Electronics' second-quarter preliminary earnings and the market's need to digest last week's sharp semiconductor-driven volatility.1) 2) 3)</p>
+
+  <h2 style="font-size:23px; color:#173b6d; margin-top:28px;">1. Market Close at a Glance</h2>
+  <ul style="padding-left:20px; margin-top:10px;">
+    <li>KOSPI: 7,951.85, down 1.69%. The index opened at 8,186.82, touched an intraday high of 8,327.26, and fell as low as 7,815.53.2)</li>
+    <li>KOSDAQ: 846.92, down 2.47%. The junior market moved between 872.12 and 825.73, showing that growth-stock sentiment remained fragile.3)</li>
+    <li>Main drivers: Samsung's earnings event, SK Hynix and large-cap chip volatility, foreign investor selling pressure, and debate over whether AI infrastructure demand is still strong enough to justify elevated valuations.4) 5) 6)</li>
+  </ul>
+
+  <h2 style="font-size:23px; color:#173b6d; margin-top:28px;">2. Why the KOSPI Struggled to Hold 8,000</h2>
+  <p>For global readers, the most important point is that Korea's market has become highly sensitive to semiconductor expectations. The KOSPI started from a previous close of 8,088.34 but ended below the 8,000 line at 7,951.85. That does not mean investors abandoned the chip story. It means the market is trying to decide how much good news is already reflected in prices after a powerful rally and a violent pullback.</p>
+  <p>The KOSDAQ looked even more vulnerable. It ended at 846.92 after closing at 868.41 in the prior session. In Korea, the KOSDAQ tends to carry many smaller growth names linked to chip equipment, biotech, batteries, robotics, and software themes. When confidence in the main chip trade weakens, these smaller names often react faster and with larger percentage moves. That is why today's KOSDAQ decline matters for overall risk appetite, not just for small-cap investors.3)</p>
+
+  <h2 style="font-size:23px; color:#173b6d; margin-top:28px;">3. The Key Issue: Samsung Earnings Are Becoming a Market Event</h2>
+  <h3 style="font-size:19px; color:#333; margin-top:18px;">Samsung's numbers may set the next tone for Korean equities</h3>
+  <p>Samsung Electronics is scheduled to release its preliminary second-quarter results on July 7. Yonhap reported that the one-month brokerage consensus for Samsung's consolidated second-quarter operating profit stood at 84.5807 trillion won. The same report noted that Samsung accounted for 27.34% of KOSPI market capitalization as of the July 3 close. In other words, Samsung's earnings are not just a company-specific event. They are a direct test of whether the Korean equity market can rebuild confidence after the latest semiconductor selloff.4)</p>
+  <p>The bar is high. Dailian reported that market expectations for Samsung's second-quarter operating profit were broadly in the 86 trillion to 92 trillion won range, while some views suggested that profit could exceed 100 trillion won before one-off items such as employee bonus provisions. This is supportive for sentiment, but it also raises the risk of a “good but not good enough” reaction. When expectations are already elevated, investors focus on details: memory pricing, cost provisions, management commentary, and whether AI-related demand is still expanding.5)</p>
+
+  <h2 style="font-size:23px; color:#173b6d; margin-top:28px;">4. Semiconductors Still Lead, but the Trade Is No Longer Simple</h2>
+  <p>The recent market pattern explains today's hesitation. On July 2, the KOSPI plunged 7.89% and the KOSDAQ dropped 6.74% as large semiconductor stocks sold off sharply. Yonhap reported that foreign selling continued and that the combined value of Korea's equity market fell below the 7,000 trillion won level. The next session saw a strong rebound, helped by Samsung Electronics and SK Hynix, but today's decline shows that confidence has not fully normalized.6) 7)</p>
+  <p>For beginner investors, this is a useful lesson: strong industry fundamentals do not always produce a straight-line rally. MoneyToday reported that Korea's semiconductor exports hit a record in June, yet Samsung Electronics and SK Hynix still faced selling pressure. The reason is that stock prices respond not only to whether the news is good, but whether it is better than what the market already expected. In a crowded leadership trade, profit-taking can appear even when the long-term story remains intact.8)</p>
+
+  <h2 style="font-size:23px; color:#173b6d; margin-top:28px;">5. Sector and Stock Takeaways</h2>
+  <p>Semiconductors remained the center of the market. Samsung served as the benchmark for earnings confidence, while SK Hynix continued to represent the high-beta side of the memory-cycle trade. Chip equipment and materials names on KOSDAQ were also affected because investors often treat them as leveraged plays on the same AI and memory demand cycle.</p>
+  <p>Other sectors such as shipbuilding, defense, financials, and autos may attract attention when investors look for alternatives to the semiconductor concentration trade. Still, on a day like this, sector stories are often overpowered by broader risk control. If foreign flows remain weak or U.S. technology shares turn unstable, even sectors with their own positive narratives can struggle to separate from the index.</p>
+
+  <h2 style="font-size:23px; color:#173b6d; margin-top:28px;">6. What to Watch in the Next Session</h2>
+  <div style="background:#fff7e8; border:1px solid #f0c36d; padding:16px; margin:14px 0 22px;">
+    <p style="margin:0 0 10px;"><strong>First, watch the market's interpretation of Samsung's earnings, not just the headline number.</strong> A result above consensus would be helpful, but investors will also look at memory pricing, one-off provisions, and guidance language.4) 5)</p>
+    <p style="margin:0 0 10px;"><strong>Second, foreign investor flows remain crucial.</strong> Recent semiconductor volatility has been amplified by foreign selling. A turn in those flows would matter for the durability of any rebound.6)</p>
+    <p style="margin:0;"><strong>Third, KOSDAQ's ability to reclaim the 850 area is a sentiment check.</strong> Because today's close was 846.92, a stable move back above 850 would help restore confidence in smaller growth stocks.3)</p>
+  </div>
+
+  <h2 style="font-size:23px; color:#173b6d; margin-top:28px;">Conclusion: A Market Waiting for Proof</h2>
+  <p>July 6 was a day when optimism and caution met head-on. The earnings story around Samsung and the broader memory cycle remains strong, but the market has already priced in a great deal of good news. That makes the next session important. If Samsung confirms strong earnings quality and investors read the details positively, Korean equities could regain momentum. If not, the market may continue to rotate between bargain hunting and profit-taking.</p>
+  <p style="font-size:14px; color:#666; border-top:1px solid #ddd; padding-top:14px;">This article is not investment advice. It is an explanatory market-close report designed to help readers understand the day's Korean stock market moves.</p>
+
+  <h2 style="font-size:21px; color:#173b6d; margin-top:28px;">Sources</h2>
+  <ol style="padding-left:20px;">
+    <li>TradingHours.com, KRX Market Hours & Holidays 2026, checked July 6, 2026.</li>
+    <li>Investing.com Korea, KOSPI Historical Data, daily data for July 6, 2026.</li>
+    <li>Investing.com Korea, KOSDAQ Historical Data, daily data for July 6, 2026.</li>
+    <li>Yonhap News Agency, “Samsung Electronics' Q2 preliminary earnings draw attention as key to KOSPI rebound,” July 5, 2026.</li>
+    <li>Dailian, “Samsung Electronics Q2 operating profit near 100 trillion won; bonus provisions are key,” July 6, 2026.</li>
+    <li>Yonhap News Agency, report on the July 2 semiconductor-led KOSPI and KOSDAQ plunge, July 2, 2026.</li>
+    <li>Yonhap News Agency, Market View report on KOSPI after the sharp selloff and Samsung earnings watch, July 6, 2026.</li>
+    <li>MoneyToday, report on semiconductor price concerns, Korea's June semiconductor exports, and Samsung/SK Hynix market reaction, July 1, 2026.</li>
+  </ol>
+</div>

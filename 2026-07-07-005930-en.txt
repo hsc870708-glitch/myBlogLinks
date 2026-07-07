@@ -1,0 +1,42 @@
+<article style="font-family:Arial,'Noto Sans',sans-serif; line-height:1.7; color:#222; max-width:860px; margin:0 auto;">
+  <h1 style="font-size:28px; color:#12355b; margin-bottom:14px;">Samsung Electronics 005930 Falls 6.92% Despite Record Q2 Guidance: Why the Market Sold the News</h1>
+  <p style="font-size:16px;">Samsung Electronics became the center of Korea's market story on July 7, 2026. The company announced preliminary second-quarter revenue of KRW 171 trillion and operating profit of KRW 89.4 trillion. Revenue rose 27.74% from the previous quarter and operating profit increased 56.21%, while year-on-year growth reached 129.31% and 1,810.26%, respectively. 1) Yet the stock closed at KRW 296,000, down KRW 22,000 or 6.92% from the previous session. 2)</p>
+  <div style="background:#eef5ff; border-left:5px solid #2f6fb2; padding:16px 18px; margin:20px 0;">
+    <strong>Quick Take</strong>
+    <ul style="margin:10px 0 0 18px; padding:0;">
+      <li>Stock: Samsung Electronics common shares, KRX 005930</li>
+      <li>Close: KRW 296,000, down 6.92%</li>
+      <li>Intraday range: KRW 286,000 to KRW 310,000</li>
+      <li>Main reading: earnings were strong, but profit-taking and foreign selling dominated the session.</li>
+    </ul>
+  </div>
+  <h2 style="font-size:22px; color:#12355b;">Why did Samsung fall after such strong earnings?</h2>
+  <p>The short answer is that the market had already priced in a very strong memory-chip cycle. When the official guidance arrived, investors did not treat it as a fresh reason to buy aggressively. Instead, many used the announcement as a point to lock in gains after a powerful rally. According to Maeil Business Newspaper market data, Samsung opened at KRW 307,000, touched KRW 310,000, fell as low as KRW 286,000, and finished at KRW 296,000 with roughly 31.95 million shares traded. 2)</p>
+  <p>This is a classic "good news, weak stock" setup. For new investors, it can look contradictory. But equities move on the gap between expectation and reality, not on the headline number alone. If expectations were already very high, even excellent results can trigger selling when investors start asking whether the next quarter can improve at the same pace.</p>
+  <h2 style="font-size:22px; color:#12355b;">The broader Korean market was under stress</h2>
+  <p>Samsung's decline was not isolated. Yonhap reported that the KOSPI dropped 4.91% to 7,656.31 and the KOSDAQ fell 1.87% to 831.23. It also noted that Samsung's closing price was about 21% below its intraday high from June 19. 3) In other words, the stock was already in a correction from a recent peak, and today's earnings announcement landed in a market that was struggling with high volatility.</p>
+  <p>NewsPim described the session as a sharp selloff led by large semiconductor names, with both a sell-side program trading halt and a circuit breaker triggered during the day. It also reported that semiconductor and semiconductor-equipment shares fell 6.57%, while market commentators pointed to profit-taking after Samsung's earnings release. 4)</p>
+  <h2 style="font-size:22px; color:#12355b;">What the earnings guidance still tells investors</h2>
+  <p>The earnings signal itself remains powerful. Samsung Newsroom said the preliminary figures were prepared under Korean IFRS and provided before final closing for investor convenience. 1) The Hankyoreh reported that the KRW 89.4 trillion operating profit exceeded the market consensus compiled by FnGuide, which stood at KRW 84.8367 trillion. 5) So the day should not be read as evidence that Samsung's operating momentum suddenly weakened. Rather, the stock reaction shows that short-term positioning, valuation pressure, and foreign flows mattered more than the headline beat.</p>
+  <h2 style="font-size:22px; color:#12355b;">How investors should read the psychology</h2>
+  <p>Today's message is subtle but important. A strong semiconductor cycle can support earnings, but it can also create crowded trades. When many investors hold the same bullish view, even good news may become a selling trigger. The Korea Times/Hankook Ilbo reported that foreign investors and institutions net sold KRW 2.9299 trillion and KRW 310.8 billion worth of KOSPI shares, respectively, and that the selloff spread from large chip stocks to other heavyweight names. 6)</p>
+  <p>For Samsung, the next few sessions are likely to be about whether the market can separate business fundamentals from trading pressure. A quick rebound would show that buyers still trust the earnings cycle. A failure to recover the KRW 300,000 area may suggest that investors want more evidence on detailed segment margins, memory pricing, foundry recovery, and foreign demand before rebuilding positions.</p>
+  <h2 style="font-size:22px; color:#12355b;">Key checkpoints</h2>
+  <ul style="padding-left:20px;">
+    <li>Whether Samsung can stabilize around the KRW 290,000 to KRW 300,000 zone.</li>
+    <li>Whether foreign selling in Korean semiconductor leaders slows down.</li>
+    <li>Whether detailed Q2 results confirm broad improvement across memory, foundry, and mobile businesses.</li>
+    <li>Whether market volatility caused by leveraged products and program trading continues.</li>
+  </ul>
+  <p>Bottom line: Samsung delivered a very strong preliminary quarter, but the share price reacted to positioning rather than earnings quality. The stock is now a test of investor patience. The fundamentals look stronger than last year, but the market wants proof that the earnings peak is not already priced in.</p>
+  <h2 style="font-size:22px; color:#12355b;">Sources</h2>
+  <ol style="padding-left:20px;">
+    <li>Samsung Newsroom Korea, "Samsung Electronics Announces Preliminary Results for the Second Quarter of 2026," July 7, 2026.</li>
+    <li>Maeil Business Newspaper Market, "Samsung Electronics (005930)," quote data as of July 7, 2026, 15:33 KST.</li>
+    <li>Yonhap News Agency, "KOSPI falls 4.9% to 7,600 range after sidecar and circuit breaker," July 7, 2026.</li>
+    <li>NewsPim, "Closing market: Semiconductor leveraged ETFs deepen selloff as KOSPI drops 5%," July 7, 2026.</li>
+    <li>The Hankyoreh, "Samsung Electronics Q2 operating profit of KRW 89 trillion exceeds expectations," July 7, 2026.</li>
+    <li>Hankook Ilbo, "KOSPI shaken by foreign selling and leveraged products despite record earnings," July 7, 2026.</li>
+  </ol>
+  <p style="font-size:14px; color:#666; border-top:1px solid #ddd; padding-top:14px;">This article is not investment advice. It is an explanatory market report designed to make today's trading action easier to understand.</p>
+</article>

@@ -1,0 +1,65 @@
+<article style="font-family: Arial, sans-serif; line-height:1.75; color:#222; max-width:860px; margin:0 auto;">
+  <h1 style="font-size:28px; color:#111; margin-bottom:14px;">South Korea Market Close on July 7, 2026: KOSPI Slumps as the AI Chip Trade Faces a Hard Valuation Test</h1>
+  <p style="font-size:16px; margin:0 0 14px 0;">South Korea’s equity market was open for regular trading on Tuesday, July 7, 2026, and the session quickly turned into a stress test for one of this year’s most powerful trades: AI-linked semiconductor stocks. The headline looks simple, because the KOSPI fell sharply. The more important story is more subtle. Samsung Electronics delivered a record preliminary profit figure, but investors still sold the market because they began asking whether the good news had already been priced in.</p>
+  <p style="font-size:16px; margin:0 0 18px 0;">Trading Economics showed the KOSPI at 7,479.09 on July 7, down 7.11% from the previous session. The KOSDAQ also weakened, with TradingView showing a one-day move of -2.46% after the market had closed. This means the pressure was heaviest in large-cap technology shares, but risk appetite across the broader growth market also deteriorated. 1) 5)</p>
+
+  <div style="background:#f4f7fb; border-left:4px solid #2f5f9f; padding:16px 18px; margin:22px 0;">
+    <h2 style="font-size:21px; margin:0 0 10px 0; color:#1f3f6f;">Market Close at a Glance</h2>
+    <ul style="margin:0; padding-left:20px;">
+      <li>The KOSPI dropped more than 7% as investors sold major AI and semiconductor names. 1)</li>
+      <li>The Korea Exchange triggered a 20-minute circuit breaker at around 1:51 p.m. after the KOSPI fell more than 8% from the previous close. 2)</li>
+      <li>Samsung Electronics reported a record preliminary operating profit of KRW 89.4 trillion, but the stock still came under pressure as investors treated the result as a sell-the-news event. 3) 7)</li>
+      <li>SK Hynix, SK Square, LG Energy Solution, Hyundai Motor, shipbuilding, and defense-related shares also weakened, showing that the selloff was broader than one single stock. 1) 4)</li>
+    </ul>
+  </div>
+
+  <h2 style="font-size:23px; color:#111; margin-top:26px;">Why Did the Market Fall Despite Strong Samsung Earnings?</h2>
+  <p>The key question for international readers is why a record profit report did not support the Korean market. According to the Associated Press report carried by WSLS, Samsung Electronics said operating income surged to KRW 89.4 trillion in the latest quarter, helped by strong demand linked to AI chips and memory products. On paper, this was a strong corporate signal. In market terms, however, investors had already spent months bidding up AI and memory-related stocks, so the result became a moment for verification rather than celebration. 3)</p>
+  <p>When expectations are extremely high, even very good news can fail to lift share prices. The market does not only ask whether earnings are strong today. It asks whether earnings can keep improving fast enough to justify the current valuation. That is why the July 7 session should not be read simply as a rejection of Korea’s semiconductor story. It was more like the first serious test of how much optimism the market can still absorb.</p>
+
+  <h2 style="font-size:23px; color:#111; margin-top:26px;">The Circuit Breaker Showed How Quickly Sentiment Turned</h2>
+  <p>Yonhap News Agency reported that the Korea Exchange halted trading in KOSPI-listed shares for 20 minutes at around 1:51 p.m. after the index fell more than 8% from the prior session’s close. A circuit breaker is designed to slow down panic selling and give investors time to reassess prices. Its activation made clear that the day was not just a normal pullback but a sudden risk-reduction move across the market. 2)</p>
+  <p>The selling pressure came from several overlapping factors. Investors locked in gains after a powerful AI-led rally. Heavyweight technology shares, especially Samsung Electronics and SK Hynix, had become unusually important to the index. Derivative and passive flows may also have amplified the move, a risk highlighted by Yonhap in its late-June coverage of Korea’s volatile equity market. 2) 6)</p>
+
+  <h2 style="font-size:23px; color:#111; margin-top:26px;">Sector and Stock Highlights</h2>
+  <h3 style="font-size:19px; color:#333; margin-top:18px;">Semiconductors: Still Strong Fundamentally, but Under Valuation Pressure</h3>
+  <p>Trading Economics noted declines in major Korean names including Samsung Electronics, SK Hynix, SK Square, Hyundai Motor, HD Hyundai Heavy Industries, Hanwha Aerospace, and Kia. Samsung fell even after its strong preliminary result, while SK Hynix remained in focus ahead of its planned U.S. listing. The AP report said SK Hynix was aiming to raise about $28 billion through shares that would trade on Nasdaq, making investor appetite for AI-linked Korean chip exposure an even more important issue. 1) 3)</p>
+  <p>The long-term AI chip demand story has not disappeared. Data centers, high-bandwidth memory, and server DRAM remain important growth drivers. But the market is now asking a tougher question: if earnings are already excellent, what must happen next for these stocks to keep rising? That question explains why a strong earnings headline did not automatically become a positive stock-price catalyst.</p>
+
+  <h3 style="font-size:19px; color:#333; margin-top:18px;">Batteries, Shipbuilding, and Defense: Risk-Off Mood Spread Beyond Chips</h3>
+  <p>Battery shares were also weak. Trading Economics pointed to LG Energy Solution’s quarterly operating profit falling short of market expectations, reinforcing concerns about slower global electric-vehicle demand. This matters because batteries had already been struggling with demand uncertainty and pricing pressure, so a weaker earnings signal made investors less willing to take risk in the sector. 1)</p>
+  <p>Shipbuilding and defense shares also lost momentum. EToday’s market page reported that Hanwha Ocean fell sharply after expectations around a Canadian submarine project weakened, and related defense stocks such as Hanwha Systems and Hanwha Aerospace also came under pressure. That added another layer of weakness to a market already shaken by large-cap technology selling. 7)</p>
+
+  <h3 style="font-size:19px; color:#333; margin-top:18px;">KOSDAQ: Growth Stocks Could Not Escape the Risk-Off Tone</h3>
+  <p>The KOSDAQ did not experience the same large-cap semiconductor concentration as the KOSPI, but it is sensitive to growth-stock sentiment. TradingView showed the KOSDAQ down 2.46% on a one-day basis after the market close. Aju Press reported during the session that some biotech names such as Alteogen, HLB, and ABL Bio showed relative strength, while EcoPro BM, EcoPro, Rainbow Robotics, and Wonik IPS were weak. This mix suggests that the market did not simply sell everything, but investors clearly became more selective. 4) 5)</p>
+
+  <h2 style="font-size:23px; color:#111; margin-top:26px;">Investor Psychology: This Was More About Expectations Than Bad Earnings</h2>
+  <p>The most useful way to read the session is to separate fundamentals from positioning. Fundamentals in the semiconductor sector still look strong, at least based on Samsung’s preliminary result. Positioning, however, looked stretched. When too much money crowds into the same theme, even a small change in confidence can create a large price move. That is what appeared to happen in Korea today.</p>
+  <p>For newer investors, this is a helpful lesson. A company can report good numbers and still see its share price fall if investors expected even more, or if the positive news had already been priced into the stock. Today’s Korean market showed exactly that dynamic. The market was not only judging earnings; it was judging whether the AI-led rally had run too far too quickly.</p>
+
+  <h2 style="font-size:23px; color:#111; margin-top:26px;">What to Watch Next</h2>
+  <ul style="padding-left:20px;">
+    <li>Whether the KOSPI can stabilize around the 7,400 to 7,500 area after the sharp decline. 1)</li>
+    <li>Whether Samsung Electronics and SK Hynix can regain support after the sell-the-news reaction. 3)</li>
+    <li>Whether foreign and institutional selling continues after the circuit breaker session. 2) 4)</li>
+    <li>Whether money rotates into non-semiconductor sectors such as biotech, batteries, shipbuilding, or defense, or whether risk aversion spreads further. 1) 7)</li>
+    <li>How global investors respond to SK Hynix’s planned U.S. listing and to U.S. AI semiconductor stocks. 3)</li>
+  </ul>
+
+  <div style="background:#fff7e8; border-left:4px solid #d89200; padding:16px 18px; margin:24px 0;">
+    <p style="margin:0;">In short, the Korean stock market on July 7 was hit less by weak corporate news and more by the fear that expectations had become too high. The AI semiconductor story remains important, but the market is now demanding proof that record profits can keep supporting record valuations.</p>
+  </div>
+
+  <p style="font-size:14px; color:#555;">This article is an explanatory market commentary, not a recommendation to buy or sell any security.</p>
+
+  <h2 style="font-size:22px; color:#111; margin-top:28px;">Sources</h2>
+  <ol style="padding-left:20px; font-size:14px; color:#444;">
+    <li>Trading Economics, “South Korea Stock Market - Quote - Chart - Historical Data - News,” checked July 7, 2026.</li>
+    <li>Yonhap News Agency, “Bourse operator issues circuit breaker for KOSPI on sharp fall,” July 7, 2026, 13:55.</li>
+    <li>Associated Press via WSLS, “Asian markets retreat after rebounding AI stocks send the S&amp;P 500 to brink of a new record,” July 7, 2026.</li>
+    <li>Aju Press, “KOSPI Plummets Over 5%, Triggering Sell Sidecar as It Falls Below 7600,” July 7, 2026, 14:08.</li>
+    <li>TradingView, “KOSDAQ Composite Index,” one-day performance checked after the July 7, 2026 market close.</li>
+    <li>Yonhap News Agency, “6월 한달 내내 출렁인 코스피…실적 시즌 7월에는 다를까,” June 28, 2026.</li>
+    <li>EToday Market News, Samsung preliminary earnings, Hanwha Ocean, and defense-stock market updates, checked July 7, 2026.</li>
+  </ol>
+</article>
